@@ -6,15 +6,14 @@
   left: 0;
   right: 0;
   z-index: 2;
-  display: inline-flex;
+  display: flex;
   justify-content: space-around;
-  height: 100px;
   align-items: center;
   transition: 0.5s ease;
   color: #fff;
   height: 65px;
   box-shadow: 0px 1px 4px #888888;
-  background-color: #ffff;
+  background-color: #fff;
 }
 .logo {
   height: 40px;
@@ -31,6 +30,14 @@
   position: relative;
   margin: 0 20px;
 }
+/* Khi hover vào nav-item, hiển thị sub-nav con tuong ung*/
+.nav-items-container > li:hover > .sub-nav {
+  display: block;
+}
+/*Vi co 2 cap nen lam nhu vay neu nhieu cap hon thi se lam cach khac*/
+.sub-nav li:hover > .sub-nav {
+  display: block;
+}
 .nav-item {
   text-decoration: none;
   position: relative;
@@ -38,6 +45,7 @@
   font-weight: 600;
   color: #000;
 }
+
 .nav-item-icon {
   margin-left: 4px;
   font-size: 15px;
@@ -46,11 +54,10 @@
 }
 
 .nav-items-container li:hover > .nav-item {
-  color: #686868 !important;
+  color: var(--primary) !important;
 }
-.nav-items-container ul.sub-nav li:hover > a
-/*.nav-items-container ul.sub-nav li:hover*/ {
-  color: #686868;
+.nav-items-container ul.sub-nav li:hover > a {
+  color: var(--primary);
   background-color: #f0f0f0;
 }
 .nav-media-item,
@@ -63,7 +70,7 @@
   align-items: center;
 }
 .nav-media-icon:hover {
-  color: #5a5a5a;
+  color: var(--primary);
 }
 .nav-media-icon {
   line-height: 48px;
@@ -91,18 +98,15 @@
   line-height: 30px;
   padding: 0 8px;
   font-size: 12px;
-}
-ul.sub-nav li i {
-  font-size: 12px;
-  position: absolute;
-  right: 8px;
-  top: 8px;
+  &-icon {
+    font-size: 12px;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+  }
 }
 .nav-items-container ul.sub-nav ul.sub-nav {
   left: 128px;
   top: 0;
   position: absolute;
-}
-#checkbox-login:checked ~ .login-container {
-  display: flex;
 }
