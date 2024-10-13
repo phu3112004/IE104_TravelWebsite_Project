@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import styles from "./MenuItem.module.scss";
 import classNames from "classnames/bind";
 const cx = classNames.bind(styles);
@@ -18,7 +19,7 @@ function MenuItem({ item }) {
       onMouseEnter={handleHover}
       onMouseLeave={handleHover}
     >
-      <a href={item.link || "#"} className={cx("nav-item")}>
+      <Link to={item.link || "/"} className={cx("nav-item")}>
         {item.title}
         {item.subMenu && (
           <FontAwesomeIcon
@@ -26,7 +27,7 @@ function MenuItem({ item }) {
             className={cx("nav-item-icon")}
           />
         )}
-      </a>
+      </Link>
       {item.subMenu && isOpen && (
         <ul className={cx("sub-nav")}>
           {item.subMenu.map((subItem, index) => (

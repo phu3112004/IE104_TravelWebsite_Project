@@ -6,7 +6,7 @@ import MenuItem from "./MenuItem";
 import { menuData } from "../../config/menuData";
 import { menuMediaData } from "../../config/menuMediaData";
 import MenuMedia from "./MenuMedia/MenuMedia";
-
+import { Link } from "react-router-dom";
 import classNames from "classnames/bind";
 const cx = classNames.bind(styles);
 
@@ -17,13 +17,14 @@ function Header() {
   }
   return (
     <div className={cx("nav-container")}>
-      <a href="index.html" className={cx("logo")}>
+      <Link to="/" className={cx("logo")}>
         <img src={logo} alt="logo" />
-      </a>
+      </Link>
       <ul className={cx("nav-items-container")}>
-        {menuData.map((item, index) => (
-          <MenuItem key={index} item={item} />
-        ))}
+        {menuData.map((item, index) => {
+          console.log(item);
+          return <MenuItem key={index} item={item} />;
+        })}
       </ul>
       <div className={cx("nav-media")}>
         {menuMediaData.map((item, index) => (
