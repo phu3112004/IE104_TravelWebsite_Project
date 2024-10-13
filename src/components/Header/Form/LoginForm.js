@@ -8,7 +8,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
 
-import styles from "./Login.module.scss";
+import styles from "./Form.module.scss";
 import classNames from "classnames/bind";
 const cx = classNames.bind(styles);
 
@@ -18,7 +18,7 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
     setIsPasswordShowed(!isPasswordShowed);
   }
   return (
-    <div className={cx("login-area")} onClick={stopPropagation}>
+    <form className={cx("login-area")} onClick={stopPropagation}>
       <div className={cx("login-close")} onClick={onShow}>
         <FontAwesomeIcon icon={faXmark} className={cx("login-close-icon")} />
       </div>
@@ -59,15 +59,15 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
       </div>
       <div className={cx("login-tele")}>
         <p>Don't have an account?</p>
-        <a onClick={onChangeForm}>Sign up</a>
+        <button onClick={onChangeForm}>Sign up</button>
       </div>
       <div className={cx("login-tele")}>
         <p>By clicking continue, you agree to our</p>
-        <a href="#">Terms of Service</a>
+        <button>Terms of Service</button>
         <p>and</p>
-        <a href="#">Privacy Policy</a>
+        <button>Privacy Policy</button>
       </div>
-    </div>
+    </form>
   );
 }
 

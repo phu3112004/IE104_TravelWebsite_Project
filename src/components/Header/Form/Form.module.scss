@@ -33,14 +33,7 @@
     font-size: 12px;
   }
 }
-@keyframes floatIn {
-  from {
-    transform: translateY(100%);
-  }
-  to {
-    transform: translateY(0);
-  }
-}
+
 .login-close {
   position: absolute;
   top: -8px;
@@ -158,18 +151,32 @@
 }
 
 .login-tele p,
-.login-tele a {
+.login-tele button {
   margin: 0 4px;
   white-space: nowrap;
 }
 
-.login-tele a {
+.login-tele button {
   color: #000000;
   text-decoration: none;
   font-weight: 600;
+  font-size: 12px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  transform: translateY(0.5px);
   cursor: pointer;
 }
 
-.login-tele a:hover {
+.login-tele button:hover {
   color: #cf3339;
+}
+
+@keyframes floatIn {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
 }

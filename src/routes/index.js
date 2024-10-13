@@ -5,8 +5,13 @@ import Destination from "../pages/Destination";
 import Explore from "../pages/Explore";
 import Hotel from "../pages/Explore/Hotel";
 import Adventure from "../pages/Explore/Adventure";
+import AdventureDetail from "../pages/Explore/Adventure/AdventureDetail";
 import Blog from "../pages/Blog";
 import NotFound from "../pages/NotFound";
+import DestinationDetail from "../pages/Destination/DestinationDetail";
+import Scenery from "../pages/Scenery";
+import Tour from "../pages/Tour";
+import TourDetail from "../pages/Tour/TourDetail";
 export const publicRoutes = [
   {
     path: "/",
@@ -25,6 +30,10 @@ export const publicRoutes = [
     component: Destination,
   },
   {
+    path: "/destination/:country",
+    component: DestinationDetail,
+  },
+  {
     path: "/explore",
     component: Explore,
   },
@@ -37,8 +46,24 @@ export const publicRoutes = [
     component: Adventure,
   },
   {
+    path: "/adventure/:type",
+    component: AdventureDetail,
+  },
+  {
     path: "/blog",
     component: Blog,
+  },
+  {
+    path: "/scenery",
+    component: Scenery,
+  },
+  {
+    path: "/tour",
+    component: Tour,
+  },
+  {
+    path: "/tour/:tourID",
+    component: TourDetail,
   },
   {
     path: "*",

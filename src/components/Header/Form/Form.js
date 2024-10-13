@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import styles from "./Login.module.scss";
+import styles from "./Form.module.scss";
 import classNames from "classnames/bind";
 import LoginForm from "./LoginForm";
 import SignupForm from "./SignupForm";

@@ -3,8 +3,6 @@ import { publicRoutes } from "./routes";
 import DefaultLayout from "./layouts/DefaulfLayout";
 import { Fragment } from "react";
 function App() {
-  console.log(process.env.PORT);
-
   return (
     <BrowserRouter>
       <Routes>
