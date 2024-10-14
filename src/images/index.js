@@ -1,2 +1,3 @@
-import logo from "./logo-black.png";
-export { logo };
+import logoBlack from "./logo-black.png";
+import logoWhite from "./logo-white.png";
+export { logoBlack, logoWhite };

@@ -37,7 +37,7 @@ export const menuData = [
           { title: "Korea", link: "/destination/Korea" },
           { title: "France", link: "/destination/France" },
           { title: "USA", link: "/destination/USA" },
-          { title: "All-Countries", link: "/destination" },
+          { title: "All Countries", link: "/destination" },
         ],
       },
     ],

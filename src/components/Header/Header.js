@@ -1,7 +1,6 @@
 import { useState } from "react";
-import { logo } from "../../images";
-import { menuData } from "../../config/menuData";
-import { menuMediaData } from "../../config/menuMediaData";
+import { logoBlack } from "../../images";
+import { menuData, menuMediaData } from "../../config";
 import { Link } from "react-router-dom";
 import MenuMedia from "./MenuMedia/MenuMedia";
 import MenuItem from "./MenuItem";
@@ -24,7 +23,7 @@ function Header() {
   return (
     <div className={cx("nav-container")}>
       <Link to="/" className={cx("logo")}>
-        <img src={logo} alt="logo" />
+        <img src={logoBlack} alt="logo" />
       </Link>
       <ul className={cx("nav-items-container")}>
         {menuData.map((item, index) => {
