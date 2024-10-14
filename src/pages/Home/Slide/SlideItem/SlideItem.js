@@ -1,5 +1,6 @@
 import classNames from "classnames/bind";
 import styles from "../Slide.module.scss";
+import { Link } from "react-router-dom";
 
 const cx = classNames.bind(styles);
 function SlideItem({ item }) {
@@ -13,7 +14,7 @@ function SlideItem({ item }) {
       <div className={cx("content")}>
         <div className={cx("name")}>{item.name}</div>
         <div className={cx("des")}>{item.des}</div>
-        <a href="#">See More</a>
+        <Link to={`/destination/${item.name}`}>See More</Link>
       </div>
     </div>
   );

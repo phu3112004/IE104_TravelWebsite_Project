@@ -25,8 +25,8 @@ export const adventureData = [
   },
 ];
 export const destinationData = [
-  "USA",
   "France",
+  "USA",
   "Japan",
   "China",
   "Vietnam",

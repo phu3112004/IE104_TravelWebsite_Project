@@ -6,7 +6,7 @@ import classNames from "classnames/bind";
 import { useState } from "react";
 const cx = classNames.bind(styles);
 function TourAdventure() {
-  const [type, setType] = useState("Whitewater Rafting");
+  const [type, setType] = useState("Kayaking");
   function handleSlide(name) {
     setType(name);
   }
@@ -27,7 +27,7 @@ function TourAdventure() {
       </div>
       <div className={cx("tour-detail")}>
         {adventureData.map((item, index) => {
-          if (item.name === type)
+          if (item.name === type) {
             return (
               <div key={index} className={cx("tour-detail-item")}>
                 <h1>{item.name}</h1>
@@ -35,6 +35,8 @@ function TourAdventure() {
                 <Link to={`/adventure/${item.name}`}>View more details</Link>
               </div>
             );
+          }
+          return null;
         })}
       </div>
       <div className={cx("tour-adventure-more")}>

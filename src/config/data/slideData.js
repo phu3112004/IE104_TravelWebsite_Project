@@ -2,8 +2,14 @@ export const slideData = [
   {
     name: "Vietnam",
     image:
-      "https://vcdn1-dulich.vnecdn.net/2022/05/26/cung-9276-1653564521.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=7dZFqEL1WXnThF-GUnlwRw",
+      "https://cdn.tcdulichtphcm.vn/upload/1-2024/images/2024-01-14/1705248310-411391798_744413577728691_5271726863132662388_n.jpg",
     des: "Relax on pristine beaches, explore ornate temples, and sample mouthwatering street food in Vietnam, a land of tropical beauty and warm hospitality.",
+  },
+  {
+    name: "France",
+    image:
+      "https://vnn-imgs-f.vgcloud.vn/2022/03/04/16/vi-sao-phap-la-quoc-gia-duoc-nhieu-du-khach-ghe-tham-nhat-the-gioi-1.jpg",
+    des: "Explore the romantic streets of Paris, indulge in exquisite cuisine, and marvel at iconic landmarks like the Eiffel Tower and Louvre Museum.",
   },
   {
     name: "Japan",
@@ -24,12 +30,6 @@ export const slideData = [
     des: "Discover the wonders of China, from the Great Wall and Forbidden City in Beijing to the vibrant metropolis of Shanghai and the breathtaking landscapes of Guilin.",
   },
 
-  {
-    name: "France",
-    image:
-      "https://vnn-imgs-f.vgcloud.vn/2022/03/04/16/vi-sao-phap-la-quoc-gia-duoc-nhieu-du-khach-ghe-tham-nhat-the-gioi-1.jpg",
-    des: "Explore the romantic streets of Paris, indulge in exquisite cuisine, and marvel at iconic landmarks like the Eiffel Tower and Louvre Museum.",
-  },
   {
     name: "USA",
     image:

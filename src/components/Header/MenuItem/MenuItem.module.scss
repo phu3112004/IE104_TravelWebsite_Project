@@ -16,7 +16,7 @@
     font-size: 14px;
     transition: color 0.3s ease;
     &:hover {
-      color: var(--primary);
+      color: var(--primary) !important;
     }
     .nav-item-icon {
       margin-left: 8px;

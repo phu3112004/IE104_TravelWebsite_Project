@@ -6,7 +6,7 @@ import styles from "./MenuItem.module.scss";
 import classNames from "classnames/bind";
 const cx = classNames.bind(styles);
 
-function MenuItem({ item }) {
+function MenuItem({ item, isHomePage = false, isScrolled = false }) {
   const [isOpen, setIsOpen] = useState(false);
 
   const handleHover = () => {
@@ -19,7 +19,11 @@ function MenuItem({ item }) {
       onMouseEnter={handleHover}
       onMouseLeave={handleHover}
     >
-      <Link to={item.link || "/"} className={cx("nav-item")}>
+      <Link
+        to={item.link || "/"}
+        className={cx("nav-item")}
+        style={{ color: isHomePage && !isScrolled ? "white" : "#333" }}
+      >
         {item.title}
         {item.subMenu && (
           <FontAwesomeIcon

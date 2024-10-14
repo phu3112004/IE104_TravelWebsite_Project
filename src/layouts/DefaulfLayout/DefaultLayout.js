@@ -1,3 +1,4 @@
+import BackToTop from "../../components/BackToTop";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 function DefaultLayout({ children }) {
@@ -5,6 +6,7 @@ function DefaultLayout({ children }) {
     <>
       <Header />
       <div> {children}</div>
+      <BackToTop />
       <Footer />
     </>
   );
