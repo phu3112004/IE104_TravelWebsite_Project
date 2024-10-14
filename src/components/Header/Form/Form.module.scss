@@ -151,12 +151,14 @@
 }
 
 .login-tele p,
-.login-tele button {
+.login-tele button,
+.login-tele a {
   margin: 0 4px;
   white-space: nowrap;
 }
 
-.login-tele button {
+.login-tele button,
+.login-tele a {
   color: #000000;
   text-decoration: none;
   font-weight: 600;
@@ -168,7 +170,8 @@
   cursor: pointer;
 }
 
-.login-tele button:hover {
+.login-tele button:hover,
+.login-tele a:hover {
   color: #cf3339;
 }
 

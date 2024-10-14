@@ -1,9 +1,8 @@
-import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+import Slide from "./Slide";
 function Home() {
   return (
     <div>
-      <h1>day la home</h1>
+      <Slide />
     </div>
   );
 }

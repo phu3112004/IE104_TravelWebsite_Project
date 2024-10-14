@@ -10,6 +10,7 @@ import { useState } from "react";
 
 import styles from "./Form.module.scss";
 import classNames from "classnames/bind";
+import Policy from "./Policy";
 const cx = classNames.bind(styles);
 
 function LoginForm({ stopPropagation, onChangeForm, onShow }) {
@@ -61,12 +62,7 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
         <p>Don't have an account?</p>
         <button onClick={onChangeForm}>Sign up</button>
       </div>
-      <div className={cx("login-tele")}>
-        <p>By clicking continue, you agree to our</p>
-        <button>Terms of Service</button>
-        <p>and</p>
-        <button>Privacy Policy</button>
-      </div>
+      <Policy />
     </form>
   );
 }
