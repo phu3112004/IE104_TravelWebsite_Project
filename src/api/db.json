@@ -1,7 +1,65 @@
 {
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
+  "tours": [
+    {
+      "name": "Sunset Kayak Adventure on Crystal Lake",
+      "image": "https://www.oars.com/wp-content/uploads/2015/12/LOD-featured-410x232.webp",
+      "type": "Kayaking",
+      "day": "3 Days",
+      "rate": "4.8",
+      "reviews": "90",
+      "location": "USA",
+      "level": "Easy",
+      "age": "12",
+      "price": "220"
+    },
+    {
+      "name": "Sunset Kayak Adventure on Crystal Lake",
+      "image": "https://www.oars.com/wp-content/uploads/2015/12/LOD-featured-410x232.webp",
+      "type": "Kayaking",
+      "day": "3 Days",
+      "rate": "4.8",
+      "reviews": "90",
+      "location": "USA",
+      "level": "Easy",
+      "age": "12",
+      "price": "220"
+    },
+    {
+      "name": "Sunset Kayak Adventure on Crystal Lake",
+      "image": "https://www.oars.com/wp-content/uploads/2015/12/LOD-featured-410x232.webp",
+      "type": "Kayaking",
+      "day": "3 Days",
+      "rate": "4.8",
+      "reviews": "90",
+      "location": "USA",
+      "level": "Easy",
+      "age": "12",
+      "price": "220"
+    },
+    {
+      "name": "Sunset Kayak Adventure on Crystal Lake",
+      "image": "https://www.oars.com/wp-content/uploads/2015/12/LOD-featured-410x232.webp",
+      "type": "Kayaking",
+      "day": "3 Days",
+      "rate": "4.8",
+      "reviews": "90",
+      "location": "USA",
+      "level": "Easy",
+      "age": "12",
+      "price": "220"
+    },
+    {
+      "name": "Sunset Kayak Adventure on Crystal Lake",
+      "image": "https://www.oars.com/wp-content/uploads/2015/12/LOD-featured-410x232.webp",
+      "type": "Kayaking",
+      "day": "3 Days",
+      "rate": "4.8",
+      "reviews": "90",
+      "location": "USA",
+      "level": "Easy",
+      "age": "12",
+      "price": "220"
+    }
   ],
   "comments": [
     { "id": "1", "text": "a comment about post 1", "postId": "1" },

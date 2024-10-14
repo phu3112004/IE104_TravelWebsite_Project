@@ -1,7 +1,7 @@
 import classNames from "classnames/bind";
 import styles from "./Slide.module.scss";
 import SlideItem from "./SlideItem";
-import { slideData } from "../../../config";
+import { slideData } from "../../../config/data";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faChevronLeft,

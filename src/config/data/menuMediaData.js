@@ -9,7 +9,6 @@ import {
 export const menuMediaData = [
   {
     name: "Search",
-    href: "#",
     icon: faMagnifyingGlass,
   },
   {

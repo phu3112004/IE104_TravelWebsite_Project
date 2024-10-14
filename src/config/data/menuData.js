@@ -11,7 +11,7 @@ export const menuData = [
           { title: "Kayaking", link: "/adventure/Kayaking" },
           {
             title: "Whitewater Rafting",
-            link: "/adventure/Whitewater-Rafting",
+            link: "/adventure/Whitewater Rafting",
           },
           { title: "Camping", link: "/adventure/Camping" },
           { title: "Multi-Sport", link: "/adventure/Multi-Sport" },

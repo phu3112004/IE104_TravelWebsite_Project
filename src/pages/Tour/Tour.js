@@ -1,5 +1,11 @@
+import TourItem from "../../components/TourItem/TourItem";
+
 function Tour() {
-  return <h1>All Tours</h1>;
+  return (
+    <div style={{ display: "block" }}>
+      <TourItem />
+    </div>
+  );
 }
 
 export default Tour;

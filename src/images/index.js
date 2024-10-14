@@ -1,3 +1,5 @@
 import logoBlack from "./logo-black.png";
 import logoWhite from "./logo-white.png";
-export { logoBlack, logoWhite };
+import tourAdventureBG from "./tour-adventure-bg.jpg";
+
+export { logoBlack, logoWhite, tourAdventureBG };

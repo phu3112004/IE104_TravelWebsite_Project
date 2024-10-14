@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { logoWhite } from "../../images";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPhone, faEnvelope, faHome } from "@fortawesome/free-solid-svg-icons";
-import { menuMediaData } from "../../config";
+import { menuMediaData } from "../../config/data";
 import MenuMedia from "../Header/MenuMedia/MenuMedia";
 
 import classNames from "classnames/bind";

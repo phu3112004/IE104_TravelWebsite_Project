@@ -4,6 +4,7 @@ import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 import styles from "./Search.module.scss";
 import classNames from "classnames/bind";
 const cx = classNames.bind(styles);
+
 function Search({ onShow, isShow }) {
   function stopPropagation(event) {
     event.stopPropagation();
@@ -20,7 +21,7 @@ function Search({ onShow, isShow }) {
           type="text"
           placeholder="Search destination...."
         />
-        <button className={cx("search-button")}>
+        <button type="button" className={cx("search-button")}>
           <FontAwesomeIcon icon={faMagnifyingGlass} />
         </button>
       </div>

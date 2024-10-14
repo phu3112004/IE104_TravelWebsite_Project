@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { logoBlack } from "../../images";
-import { menuData, menuMediaData } from "../../config";
+import { menuData, menuMediaData } from "../../config/data";
 import { Link } from "react-router-dom";
 import MenuMedia from "./MenuMedia/MenuMedia";
 import MenuItem from "./MenuItem";

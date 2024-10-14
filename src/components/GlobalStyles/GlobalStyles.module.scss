@@ -9,3 +9,11 @@ a {
 :root {
   --primary: #cf3339;
 }
+@keyframes fadeOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
