@@ -7,15 +7,17 @@ import styles from "./TourItem.module.scss";
 import classNames from "classnames/bind";
 const cx = classNames.bind(styles);
 
-function TourItem() {
+function TourItem({ start, limit }) {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  var api = tours_link;
   useEffect(() => {
+    if (start && limit) api = api + "?" + `_start=${start}&_limit=${limit}`;
     const fetchData = async () => {
       try {
-        const response = await fetch(tours_link);
+        const response = await fetch(api);
         if (!response.ok) {
           throw new Error("Network response was not ok");
         }
@@ -28,8 +30,8 @@ function TourItem() {
       }
     };
 
-    fetchData(); // gọi hàm
-  }, []);
+    fetchData();
+  }, [start, limit, api]);
 
   if (loading) {
     return <div>Loading...</div>;
@@ -40,9 +42,9 @@ function TourItem() {
   }
 
   return (
-    <div className={cx("tour-item")}>
+    <>
       {data.map((item, index) => (
-        <div className={cx("tour-item-container")}>
+        <div key={index} className={cx("tour-item-container")}>
           <div className={cx("tour-item-img")}>
             <img src={item.image} alt={item.name} />
           </div>
@@ -81,7 +83,7 @@ function TourItem() {
           </div>
         </div>
       ))}
-    </div>
+    </>
   );
 }
 

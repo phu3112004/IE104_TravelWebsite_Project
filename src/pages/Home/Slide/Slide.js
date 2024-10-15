@@ -12,25 +12,21 @@ import { useState } from "react";
 const cx = classNames.bind(styles);
 
 function Slide() {
-  const [slides, setSlides] = useState(slideData);
-
   const handleNextSlide = () => {
-    var newSlides = [...slides];
-    var firstSlide = newSlides.shift();
-    newSlides.push(firstSlide);
-    setSlides(newSlides);
+    const slidesContainer = document.getElementById("slide");
+    const slides = slidesContainer.children;
+    slidesContainer.appendChild(slides[0]);
   };
   const handlePrevSlide = () => {
-    var newSlides = [...slides];
-    var firstSlide = newSlides.pop();
-    newSlides.unshift(firstSlide);
-    setSlides(newSlides);
+    const slidesContainer = document.getElementById("slide");
+    const slides = slidesContainer.children;
+    slidesContainer.prepend(slides[slides.length - 1]);
   };
 
   return (
     <div className={cx("slide-container")}>
-      <div className={cx("slide")}>
-        {slides.map((item, index) => (
+      <div id="slide" className={cx("slide")}>
+        {slideData.map((item, index) => (
           <SlideItem key={index} item={item} />
         ))}
       </div>
