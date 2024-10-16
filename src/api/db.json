@@ -652,7 +652,7 @@
     },
     {
       "name": "Kansai Multi-sport Challenge",
-      "image": "https://www.kansaimultisport.com/wp-content/uploads/2020/03/kansai-multisport.jpg",
+      "image": "https://wmg2027.jp/en/games/img/showcase-sports23.jpg",
       "type": "Multi-sport",
       "day": "7 Days",
       "rate": "4.95",
@@ -1344,7 +1344,2341 @@
       "author": "Oliver Young"
     }
   ],
-  "hotels": {
-    "name": "typicode"
-  }
+  "hotels": [
+    {
+      "name": "Grand Palace Hotel",
+      "location": "Paris, France",
+      "rating": "4.7",
+      "reviews": "1250",
+      "price_per_night": "350",
+      "amenities": ["Free WiFi", "Spa", "Gym", "Restaurant", "Room Service"],
+      "description": "Located in the heart of Paris, the Grand Palace Hotel offers luxurious accommodations with elegant interiors. Guests can enjoy a fine dining experience at the on-site gourmet restaurant and unwind at the exclusive spa. The hotel is within walking distance of iconic landmarks such as the Eiffel Tower and Louvre Museum.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Ocean Breeze Resort",
+      "location": "Miami, USA",
+      "rating": "4.8",
+      "reviews": "987",
+      "price_per_night": "450",
+      "amenities": [
+        "Beachfront",
+        "Pool",
+        "Bar",
+        "Free Breakfast",
+        "Free Parking"
+      ],
+      "description": "Ocean Breeze Resort offers a premium seaside experience with breathtaking ocean views. Perfect for families and couples, the resort features spacious rooms, direct beach access, and a large outdoor pool area. Guests can enjoy a complimentary breakfast and evening cocktails at the beachside bar.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Mountain View Lodge",
+      "location": "Da Lat, Vietnam",
+      "rating": "4.6",
+      "reviews": "600",
+      "price_per_night": "120",
+      "amenities": [
+        "Free WiFi",
+        "Hiking Tours",
+        "Mountain Views",
+        "Restaurant",
+        "Airport Shuttle"
+      ],
+      "description": "Mountain View Lodge provides a tranquil getaway nestled in the hills of Da Lat. Ideal for nature lovers, this lodge offers hiking tours and scenic views of the surrounding mountains. Guests can relax in cozy rooms with balconies overlooking the valleys. The lodge is also a short drive from local attractions like the Flower Park and Xuan Huong Lake.",
+      "type": "Boutique",
+      "check_in_time": "13:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Tokyo Central Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.5",
+      "reviews": "850",
+      "price_per_night": "220",
+      "amenities": [
+        "Free WiFi",
+        "Gym",
+        "Rooftop Bar",
+        "Restaurant",
+        "Business Center"
+      ],
+      "description": "Located in the bustling district of Shinjuku, Tokyo Central Hotel provides modern accommodations with state-of-the-art amenities. The rooftop bar offers stunning views of the city skyline, and the hotel is just steps away from major shopping centers and public transportation. Ideal for both business travelers and tourists.",
+      "type": "Business",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Seaside Haven Hotel",
+      "location": "Phu Quoc, Vietnam",
+      "rating": "4.9",
+      "reviews": "400",
+      "price_per_night": "300",
+      "amenities": ["Beachfront", "Pool", "Spa", "Free Breakfast", "Free WiFi"],
+      "description": "Seaside Haven Hotel is a luxurious beachfront property located on the pristine shores of Phu Quoc Island. Guests can enjoy a relaxing vacation with access to the hotel's private beach, an infinity pool, and a world-class spa. The hotel also offers a variety of water sports activities and dining options featuring local seafood.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Korean Palace Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.4",
+      "reviews": "530",
+      "price_per_night": "200",
+      "amenities": ["Free WiFi", "Gym", "Spa", "Free Parking", "Restaurant"],
+      "description": "Korean Palace Hotel offers a blend of traditional Korean hospitality with modern conveniences. The hotel is located in the vibrant district of Gangnam, providing easy access to shopping, dining, and cultural attractions. Guests can relax in spacious rooms and enjoy on-site dining that serves both local and international cuisine.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Shanghai Riverside Inn",
+      "location": "Shanghai, China",
+      "rating": "4.3",
+      "reviews": "780",
+      "price_per_night": "180",
+      "amenities": [
+        "Free WiFi",
+        "River Views",
+        "Restaurant",
+        "Free Parking",
+        "Business Center"
+      ],
+      "description": "Situated along the banks of the Huangpu River, Shanghai Riverside Inn offers scenic river views and a peaceful atmosphere. This boutique hotel provides modern rooms with all the necessary amenities for a comfortable stay. Guests can enjoy riverside dining at the on-site restaurant and explore nearby attractions like The Bund and Yu Garden.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Zen Retreat Hotel",
+      "location": "Kyoto, Japan",
+      "rating": "4.8",
+      "reviews": "430",
+      "price_per_night": "400",
+      "amenities": [
+        "Free WiFi",
+        "Hot Springs",
+        "Garden Views",
+        "Restaurant",
+        "Spa"
+      ],
+      "description": "Zen Retreat Hotel is a peaceful sanctuary located in the cultural heart of Kyoto. Surrounded by traditional gardens, the hotel offers a unique blend of modern luxury and historical charm. Guests can unwind in the natural hot springs, enjoy Japanese tea ceremonies, and explore nearby temples and shrines.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Cityscape Hotel",
+      "location": "New York, USA",
+      "rating": "4.7",
+      "reviews": "1120",
+      "price_per_night": "500",
+      "amenities": ["Rooftop Pool", "Gym", "Spa", "Restaurant", "Free WiFi"],
+      "description": "Cityscape Hotel offers a luxurious experience in the heart of Manhattan, with panoramic views of the New York City skyline. The rooftop pool is a popular spot for guests to relax after a day of sightseeing. The hotel features world-class dining, a state-of-the-art gym, and easy access to Broadway shows, Central Park, and the best shopping in the city.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Countryside Cottage Inn",
+      "location": "Provence, France",
+      "rating": "4.5",
+      "reviews": "370",
+      "price_per_night": "150",
+      "amenities": [
+        "Free Breakfast",
+        "Garden Views",
+        "Pet-Friendly",
+        "Free Parking",
+        "Bicycle Rentals"
+      ],
+      "description": "Countryside Cottage Inn is a charming and cozy escape nestled in the picturesque region of Provence. Ideal for couples and families, the inn offers rooms with garden views, complimentary breakfast, and bicycle rentals for exploring the nearby vineyards and villages. Guests can enjoy the tranquil setting and friendly, personalized service.",
+      "type": "Boutique",
+      "check_in_time": "13:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Grand Palace Hotel",
+      "location": "Paris, France",
+      "rating": "4.7",
+      "reviews": "890",
+      "price_per_night": "450",
+      "amenities": [
+        "Free WiFi",
+        "Rooftop Bar",
+        "Restaurant",
+        "Spa",
+        "Business Center"
+      ],
+      "description": "Grand Palace Hotel in Paris offers luxurious rooms with a classic Parisian flair. Guests can enjoy stunning views of the Eiffel Tower from the rooftop bar, dine in the hotel's Michelin-star restaurant, and relax in the spa after a day of sightseeing in the city.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Bayview Resort",
+      "location": "Miami, USA",
+      "rating": "4.8",
+      "reviews": "1200",
+      "price_per_night": "380",
+      "amenities": [
+        "Private Beach",
+        "Infinity Pool",
+        "Free Breakfast",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Bayview Resort in Miami offers a tropical retreat with stunning views of the Atlantic Ocean. Guests can relax on the resort's private beach, swim in the infinity pool, or indulge in a spa treatment. The resort is perfect for beach lovers looking for a luxury experience.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Sakura Garden Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.6",
+      "reviews": "670",
+      "price_per_night": "320",
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Fitness Center",
+        "Spa",
+        "Shuttle Service"
+      ],
+      "description": "Sakura Garden Hotel is located in the heart of Tokyo, offering a tranquil escape with its beautiful gardens. The hotel blends traditional Japanese design with modern amenities, providing a serene space for relaxation after exploring the bustling city.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Seoul Sky Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.5",
+      "reviews": "780",
+      "price_per_night": "300",
+      "amenities": [
+        "Rooftop Pool",
+        "Free WiFi",
+        "Gym",
+        "Spa",
+        "Business Center"
+      ],
+      "description": "Seoul Sky Hotel offers a modern and luxurious stay in the heart of Seoul. With its rooftop pool and panoramic views of the city skyline, guests can enjoy both relaxation and excitement in one of Korea's most dynamic cities.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Halong Bay Retreat",
+      "location": "Ha Long, Vietnam",
+      "rating": "4.9",
+      "reviews": "1020",
+      "price_per_night": "270",
+      "amenities": [
+        "Boat Tours",
+        "Private Balcony",
+        "Spa",
+        "Free Breakfast",
+        "Free WiFi"
+      ],
+      "description": "Halong Bay Retreat offers an immersive experience in the world-famous Ha Long Bay. Guests can enjoy boat tours through the limestone islands, unwind on their private balcony, or indulge in a spa treatment while taking in the stunning natural scenery.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Golden Dragon Hotel",
+      "location": "Beijing, China",
+      "rating": "4.7",
+      "reviews": "840",
+      "price_per_night": "340",
+      "amenities": ["Free WiFi", "Restaurant", "Gym", "Spa", "Business Center"],
+      "description": "Golden Dragon Hotel is located near the historical heart of Beijing. With modern amenities and traditional Chinese design elements, this hotel provides a comfortable stay for both leisure and business travelers. Guests can explore the nearby Forbidden City and enjoy a relaxing evening at the hotel spa.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Sunset Beach Resort",
+      "location": "California, USA",
+      "rating": "4.8",
+      "reviews": "980",
+      "price_per_night": "290",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Infinity Pool",
+        "Gym",
+        "Free Parking"
+      ],
+      "description": "Located along the stunning California coast, Sunset Beach Resort offers a perfect getaway for beach lovers. With a private beach, infinity pool, and luxurious amenities, guests can relax and unwind in this beautiful oceanfront resort.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Louvre Chic Hotel",
+      "location": "Paris, France",
+      "rating": "4.6",
+      "reviews": "820",
+      "price_per_night": "400",
+      "amenities": [
+        "Free WiFi",
+        "Spa",
+        "Restaurant",
+        "Fitness Center",
+        "Room Service"
+      ],
+      "description": "Louvre Chic Hotel is just steps away from the iconic Louvre Museum. With elegantly designed rooms and top-notch amenities, this hotel provides a refined Parisian experience. Guests can enjoy gourmet dining and relaxing spa treatments after a day exploring the city.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Hanoi Heritage Hotel",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.7",
+      "reviews": "790",
+      "price_per_night": "210",
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Spa",
+        "Free Parking",
+        "Airport Shuttle"
+      ],
+      "description": "Hanoi Heritage Hotel is located in the Old Quarter, offering a blend of traditional Vietnamese charm and modern comfort. Guests can explore nearby cultural landmarks such as Hoan Kiem Lake and the Temple of Literature, while enjoying luxurious accommodations.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Kyoto Zen Retreat",
+      "location": "Kyoto, Japan",
+      "rating": "4.9",
+      "reviews": "950",
+      "price_per_night": "400",
+      "amenities": [
+        "Traditional Tea Ceremony",
+        "Garden Views",
+        "Spa",
+        "Free Breakfast",
+        "Free WiFi"
+      ],
+      "description": "Kyoto Zen Retreat offers a peaceful escape in the cultural capital of Japan. The hotel is surrounded by serene gardens and offers traditional Japanese experiences such as tea ceremonies. Guests can immerse themselves in the tranquility of Kyoto while staying in luxurious accommodations.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Ocean Breeze Resort",
+      "location": "Los Angeles, USA",
+      "rating": "4.6",
+      "reviews": "1100",
+      "price_per_night": "320",
+      "amenities": [
+        "Beach Access",
+        "Outdoor Pool",
+        "Free WiFi",
+        "Restaurant",
+        "Spa"
+      ],
+      "description": "Ocean Breeze Resort offers stunning views of the Pacific Ocean with direct access to a private beach. Guests can relax by the pool, enjoy gourmet dining, and unwind with a variety of spa treatments, all while soaking in the beauty of Southern California.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Le Château Elegance",
+      "location": "Nice, France",
+      "rating": "4.9",
+      "reviews": "600",
+      "price_per_night": "480",
+      "amenities": [
+        "Infinity Pool",
+        "Sea View Rooms",
+        "Free Breakfast",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Located on the French Riviera, Le Château Elegance offers luxurious accommodations with breathtaking views of the Mediterranean Sea. The hotel boasts an infinity pool, gourmet dining options, and a world-class spa to ensure a perfect retreat for travelers.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Saigon Riverside Hotel",
+      "location": "Ho Chi Minh City, Vietnam",
+      "rating": "4.8",
+      "reviews": "930",
+      "price_per_night": "250",
+      "amenities": [
+        "Riverside View",
+        "Free Parking",
+        "Fitness Center",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Saigon Riverside Hotel is ideally located along the Saigon River, providing serene views and luxurious accommodations. Guests can enjoy Vietnamese cuisine at the in-house restaurant, explore the city's vibrant streets, or relax in the rooftop bar with river views.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Haeundae Paradise Hotel",
+      "location": "Busan, Korea",
+      "rating": "4.7",
+      "reviews": "880",
+      "price_per_night": "290",
+      "amenities": [
+        "Beachfront",
+        "Infinity Pool",
+        "Spa",
+        "Fitness Center",
+        "Free Breakfast"
+      ],
+      "description": "Situated on Haeundae Beach, Paradise Hotel in Busan offers a luxurious coastal experience with modern amenities. Guests can relax by the infinity pool, enjoy beach activities, or indulge in a spa treatment after a day of sightseeing in this vibrant city.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Imperial Garden Hotel",
+      "location": "Beijing, China",
+      "rating": "4.6",
+      "reviews": "750",
+      "price_per_night": "350",
+      "amenities": [
+        "Garden View Rooms",
+        "Restaurant",
+        "Free Parking",
+        "Business Center",
+        "Spa"
+      ],
+      "description": "The Imperial Garden Hotel in Beijing offers a blend of modern luxury and traditional Chinese design. Guests can explore the beautiful gardens, dine in the hotel's renowned restaurant, or unwind in the spa. The hotel is conveniently located near Beijing's historical landmarks.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Tokyo Tower Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.9",
+      "reviews": "980",
+      "price_per_night": "410",
+      "amenities": [
+        "Rooftop Bar",
+        "Free WiFi",
+        "Gym",
+        "Spa",
+        "Airport Shuttle"
+      ],
+      "description": "Tokyo Tower Hotel is a luxurious destination offering panoramic views of the Tokyo skyline. With elegant rooms, fine dining, and top-tier amenities, it provides the perfect base for exploring the city. The hotel is located near popular attractions such as the Tokyo Tower and Roppongi Hills.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "The Golden Pavilion",
+      "location": "Kyoto, Japan",
+      "rating": "4.8",
+      "reviews": "900",
+      "price_per_night": "360",
+      "amenities": [
+        "Garden Views",
+        "Traditional Tea Ceremony",
+        "Free WiFi",
+        "Spa",
+        "Free Breakfast"
+      ],
+      "description": "The Golden Pavilion offers a traditional Japanese experience with a touch of luxury. Guests can enjoy peaceful garden views, participate in a tea ceremony, or relax in the hotel's spa. The property is located near the famous Kinkaku-ji (Golden Pavilion Temple).",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Phu Quoc Island Resort",
+      "location": "Phu Quoc, Vietnam",
+      "rating": "4.9",
+      "reviews": "1050",
+      "price_per_night": "300",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Spa",
+        "Outdoor Pool",
+        "Airport Shuttle"
+      ],
+      "description": "Phu Quoc Island Resort is a tropical paradise located on Vietnam's largest island. Guests can enjoy the private beach, explore the island's natural beauty, or relax in the resort's luxurious spa. The resort offers a serene escape with top-tier amenities.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Elegance Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.7",
+      "reviews": "780",
+      "price_per_night": "340",
+      "amenities": [
+        "Free WiFi",
+        "Fitness Center",
+        "Restaurant",
+        "Business Center",
+        "Spa"
+      ],
+      "description": "Located in the heart of Shanghai, Elegance Hotel combines modern comfort with traditional Chinese design. The hotel offers spacious rooms, excellent dining options, and convenient access to the city's famous shopping streets and cultural landmarks.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Napa Valley Retreat",
+      "location": "California, USA",
+      "rating": "4.9",
+      "reviews": "820",
+      "price_per_night": "430",
+      "amenities": [
+        "Vineyard Tours",
+        "Wine Tasting",
+        "Spa",
+        "Outdoor Pool",
+        "Free Breakfast"
+      ],
+      "description": "Nestled in the famous Napa Valley, this retreat offers an exquisite experience for wine lovers. Guests can enjoy vineyard tours, wine tastings, and luxurious spa treatments, all while surrounded by the scenic beauty of Northern California's wine country.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "The Eiffel Charm",
+      "location": "Paris, France",
+      "rating": "4.8",
+      "reviews": "1320",
+      "price_per_night": "450",
+      "amenities": [
+        "Eiffel Tower View",
+        "Free Breakfast",
+        "Luxury Spa",
+        "Rooftop Bar",
+        "Free WiFi"
+      ],
+      "description": "Situated near the iconic Eiffel Tower, The Eiffel Charm offers luxury accommodations with stunning city views. Guests can enjoy exquisite dining, a relaxing spa, and a rooftop bar, making it the perfect spot to experience Parisian charm.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Jeju Island Retreat",
+      "location": "Jeju, Korea",
+      "rating": "4.7",
+      "reviews": "720",
+      "price_per_night": "270",
+      "amenities": [
+        "Mountain View",
+        "Free WiFi",
+        "Outdoor Pool",
+        "Spa",
+        "Restaurant"
+      ],
+      "description": "Jeju Island Retreat is nestled in the beautiful landscape of Jeju Island, offering guests a peaceful escape with modern amenities. Explore the island's famous beaches and volcanoes, then return to the resort for a rejuvenating spa experience.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Tokyo Skytree Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.9",
+      "reviews": "980",
+      "price_per_night": "400",
+      "amenities": [
+        "Skytree View",
+        "Rooftop Pool",
+        "Spa",
+        "Free WiFi",
+        "Business Center"
+      ],
+      "description": "Offering spectacular views of the Tokyo Skytree, this hotel provides modern comfort in the heart of Tokyo. The rooftop pool, luxurious spa, and close proximity to shopping and entertainment make it an ideal choice for travelers.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hanoi Old Quarter Hotel",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.6",
+      "reviews": "640",
+      "price_per_night": "180",
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Free Breakfast",
+        "City View",
+        "Spa"
+      ],
+      "description": "Located in the historic Old Quarter, this hotel offers a unique blend of traditional Vietnamese charm and modern amenities. Guests can explore the bustling streets of Hanoi, then relax with a massage at the in-house spa.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Shanghai Riverside Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.7",
+      "reviews": "870",
+      "price_per_night": "380",
+      "amenities": [
+        "River View Rooms",
+        "Free Breakfast",
+        "Spa",
+        "Business Center",
+        "Fitness Center"
+      ],
+      "description": "The Shanghai Riverside Hotel offers guests a luxurious experience along the city's historic river. With stunning views, world-class dining, and easy access to shopping districts, it's a perfect base for exploring the city.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Golden Sands Resort",
+      "location": "Da Nang, Vietnam",
+      "rating": "4.9",
+      "reviews": "980",
+      "price_per_night": "320",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Fitness Center"
+      ],
+      "description": "Located on the pristine beaches of Da Nang, Golden Sands Resort offers a relaxing beachfront escape. Guests can enjoy sunbathing, spa treatments, and gourmet Vietnamese cuisine while taking in breathtaking views of the South China Sea.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Mount Fuji Retreat",
+      "location": "Fujikawaguchiko, Japan",
+      "rating": "4.8",
+      "reviews": "600",
+      "price_per_night": "380",
+      "amenities": [
+        "Mountain View",
+        "Hot Springs",
+        "Spa",
+        "Restaurant",
+        "Free WiFi"
+      ],
+      "description": "Set against the backdrop of Mount Fuji, this tranquil retreat offers guests a unique combination of natural beauty and luxury. The onsen (hot springs) and traditional Japanese dining are highlights of this peaceful getaway.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Beijing Palace Hotel",
+      "location": "Beijing, China",
+      "rating": "4.7",
+      "reviews": "850",
+      "price_per_night": "360",
+      "amenities": [
+        "Historic Architecture",
+        "Free Breakfast",
+        "Spa",
+        "Fitness Center",
+        "Free WiFi"
+      ],
+      "description": "This hotel combines modern luxury with traditional Chinese architecture in the heart of Beijing. Close to the Forbidden City and Tiananmen Square, it offers the perfect blend of culture, history, and contemporary comfort.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Côte d'Azur Escape",
+      "location": "Nice, France",
+      "rating": "4.9",
+      "reviews": "920",
+      "price_per_night": "520",
+      "amenities": [
+        "Sea View",
+        "Free Breakfast",
+        "Spa",
+        "Infinity Pool",
+        "Rooftop Bar"
+      ],
+      "description": "Located on the French Riviera, this hotel offers a luxurious escape with stunning views of the Mediterranean. Guests can enjoy gourmet dining, spa treatments, and a relaxing infinity pool, all while basking in the beauty of the Côte d'Azur.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Manhattan Skyline Hotel",
+      "location": "New York, USA",
+      "rating": "4.8",
+      "reviews": "1100",
+      "price_per_night": "470",
+      "amenities": [
+        "Rooftop Lounge",
+        "City View",
+        "Free Breakfast",
+        "Gym",
+        "Free WiFi"
+      ],
+      "description": "Offering breathtaking views of the New York skyline, this hotel is located in the heart of Manhattan. Perfect for both business and leisure travelers, it features a rooftop lounge, gym, and close proximity to iconic landmarks like Times Square and Central Park.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Grand Seoul Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.7",
+      "reviews": "920",
+      "price_per_night": "350",
+      "amenities": [
+        "City View",
+        "Spa",
+        "Indoor Pool",
+        "Fitness Center",
+        "Free WiFi"
+      ],
+      "description": "Located in the heart of Seoul, the Grand Seoul Hotel offers a luxurious stay with panoramic views of the city's skyline. Enjoy world-class dining, a full-service spa, and a fitness center with an indoor pool for the ultimate relaxation.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nha Trang Bay Resort",
+      "location": "Nha Trang, Vietnam",
+      "rating": "4.8",
+      "reviews": "1050",
+      "price_per_night": "320",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Overlooking the stunning Nha Trang Bay, this resort is a paradise for beach lovers. Guests can enjoy private beach access, refreshing poolside cocktails, and relaxing spa treatments while soaking in breathtaking ocean views.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Cityview Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.6",
+      "reviews": "860",
+      "price_per_night": "280",
+      "amenities": [
+        "City View",
+        "Business Center",
+        "Free Breakfast",
+        "Spa",
+        "Fitness Center"
+      ],
+      "description": "A sophisticated hotel in the heart of Shanghai, ideal for business and leisure travelers alike. With elegant rooms offering sweeping city views, a state-of-the-art business center, and excellent dining options, this hotel provides everything you need for a productive or relaxing stay.",
+      "type": "Business",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Champs-Élysées Retreat",
+      "location": "Paris, France",
+      "rating": "4.9",
+      "reviews": "980",
+      "price_per_night": "600",
+      "amenities": [
+        "Eiffel Tower View",
+        "Luxury Spa",
+        "Gourmet Restaurant",
+        "Free Breakfast",
+        "Rooftop Bar"
+      ],
+      "description": "Located near the iconic Champs-Élysées, this luxury hotel offers an elegant Parisian experience. Featuring a rooftop bar with stunning Eiffel Tower views, a gourmet restaurant, and a full-service spa, it's the perfect destination for a romantic getaway or luxurious city break.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Kyoto Bamboo Grove Inn",
+      "location": "Kyoto, Japan",
+      "rating": "4.7",
+      "reviews": "670",
+      "price_per_night": "340",
+      "amenities": [
+        "Traditional Onsen",
+        "Free WiFi",
+        "Free Breakfast",
+        "Garden View",
+        "Spa"
+      ],
+      "description": "Immerse yourself in traditional Japanese culture at the Kyoto Bamboo Grove Inn. Located near the famous Arashiyama Bamboo Forest, this serene inn offers peaceful garden views, an onsen (hot spring), and beautifully designed Japanese-style rooms.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "California Coastline Resort",
+      "location": "Los Angeles, USA",
+      "rating": "4.8",
+      "reviews": "1250",
+      "price_per_night": "480",
+      "amenities": [
+        "Private Beach",
+        "Outdoor Pool",
+        "Free WiFi",
+        "Free Breakfast",
+        "Spa"
+      ],
+      "description": "Perched on the breathtaking California coastline, this resort offers a perfect blend of relaxation and adventure. With direct beach access, luxurious spa services, and gourmet dining, it's the ideal place to enjoy Southern California's beauty.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Ha Long Bay Boutique Hotel",
+      "location": "Ha Long, Vietnam",
+      "rating": "4.9",
+      "reviews": "890",
+      "price_per_night": "290",
+      "amenities": [
+        "Bay View",
+        "Free Breakfast",
+        "Spa",
+        "Fitness Center",
+        "Rooftop Bar"
+      ],
+      "description": "Located in the heart of Ha Long Bay, this boutique hotel offers breathtaking views of the UNESCO World Heritage site. The rooftop bar, luxurious rooms, and close proximity to the bay's famous limestone islands make it a perfect destination for nature lovers and explorers.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Osaka Urban Escape",
+      "location": "Osaka, Japan",
+      "rating": "4.7",
+      "reviews": "830",
+      "price_per_night": "380",
+      "amenities": [
+        "City View",
+        "Free WiFi",
+        "Spa",
+        "Fitness Center",
+        "Business Center"
+      ],
+      "description": "Located in the bustling city of Osaka, this hotel offers modern comfort with stunning views of the city skyline. Perfect for business travelers and tourists alike, it features a spa, fitness center, and excellent dining options.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Cannes Luxury Resort",
+      "location": "Cannes, France",
+      "rating": "4.9",
+      "reviews": "1100",
+      "price_per_night": "550",
+      "amenities": [
+        "Private Beach",
+        "Spa",
+        "Infinity Pool",
+        "Free Breakfast",
+        "Rooftop Lounge"
+      ],
+      "description": "This luxury resort on the French Riviera offers stunning views of the Mediterranean Sea. With private beach access, a luxurious spa, and a rooftop infinity pool, it's the perfect spot for a high-end coastal retreat.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Miami Oceanfront Suites",
+      "location": "Miami, USA",
+      "rating": "4.7",
+      "reviews": "1350",
+      "price_per_night": "410",
+      "amenities": [
+        "Ocean View",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Located on the beautiful Miami Beach, this hotel offers spacious oceanfront suites and a range of amenities for a relaxing stay. Enjoy the vibrant nightlife, beach access, and world-class dining Miami has to offer.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Grand Seoul Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.7",
+      "reviews": "920",
+      "price_per_night": "350",
+      "amenities": [
+        "City View",
+        "Spa",
+        "Indoor Pool",
+        "Fitness Center",
+        "Free WiFi"
+      ],
+      "description": "Located in the heart of Seoul, the Grand Seoul Hotel offers a luxurious stay with panoramic views of the city's skyline. Enjoy world-class dining, a full-service spa, and a fitness center with an indoor pool for the ultimate relaxation.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nha Trang Bay Resort",
+      "location": "Nha Trang, Vietnam",
+      "rating": "4.8",
+      "reviews": "1050",
+      "price_per_night": "320",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Overlooking the stunning Nha Trang Bay, this resort is a paradise for beach lovers. Guests can enjoy private beach access, refreshing poolside cocktails, and relaxing spa treatments while soaking in breathtaking ocean views.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Cityview Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.6",
+      "reviews": "860",
+      "price_per_night": "280",
+      "amenities": [
+        "City View",
+        "Business Center",
+        "Free Breakfast",
+        "Spa",
+        "Fitness Center"
+      ],
+      "description": "A sophisticated hotel in the heart of Shanghai, ideal for business and leisure travelers alike. With elegant rooms offering sweeping city views, a state-of-the-art business center, and excellent dining options, this hotel provides everything you need for a productive or relaxing stay.",
+      "type": "Business",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Champs-Élysées Retreat",
+      "location": "Paris, France",
+      "rating": "4.9",
+      "reviews": "980",
+      "price_per_night": "600",
+      "amenities": [
+        "Eiffel Tower View",
+        "Luxury Spa",
+        "Gourmet Restaurant",
+        "Free Breakfast",
+        "Rooftop Bar"
+      ],
+      "description": "Located near the iconic Champs-Élysées, this luxury hotel offers an elegant Parisian experience. Featuring a rooftop bar with stunning Eiffel Tower views, a gourmet restaurant, and a full-service spa, it's the perfect destination for a romantic getaway or luxurious city break.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Kyoto Bamboo Grove Inn",
+      "location": "Kyoto, Japan",
+      "rating": "4.7",
+      "reviews": "670",
+      "price_per_night": "340",
+      "amenities": [
+        "Traditional Onsen",
+        "Free WiFi",
+        "Free Breakfast",
+        "Garden View",
+        "Spa"
+      ],
+      "description": "Immerse yourself in traditional Japanese culture at the Kyoto Bamboo Grove Inn. Located near the famous Arashiyama Bamboo Forest, this serene inn offers peaceful garden views, an onsen (hot spring), and beautifully designed Japanese-style rooms.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "California Coastline Resort",
+      "location": "Los Angeles, USA",
+      "rating": "4.8",
+      "reviews": "1250",
+      "price_per_night": "480",
+      "amenities": [
+        "Private Beach",
+        "Outdoor Pool",
+        "Free WiFi",
+        "Free Breakfast",
+        "Spa"
+      ],
+      "description": "Perched on the breathtaking California coastline, this resort offers a perfect blend of relaxation and adventure. With direct beach access, luxurious spa services, and gourmet dining, it's the ideal place to enjoy Southern California's beauty.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Ha Long Bay Boutique Hotel",
+      "location": "Ha Long, Vietnam",
+      "rating": "4.9",
+      "reviews": "890",
+      "price_per_night": "290",
+      "amenities": [
+        "Bay View",
+        "Free Breakfast",
+        "Spa",
+        "Fitness Center",
+        "Rooftop Bar"
+      ],
+      "description": "Located in the heart of Ha Long Bay, this boutique hotel offers breathtaking views of the UNESCO World Heritage site. The rooftop bar, luxurious rooms, and close proximity to the bay's famous limestone islands make it a perfect destination for nature lovers and explorers.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Osaka Urban Escape",
+      "location": "Osaka, Japan",
+      "rating": "4.7",
+      "reviews": "830",
+      "price_per_night": "380",
+      "amenities": [
+        "City View",
+        "Free WiFi",
+        "Spa",
+        "Fitness Center",
+        "Business Center"
+      ],
+      "description": "Located in the bustling city of Osaka, this hotel offers modern comfort with stunning views of the city skyline. Perfect for business travelers and tourists alike, it features a spa, fitness center, and excellent dining options.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Cannes Luxury Resort",
+      "location": "Cannes, France",
+      "rating": "4.9",
+      "reviews": "1100",
+      "price_per_night": "550",
+      "amenities": [
+        "Private Beach",
+        "Spa",
+        "Infinity Pool",
+        "Free Breakfast",
+        "Rooftop Lounge"
+      ],
+      "description": "This luxury resort on the French Riviera offers stunning views of the Mediterranean Sea. With private beach access, a luxurious spa, and a rooftop infinity pool, it's the perfect spot for a high-end coastal retreat.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Miami Oceanfront Suites",
+      "location": "Miami, USA",
+      "rating": "4.7",
+      "reviews": "1350",
+      "price_per_night": "410",
+      "amenities": [
+        "Ocean View",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Located on the beautiful Miami Beach, this hotel offers spacious oceanfront suites and a range of amenities for a relaxing stay. Enjoy the vibrant nightlife, beach access, and world-class dining Miami has to offer.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Tokyo Bay Luxury Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.9",
+      "reviews": "980",
+      "price_per_night": "450",
+      "amenities": [
+        "Bay View",
+        "Free WiFi",
+        "Rooftop Bar",
+        "Spa",
+        "Indoor Pool"
+      ],
+      "description": "Overlooking Tokyo Bay, this luxury hotel provides a perfect mix of elegance and modern comfort. With a rooftop bar, luxurious spa, and stunning views of the waterfront, it’s an excellent choice for both leisure and business travelers.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hoi An Riverside Resort",
+      "location": "Hoi An, Vietnam",
+      "rating": "4.8",
+      "reviews": "870",
+      "price_per_night": "270",
+      "amenities": [
+        "Riverside View",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Nestled along the Thu Bon River, this resort offers a tranquil escape with easy access to the ancient town of Hoi An. Guests can enjoy the serene riverside atmosphere, relaxing spa treatments, and explore the cultural heritage of Hoi An.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Beijing Imperial Hotel",
+      "location": "Beijing, China",
+      "rating": "4.7",
+      "reviews": "920",
+      "price_per_night": "320",
+      "amenities": [
+        "City View",
+        "Business Center",
+        "Fitness Center",
+        "Free Breakfast",
+        "Spa"
+      ],
+      "description": "Located in the heart of Beijing, this hotel combines traditional Chinese architecture with modern amenities. It’s an ideal choice for travelers wanting to explore the city’s historic landmarks while enjoying premium accommodations.",
+      "type": "Business",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Cannes Seaside Suites",
+      "location": "Cannes, France",
+      "rating": "4.9",
+      "reviews": "1020",
+      "price_per_night": "520",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Spa",
+        "Infinity Pool",
+        "Rooftop Lounge"
+      ],
+      "description": "This luxury hotel in Cannes offers a pristine beach, spacious suites, and high-end amenities. It’s perfect for travelers looking to experience the glamour of the French Riviera with its stunning views and proximity to film festival venues.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Busan Beach Resort",
+      "location": "Busan, Korea",
+      "rating": "4.8",
+      "reviews": "950",
+      "price_per_night": "360",
+      "amenities": [
+        "Beachfront",
+        "Outdoor Pool",
+        "Free Breakfast",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Located on Busan’s famous Haeundae Beach, this resort offers beachfront luxury with stunning ocean views. Guests can enjoy the outdoor pool, premium dining, and direct access to the lively beach scene.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "New York Skyline Hotel",
+      "location": "New York, USA",
+      "rating": "4.6",
+      "reviews": "1150",
+      "price_per_night": "400",
+      "amenities": [
+        "City View",
+        "Rooftop Bar",
+        "Free WiFi",
+        "Fitness Center",
+        "Business Center"
+      ],
+      "description": "Situated in the heart of Manhattan, this modern hotel offers stunning skyline views and easy access to New York's iconic landmarks. It's the perfect choice for both business travelers and tourists looking to experience the city that never sleeps.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Phu Quoc Island Resort",
+      "location": "Phu Quoc, Vietnam",
+      "rating": "4.9",
+      "reviews": "890",
+      "price_per_night": "310",
+      "amenities": [
+        "Private Beach",
+        "Spa",
+        "Outdoor Pool",
+        "Free Breakfast",
+        "Fitness Center"
+      ],
+      "description": "A tropical paradise located on the pristine beaches of Phu Quoc Island. This resort offers guests the ultimate relaxation with a private beach, luxurious spa services, and stunning sunset views over the Gulf of Thailand.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nice Coastal Retreat",
+      "location": "Nice, France",
+      "rating": "4.8",
+      "reviews": "950",
+      "price_per_night": "460",
+      "amenities": [
+        "Private Beach",
+        "Free Breakfast",
+        "Spa",
+        "Infinity Pool",
+        "Free WiFi"
+      ],
+      "description": "A coastal retreat located on the shores of Nice, offering a mix of Mediterranean charm and modern luxury. Guests can enjoy private beach access, infinity pool, and gourmet dining with breathtaking views of the sea.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Shanghai Garden Suites",
+      "location": "Shanghai, China",
+      "rating": "4.6",
+      "reviews": "870",
+      "price_per_night": "340",
+      "amenities": [
+        "Garden View",
+        "Free Breakfast",
+        "Spa",
+        "Fitness Center",
+        "Free WiFi"
+      ],
+      "description": "Nestled within a peaceful garden setting, this boutique hotel offers a tranquil escape from Shanghai’s bustling city life. The hotel features elegant suites, a relaxing spa, and an intimate atmosphere perfect for unwinding after a day of exploration.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "San Francisco Bay Hotel",
+      "location": "San Francisco, USA",
+      "rating": "4.7",
+      "reviews": "1030",
+      "price_per_night": "380",
+      "amenities": [
+        "Bay View",
+        "Free WiFi",
+        "Rooftop Bar",
+        "Fitness Center",
+        "Free Breakfast"
+      ],
+      "description": "Offering spectacular views of the San Francisco Bay and Golden Gate Bridge, this hotel is perfect for visitors looking to explore the city. With modern amenities, comfortable rooms, and a rooftop bar, it's a great base for a memorable stay in the Bay Area.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Seoul Downtown Grand Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.7",
+      "reviews": "1150",
+      "price_per_night": "390",
+      "amenities": [
+        "City View",
+        "Free WiFi",
+        "Business Center",
+        "Rooftop Garden",
+        "Fitness Center"
+      ],
+      "description": "This modern hotel in the heart of Seoul offers easy access to popular attractions and shopping districts. Guests can enjoy spacious rooms with city views, a rooftop garden, and exceptional dining options.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Lyon Riverside Boutique Hotel",
+      "location": "Lyon, France",
+      "rating": "4.9",
+      "reviews": "780",
+      "price_per_night": "460",
+      "amenities": [
+        "Riverside View",
+        "Free Breakfast",
+        "Spa",
+        "Wine Bar",
+        "Free WiFi"
+      ],
+      "description": "Located along the scenic Rhône River, this boutique hotel combines French charm with modern luxury. Guests can enjoy gourmet breakfast, a relaxing spa, and curated wine selections in the elegant wine bar.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Saigon Skyview Hotel",
+      "location": "Ho Chi Minh City, Vietnam",
+      "rating": "4.8",
+      "reviews": "950",
+      "price_per_night": "290",
+      "amenities": [
+        "City View",
+        "Free WiFi",
+        "Rooftop Pool",
+        "Spa",
+        "Free Breakfast"
+      ],
+      "description": "Offering panoramic views of Saigon’s skyline, this hotel provides luxurious accommodations in the city center. Guests can unwind by the rooftop pool, enjoy spa services, or explore the vibrant city nearby.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Kyoto Zen Garden Hotel",
+      "location": "Kyoto, Japan",
+      "rating": "4.7",
+      "reviews": "920",
+      "price_per_night": "330",
+      "amenities": [
+        "Garden View",
+        "Free Breakfast",
+        "Traditional Tea Ceremony",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Nestled in the historical city of Kyoto, this hotel offers an authentic Japanese experience with serene gardens, traditional tea ceremonies, and elegant interiors. Ideal for guests seeking relaxation and cultural immersion.",
+      "type": "Boutique",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "San Diego Beach Resort",
+      "location": "San Diego, USA",
+      "rating": "4.9",
+      "reviews": "1070",
+      "price_per_night": "410",
+      "amenities": [
+        "Beachfront",
+        "Outdoor Pool",
+        "Free Breakfast",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "Located on the famous Pacific Beach, this resort offers stunning oceanfront views, premium amenities, and direct access to the beach. Ideal for families or couples seeking a relaxing coastal getaway.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Skyline Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.6",
+      "reviews": "880",
+      "price_per_night": "380",
+      "amenities": [
+        "City View",
+        "Rooftop Bar",
+        "Free WiFi",
+        "Business Center",
+        "Spa"
+      ],
+      "description": "Offering panoramic views of Shanghai's skyline, this modern hotel provides guests with luxurious accommodations and top-tier facilities, including a rooftop bar and a world-class spa. Perfect for business and leisure travelers alike.",
+      "type": "Business",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nha Trang Oceanfront Resort",
+      "location": "Nha Trang, Vietnam",
+      "rating": "4.8",
+      "reviews": "780",
+      "price_per_night": "330",
+      "amenities": [
+        "Beachfront",
+        "Free Breakfast",
+        "Outdoor Pool",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "This resort offers a tranquil escape along the sandy shores of Nha Trang. With stunning ocean views, luxurious spa treatments, and an outdoor pool, guests can unwind and enjoy the tropical paradise.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Paris Grand Hotel",
+      "location": "Paris, France",
+      "rating": "4.9",
+      "reviews": "1500",
+      "price_per_night": "490",
+      "amenities": [
+        "Eiffel Tower View",
+        "Free WiFi",
+        "Rooftop Bar",
+        "Spa",
+        "Fitness Center"
+      ],
+      "description": "Located near the iconic Eiffel Tower, this luxury hotel offers the perfect Parisian experience with its elegant rooms, rooftop bar with a view, and world-class spa. Ideal for couples seeking a romantic getaway.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Osaka Lakeside Hotel",
+      "location": "Osaka, Japan",
+      "rating": "4.7",
+      "reviews": "970",
+      "price_per_night": "320",
+      "amenities": [
+        "Lakeside View",
+        "Free Breakfast",
+        "Spa",
+        "Free WiFi",
+        "Fitness Center"
+      ],
+      "description": "Situated by the serene Osaka Lake, this hotel provides a peaceful retreat with beautiful lake views. Guests can enjoy a relaxing spa, comfortable rooms, and explore Osaka’s vibrant city life nearby.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Los Angeles Downtown Hotel",
+      "location": "Los Angeles, USA",
+      "rating": "4.6",
+      "reviews": "1450",
+      "price_per_night": "430",
+      "amenities": [
+        "City View",
+        "Rooftop Pool",
+        "Free WiFi",
+        "Business Center",
+        "Fitness Center"
+      ],
+      "description": "Located in the heart of Los Angeles, this hotel offers modern luxury with panoramic city views, a rooftop pool, and easy access to the city's major attractions. Perfect for business travelers and tourists alike.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hanoi Heritage Hotel",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.7",
+      "reviews": "650",
+      "price_per_night": "210",
+      "amenities": [
+        "City Center",
+        "Free Breakfast",
+        "Free WiFi",
+        "Spa",
+        "24-Hour Front Desk"
+      ],
+      "description": "Located in the bustling heart of Hanoi, this hotel combines modern comfort with traditional Vietnamese hospitality. Guests can enjoy well-appointed rooms, a gourmet breakfast, and convenient access to local attractions.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Beijing Imperial Palace Hotel",
+      "location": "Beijing, China",
+      "rating": "4.8",
+      "reviews": "800",
+      "price_per_night": "370",
+      "amenities": [
+        "Free WiFi",
+        "Luxury Spa",
+        "Restaurant",
+        "Business Center",
+        "Free Parking"
+      ],
+      "description": "This luxury hotel is located near the Forbidden City and offers guests an exquisite experience with spacious rooms, fine dining, and a world-class spa, making it ideal for both business and leisure travelers.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Tokyo Tower View Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.9",
+      "reviews": "1200",
+      "price_per_night": "450",
+      "amenities": [
+        "City View",
+        "Free Breakfast",
+        "Rooftop Bar",
+        "Fitness Center",
+        "Free WiFi"
+      ],
+      "description": "Offering breathtaking views of the Tokyo Tower, this modern hotel provides luxurious accommodations with top-notch amenities, including a rooftop bar and fitness center. Perfect for a stylish stay in Tokyo.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Bordeaux Wine Country Inn",
+      "location": "Bordeaux, France",
+      "rating": "4.8",
+      "reviews": "900",
+      "price_per_night": "420",
+      "amenities": [
+        "Wine Tasting",
+        "Outdoor Pool",
+        "Free Breakfast",
+        "Garden",
+        "Free WiFi"
+      ],
+      "description": "Nestled in the picturesque Bordeaux region, this charming inn offers wine tasting experiences, an outdoor pool, and beautiful gardens. Ideal for wine lovers and those seeking a serene getaway.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Riverside Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.6",
+      "reviews": "600",
+      "price_per_night": "380",
+      "amenities": ["River View", "Spa", "Free WiFi", "Restaurant", "Gym"],
+      "description": "Located along the Huangpu River, this hotel offers stunning views and modern amenities, including a spa and restaurant serving authentic local cuisine. Perfect for travelers looking for relaxation and convenience.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Busan Beachfront Resort",
+      "location": "Busan, Korea",
+      "rating": "4.7",
+      "reviews": "780",
+      "price_per_night": "300",
+      "amenities": [
+        "Beachfront",
+        "Free Breakfast",
+        "Water Sports",
+        "Spa",
+        "Free WiFi"
+      ],
+      "description": "This beachfront resort offers direct access to the sandy shores of Busan, with plenty of water sports, a spa, and complimentary breakfast, making it a perfect destination for beach lovers.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Los Angeles Hollywood Hotel",
+      "location": "Los Angeles, USA",
+      "rating": "4.5",
+      "reviews": "1500",
+      "price_per_night": "360",
+      "amenities": [
+        "Hollywood View",
+        "Pool",
+        "Free WiFi",
+        "Restaurant",
+        "24-Hour Fitness"
+      ],
+      "description": "Located near the famous Hollywood Walk of Fame, this hotel offers guests stylish accommodations with views of the Hollywood Hills, a swimming pool, and easy access to LA's entertainment district.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nara Traditional Ryokan",
+      "location": "Nara, Japan",
+      "rating": "4.8",
+      "reviews": "550",
+      "price_per_night": "280",
+      "amenities": [
+        "Traditional Style",
+        "Tatami Mats",
+        "Onsen",
+        "Free Breakfast",
+        "Garden"
+      ],
+      "description": "Experience authentic Japanese hospitality at this traditional ryokan in Nara. Guests can enjoy tatami-mat rooms, a relaxing onsen, and delicious kaiseki meals, making it a unique cultural experience.",
+      "type": "Traditional",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Singapore Marina Bay Hotel",
+      "location": "Singapore",
+      "rating": "4.9",
+      "reviews": "1250",
+      "price_per_night": "500",
+      "amenities": [
+        "Infinity Pool",
+        "Sky Lounge",
+        "Spa",
+        "Free WiFi",
+        "24-Hour Concierge"
+      ],
+      "description": "This iconic hotel offers stunning views of the Marina Bay area and features an infinity pool, sky lounge, and luxurious spa services. Perfect for guests seeking a lavish stay in the heart of Singapore.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hokkaido Ski Resort Hotel",
+      "location": "Hokkaido, Japan",
+      "rating": "4.6",
+      "reviews": "730",
+      "price_per_night": "400",
+      "amenities": [
+        "Ski-In/Ski-Out",
+        "Spa",
+        "Indoor Pool",
+        "Restaurant",
+        "Free WiFi"
+      ],
+      "description": "Located near the popular ski slopes of Hokkaido, this resort offers ski-in/ski-out access, luxurious accommodations, and a relaxing spa, making it a perfect winter getaway for ski enthusiasts.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Saigon Riverside Hotel",
+      "location": "Ho Chi Minh City, Vietnam",
+      "rating": "4.7",
+      "reviews": "890",
+      "price_per_night": "250",
+      "amenities": [
+        "Riverside View",
+        "Pool",
+        "Free Breakfast",
+        "Free WiFi",
+        "Spa"
+      ],
+      "description": "Nestled by the Saigon River, this hotel offers luxurious rooms with stunning views, an outdoor pool, and a spa. It's perfect for travelers wanting to explore the vibrant culture of Ho Chi Minh City.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Parisian Chic Hotel",
+      "location": "Paris, France",
+      "rating": "4.8",
+      "reviews": "1200",
+      "price_per_night": "450",
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Fitness Center",
+        "24-Hour Room Service"
+      ],
+      "description": "Located in the heart of Paris, this chic hotel features elegantly designed rooms and a gourmet restaurant. Ideal for those looking to immerse themselves in the city's art and fashion scene.",
+      "type": "Boutique",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Seoul City Center Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.6",
+      "reviews": "750",
+      "price_per_night": "320",
+      "amenities": [
+        "Business Center",
+        "Free WiFi",
+        "Restaurant",
+        "Gym",
+        "24-Hour Reception"
+      ],
+      "description": "This modern hotel is strategically located in Seoul's city center, providing easy access to popular attractions, shopping, and dining. It offers comfortable accommodations and excellent business facilities.",
+      "type": "Business",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Grand Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.9",
+      "reviews": "900",
+      "price_per_night": "480",
+      "amenities": ["Luxury Spa", "Fine Dining", "Free WiFi", "Swimming Pool"],
+      "description": "This opulent hotel offers stunning views of the skyline, luxurious rooms, a fine dining restaurant, and a tranquil spa. It's the perfect choice for a lavish stay in one of Asia's most vibrant cities.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Kyoto Traditional Inn",
+      "location": "Kyoto, Japan",
+      "rating": "4.8",
+      "reviews": "650",
+      "price_per_night": "310",
+      "amenities": ["Tatami Rooms", "Onsen", "Free Breakfast", "Garden"],
+      "description": "Experience authentic Japanese culture in this traditional inn located in Kyoto. Guests can enjoy tatami rooms, an onsen, and a peaceful garden, providing a unique and immersive experience.",
+      "type": "Traditional",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Los Angeles Coastal Resort",
+      "location": "Los Angeles, USA",
+      "rating": "4.7",
+      "reviews": "800",
+      "price_per_night": "400",
+      "amenities": ["Beach Access", "Outdoor Pool", "Free WiFi", "Restaurant"],
+      "description": "This coastal resort offers direct access to beautiful beaches, an outdoor pool, and a restaurant serving fresh seafood. It's perfect for a relaxing getaway in sunny Los Angeles.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hanoi Old Quarter Hotel",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.5",
+      "reviews": "500",
+      "price_per_night": "180",
+      "amenities": [
+        "City Center",
+        "Free Breakfast",
+        "Free WiFi",
+        "Cultural Tours"
+      ],
+      "description": "Located in the historic Old Quarter of Hanoi, this hotel offers a blend of modern comfort and traditional charm, with easy access to local markets, street food, and cultural sites.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Jeju Island Resort",
+      "location": "Jeju, Korea",
+      "rating": "4.8",
+      "reviews": "900",
+      "price_per_night": "350",
+      "amenities": ["Beachfront", "Spa", "Water Sports", "Free Breakfast"],
+      "description": "This beachfront resort on Jeju Island offers stunning views of the ocean, water sports activities, and a relaxing spa. It's a perfect destination for nature lovers and those seeking adventure.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Tokyo Urban Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.6",
+      "reviews": "1100",
+      "price_per_night": "390",
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Business Center",
+        "Fitness Center"
+      ],
+      "description": "This modern hotel located in Tokyo's business district offers stylish accommodations, a restaurant with local cuisine, and fitness facilities, catering to both business and leisure travelers.",
+      "type": "Business",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Nice Riviera Hotel",
+      "location": "Nice, France",
+      "rating": "4.7",
+      "reviews": "750",
+      "price_per_night": "370",
+      "amenities": ["Beach Access", "Pool", "Free Breakfast", "Restaurant"],
+      "description": "Overlooking the beautiful beaches of Nice, this hotel features a pool, a restaurant serving Mediterranean cuisine, and easy beach access, making it a fantastic choice for sun-seekers.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Golden Tulip Hotel",
+      "location": "Amsterdam, Netherlands",
+      "rating": "4.6",
+      "reviews": "800",
+      "price_per_night": "280",
+      "amenities": ["Free WiFi", "Restaurant", "Bar", "Fitness Center"],
+      "description": "Situated in the heart of Amsterdam, the Golden Tulip Hotel offers modern rooms with stylish decor, an on-site restaurant, and a fitness center, making it an ideal base for exploring the city.",
+      "type": "Boutique",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Peking Garden Hotel",
+      "location": "Beijing, China",
+      "rating": "4.7",
+      "reviews": "600",
+      "price_per_night": "320",
+      "amenities": ["Indoor Pool", "Spa", "Free WiFi", "Restaurant"],
+      "description": "This elegant hotel is located near the Forbidden City and offers luxurious rooms, an indoor pool, and a renowned spa, perfect for relaxation after a day of sightseeing.",
+      "type": "Luxury",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Seoul Style Hotel",
+      "location": "Seoul, Korea",
+      "rating": "4.8",
+      "reviews": "950",
+      "price_per_night": "360",
+      "amenities": ["Rooftop Bar", "Free WiFi", "Gym", "Coffee Shop"],
+      "description": "With contemporary decor and a rooftop bar overlooking the city, Seoul Style Hotel offers an urban retreat for travelers seeking both comfort and style in South Korea's capital.",
+      "type": "Modern",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Tokyo Bay Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.9",
+      "reviews": "1100",
+      "price_per_night": "420",
+      "amenities": ["Waterfront", "Free WiFi", "Spa", "Fitness Center"],
+      "description": "Located by the bay, this luxurious hotel features stunning views of Tokyo Bay, a world-class spa, and direct access to popular entertainment and shopping areas.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Hanoi Cultural Hotel",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.6",
+      "reviews": "400",
+      "price_per_night": "200",
+      "amenities": ["Free Breakfast", "Cultural Tours", "Free WiFi", "Garden"],
+      "description": "This charming hotel in the Old Quarter offers a blend of traditional Vietnamese architecture and modern amenities, with guided cultural tours available to explore the rich heritage of Hanoi.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Luxury Suites",
+      "location": "Shanghai, China",
+      "rating": "4.7",
+      "reviews": "900",
+      "price_per_night": "490",
+      "amenities": ["Rooftop Pool", "Fine Dining", "Spa", "Gym"],
+      "description": "Experience ultimate luxury in the heart of Shanghai with spacious suites, a rooftop pool, and an exquisite dining experience, ensuring a memorable stay in this vibrant city.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Charming Kyoto Inn",
+      "location": "Kyoto, Japan",
+      "rating": "4.5",
+      "reviews": "550",
+      "price_per_night": "290",
+      "amenities": [
+        "Traditional Rooms",
+        "Free Breakfast",
+        "On-site Restaurant"
+      ],
+      "description": "Experience authentic Japanese hospitality at Charming Kyoto Inn, offering traditional tatami rooms, delicious breakfast options, and a serene atmosphere close to famous temples.",
+      "type": "Traditional",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Los Angeles Sunshine Hotel",
+      "location": "Los Angeles, USA",
+      "rating": "4.6",
+      "reviews": "800",
+      "price_per_night": "410",
+      "amenities": ["Pool", "Free WiFi", "On-site Dining", "Fitness Center"],
+      "description": "Located in sunny Los Angeles, this hotel features modern amenities, an outdoor pool, and on-site dining options, making it ideal for both leisure and business travelers.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nice Beach Resort",
+      "location": "Nice, France",
+      "rating": "4.7",
+      "reviews": "850",
+      "price_per_night": "430",
+      "amenities": ["Private Beach", "Spa", "Pool", "Restaurant"],
+      "description": "This luxurious resort offers a private beach, spa services, and an outdoor pool, perfect for relaxing while enjoying the stunning views of the French Riviera.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Riverside Villa",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.4",
+      "reviews": "300",
+      "price_per_night": "150",
+      "amenities": ["Free WiFi", "Garden", "Laundry Service"],
+      "description": "This cozy villa by the river offers a tranquil environment with lush gardens and comfortable accommodations, ideal for those seeking a peaceful escape in Hanoi.",
+      "type": "Villa",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Vienna Luxury Palace",
+      "location": "Vienna, Austria",
+      "rating": "4.8",
+      "reviews": "850",
+      "price_per_night": "450",
+      "amenities": ["Spa", "Fine Dining", "Free WiFi", "Gym"],
+      "description": "Set in a historic palace, this luxury hotel offers elegant rooms, a world-class spa, and gourmet dining options. Perfect for travelers looking for a regal experience in the heart of Vienna.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Barcelona Modern Hotel",
+      "location": "Barcelona, Spain",
+      "rating": "4.6",
+      "reviews": "700",
+      "price_per_night": "300",
+      "amenities": ["Free WiFi", "Swimming Pool", "Bar", "Restaurant"],
+      "description": "This stylish hotel located near the city center offers modern rooms, a rooftop pool, and easy access to Barcelona's vibrant culture and architecture.",
+      "type": "Modern",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Dubai Marina Resort",
+      "location": "Dubai, UAE",
+      "rating": "4.9",
+      "reviews": "1200",
+      "price_per_night": "500",
+      "amenities": ["Private Beach", "Spa", "Water Sports", "Fine Dining"],
+      "description": "This opulent resort in Dubai offers a private beach, luxurious spa, and a variety of water sports, providing an unforgettable experience in the heart of the city.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Lisbon Boutique Hotel",
+      "location": "Lisbon, Portugal",
+      "rating": "4.7",
+      "reviews": "650",
+      "price_per_night": "280",
+      "amenities": ["Free Breakfast", "Bar", "Free WiFi"],
+      "description": "Nestled in a historic building, this boutique hotel offers charming rooms with modern amenities, a bar, and complimentary breakfast, making it ideal for exploring the beautiful city of Lisbon.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Bangkok Riverside Hotel",
+      "location": "Bangkok, Thailand",
+      "rating": "4.5",
+      "reviews": "900",
+      "price_per_night": "150",
+      "amenities": ["River View", "Free WiFi", "Restaurant"],
+      "description": "This riverside hotel offers stunning views of the Chao Phraya River, comfortable accommodations, and an on-site restaurant serving delicious Thai cuisine.",
+      "type": "Budget",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Cairo Pyramid Hotel",
+      "location": "Cairo, Egypt",
+      "rating": "4.6",
+      "reviews": "780",
+      "price_per_night": "220",
+      "amenities": ["Free WiFi", "Swimming Pool", "Restaurant"],
+      "description": "Situated near the Great Pyramids, this hotel features comfortable rooms, a swimming pool, and an on-site restaurant with panoramic views of the ancient wonders.",
+      "type": "Cultural",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hokkaido Snow Resort",
+      "location": "Hokkaido, Japan",
+      "rating": "4.9",
+      "reviews": "500",
+      "price_per_night": "350",
+      "amenities": ["Ski Access", "Spa", "Free WiFi"],
+      "description": "This ski resort offers direct access to some of the best slopes in Hokkaido, along with luxurious accommodations and a spa for relaxation after a day on the mountains.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Oslo Central Hotel",
+      "location": "Oslo, Norway",
+      "rating": "4.8",
+      "reviews": "900",
+      "price_per_night": "400",
+      "amenities": ["Free WiFi", "Restaurant", "Bar"],
+      "description": "Located in the heart of Oslo, this hotel offers modern amenities, an on-site restaurant, and is just steps away from major attractions, making it a great choice for city explorers.",
+      "type": "Urban",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Moscow Grand Hotel",
+      "location": "Moscow, Russia",
+      "rating": "4.7",
+      "reviews": "750",
+      "price_per_night": "370",
+      "amenities": ["Spa", "Free WiFi", "Gym"],
+      "description": "This grand hotel features elegant rooms, a spa, and a gym, located conveniently for those wanting to explore Moscow's rich history and vibrant nightlife.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "New York Central Park Hotel",
+      "location": "New York, USA",
+      "rating": "4.5",
+      "reviews": "1000",
+      "price_per_night": "420",
+      "amenities": ["Central Park View", "Free WiFi", "Restaurant"],
+      "description": "Overlooking Central Park, this hotel offers modern rooms with breathtaking views, a restaurant serving international cuisine, and easy access to the best of New York City.",
+      "type": "Urban",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Amsterdam Canal View Hotel",
+      "location": "Amsterdam, Netherlands",
+      "rating": "4.6",
+      "reviews": "550",
+      "price_per_night": "310",
+      "amenities": ["Canal View", "Free WiFi", "Breakfast Included"],
+      "description": "This charming hotel offers picturesque canal views and cozy accommodations in the heart of Amsterdam, perfect for exploring the city's rich culture and history.",
+      "type": "Boutique",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Sydney Harbour Hotel",
+      "location": "Sydney, Australia",
+      "rating": "4.8",
+      "reviews": "700",
+      "price_per_night": "480",
+      "amenities": ["Free WiFi", "Rooftop Pool", "Gym"],
+      "description": "Enjoy breathtaking views of Sydney Harbour at this luxury hotel featuring a rooftop pool, modern fitness center, and elegant dining options, all within walking distance of major attractions.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Rio de Janeiro Beachfront Hotel",
+      "location": "Rio de Janeiro, Brazil",
+      "rating": "4.5",
+      "reviews": "900",
+      "price_per_night": "320",
+      "amenities": ["Beach Access", "Free WiFi", "Restaurant"],
+      "description": "Located right on the beach, this hotel offers stunning ocean views, direct access to the sand, and an on-site restaurant serving fresh seafood and local cuisine.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Singapore Marina Bay Hotel",
+      "location": "Singapore",
+      "rating": "4.9",
+      "reviews": "1200",
+      "price_per_night": "600",
+      "amenities": ["Infinity Pool", "Spa", "Fine Dining"],
+      "description": "Experience luxury at its finest at this iconic hotel featuring an infinity pool overlooking the city skyline, a full-service spa, and exquisite dining options.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "London City Center Hotel",
+      "location": "London, England",
+      "rating": "4.7",
+      "reviews": "800",
+      "price_per_night": "390",
+      "amenities": ["Free WiFi", "Bar", "Breakfast Included"],
+      "description": "Situated in the heart of London, this hotel offers modern amenities and is within walking distance of famous landmarks like the British Museum and Buckingham Palace.",
+      "type": "Urban",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Helsinki Design Hotel",
+      "location": "Helsinki, Finland",
+      "rating": "4.6",
+      "reviews": "500",
+      "price_per_night": "340",
+      "amenities": ["Free WiFi", "Design Rooms", "Restaurant"],
+      "description": "This stylish hotel features modern design rooms inspired by Finnish architecture, along with a restaurant serving local dishes, perfect for experiencing the best of Helsinki.",
+      "type": "Boutique",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Budapest Riverbank Hotel",
+      "location": "Budapest, Hungary",
+      "rating": "4.8",
+      "reviews": "650",
+      "price_per_night": "280",
+      "amenities": ["River View", "Free WiFi", "Breakfast Included"],
+      "description": "Overlooking the Danube River, this hotel offers modern comforts, a complimentary breakfast, and easy access to Budapest's historic sites and nightlife.",
+      "type": "Urban",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Bangkok Boutique Hotel",
+      "location": "Bangkok, Thailand",
+      "rating": "4.7",
+      "reviews": "700",
+      "price_per_night": "210",
+      "amenities": ["Free WiFi", "Outdoor Pool", "Restaurant"],
+      "description": "This boutique hotel features a beautiful outdoor pool, cozy rooms, and an on-site restaurant, providing a perfect escape in the bustling city of Bangkok.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Phuket Beach Resort",
+      "location": "Phuket, Thailand",
+      "rating": "4.6",
+      "reviews": "900",
+      "price_per_night": "380",
+      "amenities": ["Beach Access", "Spa", "Free WiFi"],
+      "description": "Set on the stunning beaches of Phuket, this resort offers luxury accommodations, a full-service spa, and easy access to water sports and activities.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Taipei City Hotel",
+      "location": "Taipei, Taiwan",
+      "rating": "4.5",
+      "reviews": "800",
+      "price_per_night": "250",
+      "amenities": ["Free WiFi", "Restaurant", "Laundry Service"],
+      "description": "This city hotel offers comfortable accommodations, an on-site restaurant serving local and international cuisine, and is conveniently located near public transport.",
+      "type": "Urban",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Bali Paradise Resort",
+      "location": "Bali, Indonesia",
+      "rating": "4.9",
+      "reviews": "1000",
+      "price_per_night": "450",
+      "amenities": ["Private Beach", "Spa", "Yoga Classes"],
+      "description": "Nestled in a serene location, this resort offers stunning beachfront views, luxurious accommodations, and a variety of wellness programs to rejuvenate your body and mind.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Cape Town Waterfront Hotel",
+      "location": "Cape Town, South Africa",
+      "rating": "4.7",
+      "reviews": "750",
+      "price_per_night": "320",
+      "amenities": ["Waterfront Views", "Free WiFi", "Swimming Pool"],
+      "description": "This hotel offers breathtaking views of the waterfront and Table Mountain, with easy access to shops, restaurants, and cultural attractions in Cape Town.",
+      "type": "Urban",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Copenhagen City Center Hotel",
+      "location": "Copenhagen, Denmark",
+      "rating": "4.6",
+      "reviews": "650",
+      "price_per_night": "290",
+      "amenities": ["Free WiFi", "Bar", "Restaurant"],
+      "description": "Located in the heart of Copenhagen, this hotel offers stylish accommodations, an on-site bar, and easy access to the city's major attractions.",
+      "type": "Boutique",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Rio de Janeiro Carnival Hotel",
+      "location": "Rio de Janeiro, Brazil",
+      "rating": "4.8",
+      "reviews": "850",
+      "price_per_night": "360",
+      "amenities": ["Carnival Packages", "Free Breakfast", "Free WiFi"],
+      "description": "This hotel offers unique carnival-themed experiences and packages, comfortable rooms, and is located close to the main festivities during the Rio Carnival.",
+      "type": "Cultural",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Marrakech Luxury Riad",
+      "location": "Marrakech, Morocco",
+      "rating": "4.9",
+      "reviews": "900",
+      "price_per_night": "380",
+      "amenities": ["Spa", "Rooftop Terrace", "Traditional Cuisine"],
+      "description": "This luxurious riad features traditional Moroccan decor, a serene spa, and a rooftop terrace with stunning views of the Atlas Mountains.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Vienna Classic Hotel",
+      "location": "Vienna, Austria",
+      "rating": "4.5",
+      "reviews": "500",
+      "price_per_night": "300",
+      "amenities": ["Free WiFi", "Historical Tours", "Breakfast Included"],
+      "description": "Set in a historic building, this hotel combines classic elegance with modern comfort, providing easy access to Vienna's cultural landmarks.",
+      "type": "Urban",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Istanbul Bosphorus Hotel",
+      "location": "Istanbul, Turkey",
+      "rating": "4.7",
+      "reviews": "800",
+      "price_per_night": "280",
+      "amenities": ["Bosphorus Views", "Free WiFi", "Restaurant"],
+      "description": "This hotel offers breathtaking views of the Bosphorus Strait, modern amenities, and a restaurant serving delicious Turkish cuisine.",
+      "type": "Cultural",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Toronto Downtown Hotel",
+      "location": "Toronto, Canada",
+      "rating": "4.6",
+      "reviews": "900",
+      "price_per_night": "350",
+      "amenities": ["Gym", "Free WiFi", "Business Center"],
+      "description": "This centrally located hotel features modern amenities, a fully-equipped gym, and easy access to Toronto's vibrant entertainment district.",
+      "type": "Urban",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Seoul Hanok Hotel",
+      "location": "Seoul, South Korea",
+      "rating": "4.8",
+      "reviews": "600",
+      "price_per_night": "220",
+      "amenities": ["Traditional Korean Experience", "Free WiFi"],
+      "description": "Experience traditional Korean culture in this Hanok-style hotel, offering authentic accommodations and a serene atmosphere in the heart of Seoul.",
+      "type": "Cultural",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Madrid Art Hotel",
+      "location": "Madrid, Spain",
+      "rating": "4.5",
+      "reviews": "750",
+      "price_per_night": "280",
+      "amenities": ["Art Gallery", "Free WiFi", "Restaurant"],
+      "description": "Located near Madrid's art district, this hotel features an on-site gallery showcasing local artists, along with modern accommodations and a restaurant.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Tokyo Modern Hotel",
+      "location": "Tokyo, Japan",
+      "rating": "4.8",
+      "reviews": "1200",
+      "price_per_night": "400",
+      "amenities": ["Free WiFi", "Fitness Center", "On-Site Dining"],
+      "description": "This modern hotel offers sleek accommodations in the heart of Tokyo, with convenient access to public transportation and famous attractions like Shibuya and Shinjuku.",
+      "type": "Urban",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Parisian Charm Hotel",
+      "location": "Paris, France",
+      "rating": "4.7",
+      "reviews": "950",
+      "price_per_night": "420",
+      "amenities": ["Free Breakfast", "Historic Architecture", "Garden"],
+      "description": "Experience the romantic charm of Paris at this elegant hotel, featuring beautifully decorated rooms, lush gardens, and a complimentary breakfast each morning.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Shanghai Skyline Hotel",
+      "location": "Shanghai, China",
+      "rating": "4.6",
+      "reviews": "800",
+      "price_per_night": "350",
+      "amenities": ["Rooftop Bar", "City Views", "Swimming Pool"],
+      "description": "Enjoy stunning skyline views from the rooftop bar of this hotel, located in the bustling city center, with comfortable rooms and a relaxing swimming pool.",
+      "type": "Urban",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Hanoi Boutique Hotel",
+      "location": "Hanoi, Vietnam",
+      "rating": "4.9",
+      "reviews": "600",
+      "price_per_night": "150",
+      "amenities": ["Free WiFi", "Traditional Cuisine", "Spa Services"],
+      "description": "Nestled in the Old Quarter, this boutique hotel offers cozy rooms, authentic Vietnamese cuisine, and a relaxing spa to unwind after a day of exploring Hanoi.",
+      "type": "Boutique",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Seoul Sky Hotel",
+      "location": "Seoul, South Korea",
+      "rating": "4.7",
+      "reviews": "750",
+      "price_per_night": "220",
+      "amenities": ["Sky Lounge", "Free Breakfast", "Gym"],
+      "description": "Offering panoramic views of the city, this hotel features a sky lounge, modern fitness facilities, and complimentary breakfast, located near major attractions.",
+      "type": "Urban",
+      "check_in_time": "15:00",
+      "check_out_time": "11:00"
+    },
+    {
+      "name": "Kyoto Traditional Inn",
+      "location": "Kyoto, Japan",
+      "rating": "4.8",
+      "reviews": "550",
+      "price_per_night": "300",
+      "amenities": ["Tatami Rooms", "Garden", "Onsen"],
+      "description": "Experience the serenity of Kyoto in this traditional inn, featuring tatami mat rooms, beautiful gardens, and an on-site onsen for a relaxing stay.",
+      "type": "Cultural",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Beijing Cultural Hotel",
+      "location": "Beijing, China",
+      "rating": "4.6",
+      "reviews": "700",
+      "price_per_night": "280",
+      "amenities": ["Historic Decor", "Free WiFi", "Restaurant"],
+      "description": "Immerse yourself in Beijing's rich history at this cultural hotel, featuring traditional decor, a restaurant serving local dishes, and easy access to cultural sites.",
+      "type": "Cultural",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nha Trang Beach Resort",
+      "location": "Nha Trang, Vietnam",
+      "rating": "4.7",
+      "reviews": "800",
+      "price_per_night": "180",
+      "amenities": ["Beachfront", "Spa", "Water Sports"],
+      "description": "This beachfront resort offers a perfect escape with luxurious accommodations, a full-service spa, and various water sports activities for adventurous travelers.",
+      "type": "Resort",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Nice Riviera Hotel",
+      "location": "Nice, France",
+      "rating": "4.5",
+      "reviews": "650",
+      "price_per_night": "250",
+      "amenities": ["Sea View", "Pool", "Restaurant"],
+      "description": "Enjoy the stunning views of the French Riviera at this hotel, featuring comfortable accommodations, an outdoor pool, and a restaurant serving Mediterranean cuisine.",
+      "type": "Resort",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00"
+    },
+    {
+      "name": "Los Angeles Glam Hotel",
+      "location": "Los Angeles, USA",
+      "rating": "4.9",
+      "reviews": "950",
+      "price_per_night": "500",
+      "amenities": ["Hollywood Views", "Infinity Pool", "Free WiFi"],
+      "description": "This glamorous hotel offers luxurious amenities, stunning views of Hollywood, and an infinity pool for a perfect getaway in the heart of Los Angeles.",
+      "type": "Luxury",
+      "check_in_time": "15:00",
+      "check_out_time": "12:00"
+    }
+  ]
 }
