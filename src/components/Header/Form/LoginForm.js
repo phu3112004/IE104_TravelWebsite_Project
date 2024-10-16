@@ -37,6 +37,7 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
             type={isPasswordShowed ? "text" : "password"}
             name="password"
             placeholder="Password"
+            autoComplete="current-password"
           />
           <FontAwesomeIcon
             icon={isPasswordShowed ? faEye : faEyeSlash}

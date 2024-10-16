@@ -10,7 +10,8 @@
   transition: 0.2s ease-in-out;
   &:hover {
     border-bottom: var(--primary) 2px solid;
-    transform: scale(101%);
+    transform: scale(102%);
+    opacity: 0.9;
   }
 }
 .blog-item {

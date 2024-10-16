@@ -74,11 +74,8 @@ function TourStory() {
               className={cx("tour-story-3-content-item-container")}
             >
               {cityData.map((item, index) => (
-                <div className={cx("tour-story-3-content-item")}>
-                  <div
-                    key={index}
-                    className={cx("tour-story-3-content-item-img")}
-                  >
+                <div key={index} className={cx("tour-story-3-content-item")}>
+                  <div className={cx("tour-story-3-content-item-img")}>
                     <img src={item.image} alt={item.city} />
                     <div className={cx("tour-story-3-content-link")}>
                       <Link to={`/scenery/${item.city}`}>

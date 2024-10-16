@@ -44,7 +44,7 @@ function BlogItem({ start, limit }) {
               alt=""
             />
             <p className={cx("blog-item-tag")}>{item.type}</p>
-            <a className={cx("blog-item-title")}>{item.title}</a>
+            <p className={cx("blog-item-title")}>{item.title}</p>
           </div>
           <p>
             By {item.author} at {item.date}
