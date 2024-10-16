@@ -32,3 +32,33 @@ export const destinationData = [
   "Vietnam",
   "Korea",
 ];
+
+export const tourStories = [
+  {
+    title: "Family-Owned & Operated",
+    description: "Guiding life’s greatest adventures since 1969",
+  },
+  {
+    title: "Professionalism",
+    description:
+      "The most experienced and customer-focused guides & staff in the industry",
+  },
+  {
+    title: "Personal Service",
+    description: "Low guide-to-guest ratio & small group sizes",
+  },
+  {
+    title: "High-Quality Equipment",
+    description: "We invest in top-of-the-line rafts & expedition equipment",
+  },
+  {
+    title: "Responsible Travel",
+    description:
+      "Our commitment to the environment & local communities is unmatched",
+  },
+  {
+    title: "Unparalleled Access",
+    description:
+      "Most diverse collection of river-running permits in the world",
+  },
+];

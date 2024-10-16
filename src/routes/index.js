@@ -9,7 +9,8 @@ import AdventureDetail from "../pages/Explore/Adventure/AdventureDetail";
 import Blog from "../pages/Blog";
 import NotFound from "../pages/NotFound";
 import DestinationDetail from "../pages/Destination/DestinationDetail";
-import Scenery from "../pages/Scenery";
+import City from "../pages/City";
+import CityDetail from "../pages/City/CityDetail";
 import Tour from "../pages/Tour";
 import TourDetail from "../pages/Tour/TourDetail";
 export const publicRoutes = [
@@ -54,8 +55,12 @@ export const publicRoutes = [
     component: Blog,
   },
   {
-    path: "/scenery",
-    component: Scenery,
+    path: "/city",
+    component: City,
+  },
+  {
+    path: "/city/:city",
+    component: CityDetail,
   },
   {
     path: "/tour",
