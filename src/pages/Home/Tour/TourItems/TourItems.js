@@ -10,8 +10,8 @@ import { useState } from "react";
 const cx = classNames.bind(styles);
 
 function TourItems() {
-  var [currentIndex, setCurrentIndex] = useState(0);
   const totalItems = 10;
+  var [currentIndex, setCurrentIndex] = useState(0);
   function handleNext() {
     const itemsContainer = document.getElementById("tour-item");
     const items = itemsContainer.children;
@@ -28,11 +28,7 @@ function TourItems() {
   return (
     <>
       <div id="tour-item" className={cx("tour-item")}>
-        <TourItem
-          start={0}
-          limit={totalItems}
-          column={`repeat(${totalItems}, 30%)`}
-        />
+        <TourItem start={0} limit={totalItems} />
       </div>
       <div className={cx("tour-item-button")}>
         <button onClick={handlePrev}>

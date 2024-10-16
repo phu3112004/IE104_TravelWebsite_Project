@@ -66,7 +66,7 @@ function TourStory() {
               NPQ TRAVEL offers more than 75 unique vacation itineraries across
               Vietnam and world.
             </p>
-            <Link to="/city">VIEW ALL CITIES</Link>
+            <Link to="/scenery">VIEW ALL SCENERIES</Link>
           </div>
           <div className={cx("tour-story-3-content")}>
             <div
@@ -81,7 +81,7 @@ function TourStory() {
                   >
                     <img src={item.image} alt={item.city} />
                     <div className={cx("tour-story-3-content-link")}>
-                      <Link to={`/city/${item.city}`}>
+                      <Link to={`/scenery/${item.city}`}>
                         {item.city + ", " + item.location}
                         <FontAwesomeIcon icon={faCaretRight} />
                       </Link>

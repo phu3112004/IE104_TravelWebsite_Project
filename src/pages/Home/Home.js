@@ -1,5 +1,6 @@
 import Divider from "../../components/Divider";
 import About from "./About";
+import Blog from "./Blog";
 import Find from "./Find";
 import Slide from "./Slide";
 import Tour from "./Tour";
@@ -11,6 +12,7 @@ function Home() {
       <About />
       <Divider />
       <Tour />
+      <Blog />
     </div>
   );
 }

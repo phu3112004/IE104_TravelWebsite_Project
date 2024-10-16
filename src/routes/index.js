@@ -9,10 +9,10 @@ import AdventureDetail from "../pages/Explore/Adventure/AdventureDetail";
 import Blog from "../pages/Blog";
 import NotFound from "../pages/NotFound";
 import DestinationDetail from "../pages/Destination/DestinationDetail";
-import City from "../pages/City";
-import CityDetail from "../pages/City/CityDetail";
 import Tour from "../pages/Tour";
 import TourDetail from "../pages/Tour/TourDetail";
+import Scenery from "../pages/Scenery";
+import SceneryDetail from "../pages/Scenery/SceneryDetail";
 export const publicRoutes = [
   {
     path: "/",
@@ -55,12 +55,12 @@ export const publicRoutes = [
     component: Blog,
   },
   {
-    path: "/city",
-    component: City,
+    path: "/scenery",
+    component: Scenery,
   },
   {
-    path: "/city/:city",
-    component: CityDetail,
+    path: "/scenery/:scenery",
+    component: SceneryDetail,
   },
   {
     path: "/tour",

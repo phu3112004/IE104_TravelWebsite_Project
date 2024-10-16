@@ -11,10 +11,9 @@ function TourItem({ start, limit }) {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-
   var api = tours_link;
   useEffect(() => {
-    if (start && limit) api = api + "?" + `_start=${start}&_limit=${limit}`;
+    api = api + "?" + `_start=${start}&_limit=${limit}`;
     const fetchData = async () => {
       try {
         const response = await fetch(api);
@@ -31,7 +30,7 @@ function TourItem({ start, limit }) {
     };
 
     fetchData();
-  }, [start, limit, api]);
+  }, [start, limit]);
 
   if (loading) {
     return <div>Loading...</div>;
