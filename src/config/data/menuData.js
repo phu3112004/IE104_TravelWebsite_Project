@@ -19,7 +19,7 @@ export const menuData = [
           { title: "Hiking", link: "/adventure/Hiking" },
         ],
       },
-      { title: "Cities", link: "/city" },
+      { title: "Sceneries", link: "/scenery" },
       { title: "Tours", link: "/tour" },
     ],
   },
