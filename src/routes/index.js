@@ -67,7 +67,7 @@ export const publicRoutes = [
     component: Tour,
   },
   {
-    path: "/tour/:tourID",
+    path: "/tour/:id",
     component: TourDetail,
   },
   {
