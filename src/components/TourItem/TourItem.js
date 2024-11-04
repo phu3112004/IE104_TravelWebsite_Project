@@ -5,6 +5,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 import styles from "./TourItem.module.scss";
 import classNames from "classnames/bind";
+import { Link } from "react-router-dom";
 const cx = classNames.bind(styles);
 
 function TourItem({ start, limit }) {
@@ -49,9 +50,9 @@ function TourItem({ start, limit }) {
           </div>
           <div className={cx("tour-item-content")}>
             <p className={cx("tour-item-tag")}>{item.type}</p>
-            <a href="#" className={cx("tour-item-title")}>
+            <Link to={`/tour/${item.id}`} className={cx("tour-item-title")}>
               {item.name}
-            </a>
+            </Link>
             <div className={cx("tour-item-rate")}>
               <p className={cx("tour-item-day")}>{item.day}</p>
               <FontAwesomeIcon
