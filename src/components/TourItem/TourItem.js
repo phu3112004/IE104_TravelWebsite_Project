@@ -8,13 +8,16 @@ import classNames from "classnames/bind";
 import { Link } from "react-router-dom";
 const cx = classNames.bind(styles);
 
-function TourItem({ start, limit }) {
+function TourItem({ start, limit, query, queryContent }) {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   var api = tours_link;
   useEffect(() => {
-    api = api + "?" + `_start=${start}&_limit=${limit}`;
+    if (limit) api += "?" + `_start=${start}&_limit=${limit}`;
+    if (query && queryContent) api += "?" + query + "=" + queryContent;
+
+    console.log(api);
     const fetchData = async () => {
       try {
         const response = await fetch(api);
@@ -31,7 +34,7 @@ function TourItem({ start, limit }) {
     };
 
     fetchData();
-  }, [start, limit]);
+  }, [start, limit, query, queryContent]);
 
   if (loading) {
     return <div>Loading...</div>;

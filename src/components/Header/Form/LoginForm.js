@@ -28,7 +28,12 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
       <div className={cx("login-form")}>
         <div className={cx("login-input")}>
           <FontAwesomeIcon icon={faUser} />
-          <input type="text" name="email" placeholder="Email" />
+          <input
+            type="text"
+            name="email"
+            autoComplete="username"
+            placeholder="Email"
+          />
         </div>
         <div className={cx("login-input")}>
           <FontAwesomeIcon icon={faLock} />

@@ -14,7 +14,7 @@ export const menuData = [
             link: "/adventure/Whitewater Rafting",
           },
           { title: "Camping", link: "/adventure/Camping" },
-          { title: "Multi-Sport", link: "/adventure/Multi-Sport" },
+          { title: "Multi-Sport", link: "/adventure/Multi-sport" },
           { title: "Rowing", link: "/adventure/Rowing" },
           { title: "Hiking", link: "/adventure/Hiking" },
         ],
