@@ -11,6 +11,7 @@ import styles from "./TourDetail.module.scss";
 import { Link, useParams } from "react-router-dom";
 import { tours_link } from "../../../config/api_link";
 import TourItinerary from "./TourItinerary/TourItinerary";
+import { reviewData } from "../../../config/data/reviewData";
 
 const cx = classNames.bind(styles);
 
@@ -305,198 +306,37 @@ function TourDetail() {
           </select>
         </div>
         <div className={cx("details-review-area-container")}>
-          <div className={cx("details-review-area")}>
-            <h1>so much fun!!!</h1>
-            <div className={cx("details-info-star", "mt-0")}>
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <i>5</i>
+          {reviewData.map((item, index) => (
+            <div key={index} className={cx("details-review-area")}>
+              <h1>{item.title}</h1>
+              <div className={cx("details-info-star", "mt-0")}>
+                <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
+                <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
+                <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
+                <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
+                <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
+                <i>{item.rate}</i>
+              </div>
+              <p>{item.content}</p>
+              <div className={cx("details-review-area-auth")}>
+                <p>
+                  By <b>{item.auth}</b>
+                </p>
+                <p>
+                  At <b>{item.date}</b>
+                </p>
+                <p>
+                  From <b>{item.address}</b>
+                </p>
+              </div>
+              {item.tags.map((tag, index) => (
+                <span key={index} className={cx("review-tag")}>
+                  {tag}
+                </span>
+              ))}
             </div>
-            <p>
-              We went for a bachelorette trip and had the best time! The water
-              was fast and high, and our guides Andrew and Adam rocked! The
-              whole guide crew was a blast and made the trip super fun. Bring
-              sunscreen.
-            </p>
-            <div className={cx("details-review-area-auth")}>
-              <p>
-                By <b>Kala</b>
-              </p>
-              <p>
-                At <b>24/02/2024</b>
-              </p>
-              <p>
-                From <b>Oregon House, CA</b>
-              </p>
-            </div>
-            <span className={cx("review-tag")}>Would recommend to friend</span>
-            <span className={cx("review-tag")}>Experienced guides</span>
-            <span className={cx("review-tag")}>Fun</span>
-          </div>
-          <div className={cx("details-review-area")}>
-            <h1>How turn 65</h1>
-            <div className={cx("details-info-star", "mt-0")}>
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <i>5</i>
-            </div>
-            <p>
-              I was originally booked for a 3 day trip on the Tuolumne River but
-              due to water flows it was done in 1 day. OARS did their best to
-              make up for the change and did a great job.
-            </p>
-            <div className={cx("details-review-area-auth")}>
-              <p>
-                By <b>Josh Smith</b>
-              </p>
-              <p>
-                At <b>24/01/2024</b>
-              </p>
-              <p>
-                From <b>Florida</b>
-              </p>
-            </div>
-            <span className={cx("review-tag")}>Would recommend to friend</span>
-            <span className={cx("review-tag")}>Fun</span>
-          </div>
-          <div className={cx("details-review-area")}>
-            <h1>THIS TRIP IS AMAZING</h1>
-            <div className={cx("details-info-star", "mt-0")}>
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <i>5</i>
-            </div>
-            <p>
-              I was nervous about the level of intensity of this trip on my
-              middled-aged body. But, the guides were fantastic, the rapid were
-              amazing, and although high intensity, it never felt scary or
-              uncomfort
-            </p>
-            <div className={cx("details-review-area-auth")}>
-              <p>
-                By <b>Thomas Timothy</b>
-              </p>
-              <p>
-                At <b>24/12/2023</b>
-              </p>
-              <p>
-                From <b>Dortmunch, Germany</b>
-              </p>
-            </div>
-            <span className={cx("review-tag")}>Would recommend to friend</span>
-            <span className={cx("review-tag")}>Experienced guides</span>
-          </div>
-          <div className={cx("details-review-area")}>
-            <h1>GREAT TRIP!</h1>
-            <div className={cx("details-info-star", "mt-0")}>
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <i>5</i>
-            </div>
-            <p>
-              My 16 year old daughter & I absolutely loved this trip. Our boat
-              guide, Jack was great as was the entire crew. The river was a
-              great mix of relaxing scenery and exciting rapids, especially
-              Clavey Falls. We had a few people in our boat go for an unintended
-              swim, which made it memorable. Food was very good - sandwiches &
-              salads for lunch, french toast and sausage for breakfast, and
-              steak & chicken tacos for dinner. Cooler full of soda and craft
-              beer after the day on the water. Condiments were over the top. The
-              side hikes to swim holes were fun, but I wish I would have
-              purchased grippy water shoes as some of the rocks were very slick.
-              Also wish I would have brought my hammock. No phots offered, so
-              consider bringing a GoPro. Did not use the tent I rented, as the
-              entire group just slept under the stars. Great trip, highly
-              recommend.
-            </p>
-            <div className={cx("details-review-area-auth")}>
-              <p>
-                By <b>Josh Smith</b>
-              </p>
-              <p>
-                At <b>03/11/2023</b>
-              </p>
-              <p>
-                From <b>West Michigan</b>
-              </p>
-            </div>
-            <span className={cx("review-tag")}>Would recommend to friend</span>
-            <span className={cx("review-tag")}>Great food & drink</span>
-          </div>
-          <div className={cx("details-review-area")}>
-            <h1>DON'T MISS A GREAT OPPORTUNITY - THE TUOLUMNE AWAITS</h1>
-            <div className={cx("details-info-star", "mt-0")}>
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <i>5</i>
-            </div>
-            <p>
-              Once again OARS delivers an exceptional value in the two day
-              Tuolumne River, wine and dinner outing. As if the thrills of the
-              Tuolumne are not enough, OARS partners with local chefs and
-              wineries to highlight the local culture and provide participants a
-              glimpse into the region. Plus, OARS guides focus on quality meals
-              safely prepared, fun (and safe) river passages and the overall
-              customer experience.
-            </p>
-            <div className={cx("details-review-area-auth")}>
-              <p>
-                By <b>Josh Smith</b>
-              </p>
-              <p>
-                At <b>19/10/2023</b>
-              </p>
-              <p>
-                From <b>North Carolina</b>
-              </p>
-            </div>
-            <span className={cx("review-tag")}>Would recommend to friend</span>
-            <span className={cx("review-tag")}>Fun</span>
-          </div>
-          <div className={cx("details-review-area")}>
-            <h1>THREE WONDERFUL DAYS ON THE TUOLOMNE!</h1>
-            <div className={cx("details-info-star", "mt-0")}>
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <FontAwesomeIcon icon={faStar} className={cx("star-yellow")} />
-              <i>5</i>
-            </div>
-            <p>
-              Chris, Travis, Calvin, and Clavey made our 3 days on the Tuolumne
-              River unforgettable. The white water was thrilling and the camping
-              was relaxing making this the perfect adventure for our family.
-            </p>
-            <div className={cx("details-review-area-auth")}>
-              <p>
-                By <b>Yoshida Akiko</b>
-              </p>
-              <p>
-                At <b>02/09/2023</b>
-              </p>
-              <p>
-                From <b>Tokyo, Japan</b>
-              </p>
-            </div>
-            <span className={cx("review-tag")}>Would recommend to friend</span>
-            <span className={cx("review-tag")}>Well organized</span>
-          </div>
+          ))}
+
           <button className={cx("loadmore-btn")}>LOAD MORE</button>
         </div>
       </div>
