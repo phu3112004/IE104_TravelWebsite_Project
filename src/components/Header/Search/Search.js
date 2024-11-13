@@ -19,7 +19,7 @@ function Search({ onShow, isShow }) {
         <input
           className={cx("search-input")}
           type="text"
-          placeholder="Search destination...."
+          placeholder="Tìm kiếm điểm đến...."
         />
         <button type="button" className={cx("search-button")}>
           <FontAwesomeIcon icon={faMagnifyingGlass} />

@@ -23,8 +23,8 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
       <div className={cx("login-close")} onClick={onShow}>
         <FontAwesomeIcon icon={faXmark} className={cx("login-close-icon")} />
       </div>
-      <h1>Log in</h1>
-      <p>Enter your email to log in</p>
+      <h1>Đăng nhập</h1>
+      <p>Sử dụng e-mail để đăng nhập</p>
       <div className={cx("login-form")}>
         <div className={cx("login-input")}>
           <FontAwesomeIcon icon={faUser} />
@@ -41,7 +41,7 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
             style={{ width: "80%" }}
             type={isPasswordShowed ? "text" : "password"}
             name="password"
-            placeholder="Password"
+            placeholder="Mật khẩu"
             autoComplete="current-password"
           />
           <FontAwesomeIcon
@@ -50,11 +50,11 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
             className={cx("eye-icon")}
           />
         </div>
-        <button>Log in with email</button>
+        <button>Đăng nhập</button>
       </div>
       <div className={cx("login-google")}>
         <div className={cx("login-line-divide")}>
-          <span>or continue with:</span>
+          <span>hoặc đăng nhập bằng:</span>
         </div>
         <button className={cx("login-google-button")}>
           <img
@@ -65,8 +65,8 @@ function LoginForm({ stopPropagation, onChangeForm, onShow }) {
         </button>
       </div>
       <div className={cx("login-tele")}>
-        <p>Don't have an account?</p>
-        <button onClick={onChangeForm}>Sign up</button>
+        <p>Không có tài khoản?</p>
+        <button onClick={onChangeForm}>Đăng ký</button>
       </div>
       <Policy />
     </form>

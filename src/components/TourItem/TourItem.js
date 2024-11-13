@@ -17,7 +17,6 @@ function TourItem({ start, limit, query, queryContent }) {
     if (limit) api += "?" + `_start=${start}&_limit=${limit}`;
     if (query && queryContent) api += "?" + query + "=" + queryContent;
 
-    console.log(api);
     const fetchData = async () => {
       try {
         const response = await fetch(api);

@@ -1,76 +1,78 @@
 export const adventureData = [
   {
-    name: "Kayaking",
-    des: "Kayaking is a water sport where individuals paddle a kayak through water. Kayaks are small, narrow boats that are propelled using a double-bladed paddle. Kayaking can be done on calm lakes, slow-moving rivers, or even in coastal waters. It offers a thrilling way to explore waterways and enjoy nature.",
+    name: "Chèo thuyền",
+    des: "Chèo thuyền là hoạt động điều khiển thuyền di chuyển trên mặt nước bằng cách sử dụng mái chèo. Nó có thể được thực hiện cho mục đích giải trí, rèn luyện sức khỏe hoặc thi đấu. Chèo thuyền là một bài tập toàn thân đòi hỏi sự phối hợp, sức mạnh và sức bền. Hoạt động này thường được thực hiện trên những mặt nước yên tĩnh như hồ, sông hoặc kênh.",
+    image:
+      "https://res.cloudinary.com/hydrow/image/upload/f_auto/q_auto/v1689004275/Blog/is-the-rowing-machine-good-cardio.jpg",
+  },
+  {
+    name: "Chèo thuyền Kayak",
+    des: "Chèo thuyền kayak là một môn thể thao dưới nước, nơi mà người chơi sử dụng mái chèo để điều khiển kayak di chuyển trên nước. Kayak là những chiếc thuyền nhỏ, hẹp và được đẩy bằng mái chèo hai lưỡi. Chèo thuyền kayak có thể được thực hiện trên các hồ yên tĩnh, các dòng sông chảy chậm, hoặc thậm chí trên vùng biển ven bờ. Đây là một cách thú vị để khám phá các tuyến đường nước và thưởng thức thiên nhiên.",
     image:
       "https://res.cloudinary.com/gofjords-com/images/w_2560,h_1707,c_scale/f_auto,q_auto:eco/v1683890721/Experiences/XXLofoten/Kayaking/Evening%20kayaking%202020/Evening-kayaking-Svolvaer-Lofoten-XXlofoten-1/Evening-kayaking-Svolvaer-Lofoten-XXlofoten-1.jpg?_i=AA",
   },
   {
-    name: "Whitewater Rafting",
-    des: "Whitewater rafting is an adventurous activity where a group of people navigate a raft through turbulent river rapids. Participants work together to paddle the raft and navigate obstacles under the guidance of a trained guide. Whitewater rafting is known for its excitement, adrenaline rush, and teamwork.",
+    name: "Chèo thuyền vượt thác",
+    des: "Chèo thuyền vượt thác là một hoạt động mạo hiểm, nơi mà một nhóm người điều khiển thuyền bè vượt qua những con suối gập ghềnh. Những người tham gia cùng nhau chèo thuyền và điều hướng các chướng ngại vật dưới sự hướng dẫn của một hướng dẫn viên đã qua đào tạo. Chèo thuyền vượt thác nổi tiếng với sự hồi hộp, cảm giác mạnh và tinh thần đồng đội.",
     image:
       "https://media.cntraveler.com/photos/64879b50add73e0d14b17f9e/16:9/w_2580,c_limit/Most-Adventurous-things-to-do-in-your-lifetime-(update)_timur-garifov-sisZWCDkmwA-unsplash.jpg",
   },
   {
-    name: "Multi-sport",
-    des: "Multi-sport adventures involve engaging in a variety of outdoor activities over a single trip or vacation. These trips often combine activities such as hiking, biking, kayaking, rafting, and more. Participants get to experience a diverse range of landscapes and environments, from mountains and rivers to forests and coastlines. Multi-sport adventures offer excitement, challenge, and the opportunity to explore different activities while enjoying the great outdoors. They are ideal for adventurous individuals or groups seeking a dynamic and immersive outdoor experience.",
+    name: "Đa môn thể thao",
+    des: "Các chuyến phiêu lưu đa môn thể thao bao gồm việc tham gia vào nhiều hoạt động ngoài trời trong cùng một chuyến đi hoặc kỳ nghỉ. Những chuyến đi này thường kết hợp các hoạt động như đi bộ, đạp xe, chèo thuyền kayak, chèo thuyền vượt thác, và nhiều hoạt động khác. Người tham gia sẽ được trải nghiệm đa dạng các cảnh quan và môi trường, từ núi non và sông suối đến rừng rậm và bờ biển. Các chuyến phiêu lưu đa môn thể thao mang lại cảm giác thú vị, thử thách và cơ hội để khám phá nhiều hoạt động khác nhau trong khi thưởng thức thiên nhiên. Chúng rất lý tưởng cho những cá nhân hoặc nhóm yêu thích phiêu lưu muốn có một trải nghiệm ngoài trời sôi động và sâu sắc.",
     image:
       "https://www.tripsavvy.com/thmb/7r04fnqZYnjWUE6XKT6qMIuQ1tI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/people-kayaking-and-skiing-731742245-59753ebaaf5d3a00115a4129.jpg",
   },
   {
-    name: "Hiking",
-    des: "Hiking is the activity of walking in natural environments, often on trails or paths. It is a popular outdoor activity that can vary from leisurely walks to challenging treks through rugged terrain. Hikers often enjoy the fresh air, scenic views, and physical exercise that hiking provides.",
+    name: "Đi bộ đường dài",
+    des: "Đi bộ đường dài là hoạt động đi bộ trong môi trường tự nhiên, thường là trên các tuyến đường hoặc lối mòn. Đây là một hoạt động ngoài trời phổ biến, có thể từ những cuộc dạo chơi nhẹ nhàng đến những chuyến đi đầy thách thức qua địa hình gồ ghề. Những người đi bộ thường thích không khí trong lành, cảnh đẹp và rèn luyện thể chất mà việc đi bộ đường dài mang lại.",
     image:
       "https://cdn.britannica.com/94/125794-050-FB09B3F4/Hikers-Gore-Range-Mountains-Denver.jpg",
   },
   {
-    name: "Camping",
-    des: "Camping involves staying overnight outdoors, typically in tents or other temporary shelters. It is a popular recreational activity that allows people to disconnect from the hustle and bustle of everyday life and reconnect with nature. Campers often enjoy activities such as hiking, fishing, cooking over a campfire, and stargazing.",
+    name: "Cắm trại",
+    des: "Cắm trại là việc ở lại qua đêm ngoài trời, thường trong các lều hoặc nơi trú tạm thời khác. Đây là một hoạt động giải trí phổ biến giúp mọi người tạm xa cuộc sống ồn ào và kết nối lại với thiên nhiên. Những người cắm trại thường thích các hoạt động như đi bộ đường dài, câu cá, nấu ăn trên lửa trại và ngắm sao.",
     image:
       "https://koa.com/blog/images/family-camping-at-sunset.jpg?preset=heroimagecropped",
   },
-  {
-    name: "Rowing",
-    des: "Rowing involves propelling a boat through water using oars. It can be done for leisure, exercise, or competition. Rowing is a full-body workout that requires coordination, strength, and endurance. It is often enjoyed on calm waters such as lakes, rivers, or canals.",
-    image:
-      "https://res.cloudinary.com/hydrow/image/upload/f_auto/q_auto/v1689004275/Blog/is-the-rowing-machine-good-cardio.jpg",
-  },
 ];
+
 export const destinationData = [
-  "France",
-  "USA",
-  "Japan",
-  "China",
-  "Vietnam",
-  "Korea",
+  "Pháp",
+  "Hoa Kỳ",
+  "Nhật Bản",
+  "Trung Quốc",
+  "Việt Nam",
+  "Hàn Quốc",
 ];
 
 export const tourStories = [
   {
-    title: "Family-Owned & Operated",
-    description: "Guiding life’s greatest adventures since 1969",
+    title: "Doanh nghiệp gia đình",
+    description: "Dẫn dắt những cuộc phiêu lưu vĩ đại nhất từ năm 1969",
   },
   {
-    title: "Professionalism",
+    title: "Chuyên nghiệp",
     description:
-      "The most experienced and customer-focused guides & staff in the industry",
+      "Đội ngũ hướng dẫn và nhân viên giàu kinh nghiệm, tập trung vào khách hàng nhất trong ngành",
   },
   {
-    title: "Personal Service",
-    description: "Low guide-to-guest ratio & small group sizes",
+    title: "Dịch vụ cá nhân",
+    description: "Tỷ lệ hướng dẫn viên so với khách thấp và quy mô nhóm nhỏ",
   },
   {
-    title: "High-Quality Equipment",
-    description: "We invest in top-of-the-line rafts & expedition equipment",
-  },
-  {
-    title: "Responsible Travel",
+    title: "Trang thiết bị chất lượng cao",
     description:
-      "Our commitment to the environment & local communities is unmatched",
+      "Chúng tôi đầu tư vào các thuyền bè và thiết bị thám hiểm hàng đầu",
   },
   {
-    title: "Unparalleled Access",
+    title: "Du lịch có trách nhiệm",
     description:
-      "Most diverse collection of river-running permits in the world",
+      "Cam kết của chúng tôi đối với môi trường và cộng đồng địa phương là không ai sánh kịp",
+  },
+  {
+    title: "Quyền truy cập chưa từng có",
+    description:
+      "Bộ sưu tập đa dạng nhất về các giấy phép chạy thuyền trên sông trên toàn thế giới",
   },
 ];

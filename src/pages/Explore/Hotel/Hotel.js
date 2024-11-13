@@ -1,5 +1,11 @@
+import HotelItem from "../../../components/HotelItem";
+
 function Hotel() {
-  return <h1> hotel</h1>;
+  return (
+    <div>
+      <HotelItem />
+    </div>
+  );
 }
 
 export default Hotel;

@@ -3,12 +3,32 @@ import classNames from "classnames/bind";
 import styles from "./Tour.module.scss";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { tours_link } from "../../config/api_link";
 
 const cx = classNames.bind(styles);
 
 function Tour() {
   const [limit, setLimit] = useState(10);
+  const [totalTour, setTotalTour] = useState(0);
+
+  useEffect(() => {
+    const fetchTotalTours = async () => {
+      try {
+        const response = await fetch(tours_link);
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
+        const result = await response.json();
+        setTotalTour(result.length);
+      } catch (error) {
+        console.error("Error fetching total tours:", error);
+      }
+    };
+
+    fetchTotalTours();
+  }, []);
+  console.log(totalTour);
   const clearAll = () => {
     const checkboxes = document.querySelectorAll("input[type=checkbox]");
     checkboxes.forEach((checkbox) => {
@@ -219,7 +239,9 @@ function Tour() {
           <TourItem start={0} limit={limit} />
         </div>
         <div className={cx("tours-all-load-more")}>
-          <button onClick={() => setLimit(limit + 10)}>Load more</button>
+          {totalTour > limit && (
+            <button onClick={() => setLimit(limit + 10)}>Load more</button>
+          )}
         </div>
       </div>
     </div>

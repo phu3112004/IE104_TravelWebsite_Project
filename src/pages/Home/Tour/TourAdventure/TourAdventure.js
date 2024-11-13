@@ -6,7 +6,7 @@ import classNames from "classnames/bind";
 import { useState } from "react";
 const cx = classNames.bind(styles);
 function TourAdventure() {
-  const [type, setType] = useState("Kayaking");
+  const [type, setType] = useState("Chèo thuyền");
   function handleSlide(name) {
     setType(name);
   }
@@ -32,7 +32,7 @@ function TourAdventure() {
               <div key={index} className={cx("tour-detail-item")}>
                 <h1>{item.name}</h1>
                 <p>{item.des}</p>
-                <Link to={`/adventure/${item.name}`}>View more details</Link>
+                <Link to={`/adventure/${item.name}`}>Tìm hiểu chi tiết</Link>
               </div>
             );
           }
@@ -40,9 +40,9 @@ function TourAdventure() {
         })}
       </div>
       <div className={cx("tour-adventure-more")}>
-        <p>Featured Adventures</p>
-        <h2>OUR MOST POPULAR TRIPS</h2>
-        <Link to="/tour">VIEW ALL TOURS</Link>
+        <p>Những cuộc phiêu lưu đặc sắc</p>
+        <h2>HẤP DẪN NHẤT</h2>
+        <Link to="/tour">XEM TẤT CẢ TOUR</Link>
       </div>
     </div>
   );

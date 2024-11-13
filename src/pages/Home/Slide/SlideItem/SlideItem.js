@@ -14,7 +14,7 @@ function SlideItem({ item }) {
       <div className={cx("content")}>
         <div className={cx("name")}>{item.name}</div>
         <div className={cx("des")}>{item.des}</div>
-        <Link to={`/destination/${item.name}`}>See More</Link>
+        <Link to={`/destination/${item.name}`}>Xem thêm</Link>
       </div>
     </div>
   );

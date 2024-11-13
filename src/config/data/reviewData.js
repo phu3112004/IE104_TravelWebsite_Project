@@ -3,9 +3,9 @@ export const reviewData = [
     auth: "Kala",
     date: "24/02/2024",
     address: "Oregon House, CA",
-    title: "so much fun!!!",
+    title: "Rất vui!!!",
     content:
-      "We went for a bachelorette trip and had the best time! The water was fast and high, and our guides Andrew and Adam rocked! The whole guide crew was a blast and made the trip super fun. Bring sunscreen.",
+      "Chúng tôi đã đi dự tiệc độc thân và có khoảng thời gian tuyệt vời nhất! Nước chảy nhanh và cao, và hướng dẫn viên Andrew và Adam của chúng tôi thật tuyệt! Toàn bộ đội hướng dẫn viên đều rất tuyệt và khiến chuyến đi trở nên cực kỳ thú vị. Hãy mang theo kem chống nắng.",
     tags: ["Would recommend to friend", "Experienced guides", "Fun"],
     rate: 5,
   },

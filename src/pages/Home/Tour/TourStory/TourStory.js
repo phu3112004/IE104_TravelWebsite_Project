@@ -38,14 +38,14 @@ function TourStory() {
       <div className={cx("tour-story-container")}>
         <div className={cx("tour-story-1")}>
           <div className={cx("tour-story-1-title")}>
-            <h2>The 2PM& Story</h2>
-            <h2>EXPLORING IS IN OUR ROOTS</h2>
-            <Link to="/about">WHY 2PM&?</Link>
+            <h2>Câu chuyện NPQ</h2>
+            <h2>KHÁM PHÁ LÀ GỐC RỄ</h2>
+            <Link to="/about">Tại sao chọn NPQ?</Link>
           </div>
           <div className={cx("tour-story-1-content")}>
             <p>
-              There’s a reason that more than 80% of 2PM& travelers each year
-              are repeat guests or were referred by a past 2PM& traveler.
+              Có lý do khiến hơn 80% du khách của NPQ mỗi năm là khách quen hoặc
+              được du khách cũ của NPQ giới thiệu.
             </p>
           </div>
         </div>
@@ -60,13 +60,13 @@ function TourStory() {
 
         <div className={cx("tour-story-3")}>
           <div className={cx("tour-story-3-title")}>
-            <h2>Where We Travel</h2>
-            <h2>FEATURED CITY</h2>
+            <h2>Nơi để khám phá</h2>
+            <h2>PHONG CẢNH ĐẶC SẮC</h2>
             <p>
-              NPQ TRAVEL offers more than 75 unique vacation itineraries across
-              Vietnam and world.
+              NPQ TRAVEL cung cấp hơn 75 hành trình nghỉ dưỡng độc đáo trên khắp
+              Việt Nam và thế giới.
             </p>
-            <Link to="/scenery">VIEW ALL SCENERIES</Link>
+            <Link to="/scenery">XEM TẤT CẢ PHONG CẢNH</Link>
           </div>
           <div className={cx("tour-story-3-content")}>
             <div

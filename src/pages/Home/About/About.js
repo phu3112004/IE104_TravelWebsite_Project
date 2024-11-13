@@ -17,21 +17,22 @@ function About() {
       </div>
       <div className={cx("about-des")}>
         <h2>
-          Welcome to <br /> NPQ TRAVEL
+          Chào mừng bạn đến với <br /> NPQ TRAVEL
         </h2>
         <p>
-          From scenic road trips winding through breathtaking landscapes to
-          hidden hiking gems off the beaten path, we've got you covered with a
-          plethora of exciting destinations to explore. Our mission is to
-          empower you with the knowledge and resources to travel with confidence
-          and ease. At NPQ TRAVEL, we believe that the journey itself is as
-          important as the destination. Let us be your trusted companion as you
-          navigate the globe, uncovering hidden gems and creating unforgettable
-          memories. So pack your bags, grab your camera, and join us on a
-          journey of exploration and discovery.
+          Từ những chuyến đi đường ngắm cảnh quanh co qua những cảnh quan ngoạn
+          mục đến những viên ngọc đi bộ đường dài ẩn giấu ngoài con đường mòn,
+          chúng tôi đã cung cấp cho bạn vô số điểm đến thú vị để khám phá. Sứ
+          mệnh của chúng tôi là trao cho bạn kiến ​​thức và nguồn lực để du lịch
+          một cách tự tin và dễ dàng. Tại NPQ TRAVEL, chúng tôi tin rằng bản
+          thân hành trình cũng quan trọng như điểm đến. Hãy để chúng tôi trở
+          thành người bạn đồng hành đáng tin cậy của bạn khi bạn khám phá thế
+          giới, khám phá những viên ngọc ẩn giấu và tạo ra những kỷ niệm khó
+          quên. Vì vậy, hãy chuẩn bị hành lý, cầm máy ảnh và tham gia cùng chúng
+          tôi trong hành trình khám phá và tìm hiểu.
         </p>
         <Link to="/about" className={cx("about-btn")}>
-          ABOUT US
+          VỀ CHÚNG TÔI
           <FontAwesomeIcon icon={faChevronRight} />
         </Link>
       </div>

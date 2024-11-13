@@ -7,10 +7,10 @@ function Policy() {
   return (
     <>
       <div className={cx("login-tele")}>
-        <p>By clicking continue, you agree to our</p>
-        <a href="#">Terms of Service</a>
-        <p>and</p>
-        <a href="#">Privacy Policy</a>
+        <p>Bằng cách nhấp vào tiếp tục, bạn đồng ý với</p>
+        <a href="#">Điều khoản dịch vụ</a>
+        <p>và</p>
+        <a href="#">Chính sách bảo mật</a>
       </div>
     </>
   );

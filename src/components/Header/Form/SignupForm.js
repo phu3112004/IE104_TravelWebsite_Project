@@ -26,8 +26,8 @@ function SignupForm({ stopPropagation, onChangeForm, onShow }) {
       <div className={cx("login-close")} onClick={onShow}>
         <FontAwesomeIcon icon={faXmark} className={cx("login-close-icon")} />
       </div>
-      <h1>Create an account</h1>
-      <p>Enter your email to sign up</p>
+      <h1>Tạo tài khoản</h1>
+      <p>Tạo tài khoản bằng e-mail</p>
       <div className={cx("login-form")}>
         <div className={cx("login-input")}>
           <FontAwesomeIcon icon={faUser} />
@@ -44,7 +44,7 @@ function SignupForm({ stopPropagation, onChangeForm, onShow }) {
             style={{ width: "80%" }}
             type={isPasswordShowed ? "text" : "password"}
             name="password"
-            placeholder="Password"
+            placeholder="Nhập mật khẩu"
           />
           <FontAwesomeIcon
             icon={isPasswordShowed ? faEye : faEyeSlash}
@@ -58,7 +58,7 @@ function SignupForm({ stopPropagation, onChangeForm, onShow }) {
             style={{ width: "80%" }}
             type={isCfPasswordShowed ? "text" : "password"}
             name="cfpassword"
-            placeholder="Confirm password"
+            placeholder="Nhập lại mật khẩu"
           />
           <FontAwesomeIcon
             icon={isCfPasswordShowed ? faEye : faEyeSlash}
@@ -66,11 +66,11 @@ function SignupForm({ stopPropagation, onChangeForm, onShow }) {
             className={cx("eye-icon")}
           />
         </div>
-        <button>Sign up with email</button>
+        <button>Đăng ký</button>
       </div>
       <div className={cx("login-google")}>
         <div className={cx("login-line-divide")}>
-          <span>or continue with:</span>
+          <span>hoặc đăng nhập bằng:</span>
         </div>
         <button className={cx("login-google-button")}>
           <img
@@ -81,8 +81,8 @@ function SignupForm({ stopPropagation, onChangeForm, onShow }) {
         </button>
       </div>
       <div className={cx("login-tele")}>
-        <p>Already have an account?</p>
-        <button onClick={onChangeForm}>Log in</button>
+        <p>Bạn đã có tài khoản?</p>
+        <button onClick={onChangeForm}>Đăng nhập</button>
       </div>
       <Policy />
     </form>
