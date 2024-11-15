@@ -56,14 +56,14 @@ function Tour() {
     <div className={cx("tours-page")}>
       <div className={cx("tours-filter-container")}>
         <button className={cx("tours-filter-clearall")} onClick={clearAll}>
-          Clear All
+          Xóa tất cả
         </button>
 
         <button
           className={cx("tours-filter-header")}
           onClick={() => toggleDropdown("trip-length")}
         >
-          TRIP LENGTH <FontAwesomeIcon icon={faChevronDown} />
+          SỐ NGÀY <FontAwesomeIcon icon={faChevronDown} />
         </button>
         <div id="trip-length" className={cx("tours-filter-content")}>
           <input
@@ -71,26 +71,26 @@ function Tour() {
             id="all-length"
             onClick={() => toggleAllCheckbox("all-length", "trip-length")}
           />
-          <label htmlFor="all-length">All</label>
+          <label htmlFor="all-length">Tất cả</label>
           <br />
           <input type="checkbox" id="half-day" />
-          <label htmlFor="half-day">1/2 Day or 1 Day</label>
+          <label htmlFor="half-day">1/2 Ngày hoặc 1 Ngày</label>
           <br />
           <input type="checkbox" id="2-3-days" />
-          <label htmlFor="2-3-days">2-3 Days</label>
+          <label htmlFor="2-3-days">2-3 Ngày</label>
           <br />
           <input type="checkbox" id="4-7-days" />
-          <label htmlFor="4-7-days">4-7 Days</label>
+          <label htmlFor="4-7-days">4-7 Ngày</label>
           <br />
           <input type="checkbox" id="8-days" />
-          <label htmlFor="8-days">8+ Days</label>
+          <label htmlFor="8-days">8+ Ngày</label>
         </div>
 
         <button
           className={cx("tours-filter-header")}
           onClick={() => toggleDropdown("destinations")}
         >
-          DESTINATIONS <FontAwesomeIcon icon={faChevronDown} />
+          ĐIỂM ĐẾN <FontAwesomeIcon icon={faChevronDown} />
         </button>
         <div id="destinations" className={cx("tours-filter-content")}>
           <input
@@ -100,25 +100,25 @@ function Tour() {
               toggleAllCheckbox("all-destinations", "destinations")
             }
           />
-          <label htmlFor="all-destinations">All</label>
+          <label htmlFor="all-destinations">Tất cả</label>
           <br />
           <input type="checkbox" id="china" />
-          <label htmlFor="china">China</label>
+          <label htmlFor="china">Trung Quốc</label>
           <br />
           <input type="checkbox" id="korea" />
-          <label htmlFor="korea">Korea</label>
+          <label htmlFor="korea">Hàn Quốc</label>
           <br />
           <input type="checkbox" id="japan" />
-          <label htmlFor="japan">Japan</label>
+          <label htmlFor="japan">Nhật Bản</label>
           <br />
           <input type="checkbox" id="france" />
-          <label htmlFor="france">France</label>
+          <label htmlFor="france">Pháp</label>
           <br />
           <input type="checkbox" id="usa" />
-          <label htmlFor="usa">USA</label>
+          <label htmlFor="usa">Hoa Kỳ</label>
           <br />
           <input type="checkbox" id="vietnam" />
-          <label htmlFor="vietnam">Vietnam</label>
+          <label htmlFor="vietnam">Việt Nam</label>
           <br />
         </div>
 
@@ -126,7 +126,7 @@ function Tour() {
           className={cx("tours-filter-header")}
           onClick={() => toggleDropdown("activities")}
         >
-          ACTIVITIES <FontAwesomeIcon icon={faChevronDown} />
+          HOẠT ĐỘNG <FontAwesomeIcon icon={faChevronDown} />
         </button>
         <div id="activities" className={cx("tours-filter-content")}>
           <input
@@ -134,25 +134,25 @@ function Tour() {
             id="all-activities"
             onClick={() => toggleAllCheckbox("all-activities", "activities")}
           />
-          <label htmlFor="all-activities">All</label>
+          <label htmlFor="all-activities">Tất cả</label>
           <br />
           <input type="checkbox" id="camping" />
-          <label htmlFor="camping">Camping</label>
+          <label htmlFor="camping">Cắm trại</label>
           <br />
           <input type="checkbox" id="hiking" />
-          <label htmlFor="hiking">Hiking</label>
-          <br />
-          <input type="checkbox" id="kayaking" />
-          <label htmlFor="kayaking">Kayaking</label>
+          <label htmlFor="hiking">Đi bộ đường dài</label>
           <br />
           <input type="checkbox" id="rowing" />
-          <label htmlFor="rowing">Rowing</label>
+          <label htmlFor="rowing">Chèo thuyền</label>
           <br />
-          <input type="checkbox" id="multi-sport" />
-          <label htmlFor="multi-sport">Multi-sport</label>
+          <input type="checkbox" id="kayaking" />
+          <label htmlFor="kayaking">Chèo thuyền kayak</label>
           <br />
           <input type="checkbox" id="whitewater-rafting" />
-          <label htmlFor="whitewater-rafting">Whitewater Rafting</label>
+          <label htmlFor="whitewater-rafting">Chèo thuyền vượt thác</label>
+          <br />
+          <input type="checkbox" id="multi-sport" />
+          <label htmlFor="multi-sport">Đa môn thể thao</label>
           <br />
         </div>
 
@@ -168,16 +168,16 @@ function Tour() {
             id="all-levels"
             onClick={() => toggleAllCheckbox("all-levels", "adventure-level")}
           />
-          <label htmlFor="all-levels">All</label>
+          <label htmlFor="all-levels">Tất cả</label>
           <br />
           <input type="checkbox" id="easy" />
-          <label htmlFor="easy">Easier</label>
+          <label htmlFor="easy">Dễ</label>
           <br />
           <input type="checkbox" id="moderate" />
-          <label htmlFor="moderate">Moderate</label>
+          <label htmlFor="moderate">Trung bình</label>
           <br />
           <input type="checkbox" id="challenging" />
-          <label htmlFor="challenging">Challenging</label>
+          <label htmlFor="challenging">Khó</label>
           <br />
         </div>
 
@@ -185,7 +185,7 @@ function Tour() {
           className={cx("tours-filter-header")}
           onClick={() => toggleDropdown("minimum-age")}
         >
-          MINIMUM AGE <FontAwesomeIcon icon={faChevronDown} />
+          ĐỘ TUỔI <FontAwesomeIcon icon={faChevronDown} />
         </button>
         <div id="minimum-age" className={cx("tours-filter-content")}>
           <input
@@ -193,7 +193,7 @@ function Tour() {
             id="all-ages"
             onClick={() => toggleAllCheckbox("all-ages", "minimum-age")}
           />
-          <label htmlFor="all-ages">All</label>
+          <label htmlFor="all-ages">Tất cả</label>
           <br />
           <input type="checkbox" id="8" />
           <label htmlFor="8">8</label>
@@ -213,7 +213,7 @@ function Tour() {
           className={cx("tours-filter-header")}
           onClick={() => toggleDropdown("price-range")}
         >
-          PRICE RANGE <FontAwesomeIcon icon={faChevronDown} />
+          GIÁ CẢ <FontAwesomeIcon icon={faChevronDown} />
         </button>
         <div id="price-range" className={cx("tours-filter-content")}>
           <input
@@ -221,7 +221,7 @@ function Tour() {
             id="all-prices"
             onClick={() => toggleAllCheckbox("all-prices", "price-range")}
           />
-          <label htmlFor="all-prices">All</label>
+          <label htmlFor="all-prices">Tất cả</label>
           <br />
           <input type="checkbox" id="under-500" />
           <label htmlFor="under-500">{"< $500"}</label>
@@ -240,7 +240,7 @@ function Tour() {
         </div>
         <div className={cx("tours-all-load-more")}>
           {totalTour > limit && (
-            <button onClick={() => setLimit(limit + 10)}>Load more</button>
+            <button onClick={() => setLimit(limit + 10)}>Xem thêm</button>
           )}
         </div>
       </div>

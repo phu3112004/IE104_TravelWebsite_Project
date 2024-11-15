@@ -6,15 +6,16 @@ import classNames from "classnames/bind";
 import { Link } from "react-router-dom";
 import styles from "./HotelItem.module.scss";
 const cx = classNames.bind(styles);
-function HotelItem() {
+function HotelItem({ query = "type", queryContent }) {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-
+  var api = hotels_link;
+  if (query) api += "?" + query + "=" + queryContent;
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(hotels_link);
+        const response = await fetch(api);
         if (!response.ok) throw new Error("Network response was not ok");
         const result = await response.json();
         setData(result);
@@ -25,12 +26,12 @@ function HotelItem() {
       }
     };
     fetchData();
-  }, []);
+  }, [queryContent]);
   if (loading) {
-    return <div>Loading...</div>;
+    return <div>Đang tải...</div>;
   }
   if (error) {
-    return <div>Error: {error}</div>;
+    return <div>Lỗi: {error}</div>;
   }
   return (
     <>
@@ -54,18 +55,18 @@ function HotelItem() {
               <p>({item.reviews})</p>
             </div>
             <div className={cx("hotel-item-info")}>
-              <div className={cx("hotel-item-info-title")}>Location:</div>
+              <div className={cx("hotel-item-info-title")}>Địa điểm:</div>
               <p>{item.location}</p>
             </div>
             <div className={cx("hotel-item-info")}>
-              <div className={cx("hotel-item-info-title")}>Level:</div>
+              <div className={cx("hotel-item-info-title")}>Mức độ:</div>
               <p>{item.level}</p>
             </div>
             <div className={cx("hotel-item-price")}>
               <div className={cx("hotel-item-price-title")}>
-                <p>From</p>
+                <p>Giá từ</p>
                 <h2>${item.price_per_night}</h2>
-                <p> per night</p>
+                <p> một đêm</p>
               </div>
             </div>
           </div>
