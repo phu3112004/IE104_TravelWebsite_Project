@@ -4,7 +4,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 64px 16px;
+  margin-bottom: 64px;
+}
+.slide-container {
+  width: 100%;
+  margin-bottom: 32px;
+  & img {
+    width: 100%;
+  }
 }
 .select-container {
   margin-bottom: 32px;

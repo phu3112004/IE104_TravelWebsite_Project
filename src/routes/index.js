@@ -4,6 +4,7 @@ import About from "../pages/About";
 import Destination from "../pages/Destination";
 import Explore from "../pages/Explore";
 import Hotel from "../pages/Explore/Hotel";
+import HotelDetail from "../pages/Explore/Hotel/HotelDetail";
 import Adventure from "../pages/Explore/Adventure";
 import AdventureDetail from "../pages/Explore/Adventure/AdventureDetail";
 import Blog from "../pages/Blog";
@@ -41,6 +42,10 @@ export const publicRoutes = [
   {
     path: "/hotel",
     component: Hotel,
+  },
+  {
+    path: "/hotel/:id",
+    component: HotelDetail,
   },
   {
     path: "/adventure",

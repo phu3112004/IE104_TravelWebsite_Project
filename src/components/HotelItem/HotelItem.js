@@ -38,7 +38,7 @@ function HotelItem({ query = "type", queryContent }) {
       {data.map((item, index) => (
         <div key={index} className={cx("hotel-item-container")}>
           <div className={cx("hotel-item-img")}>
-            <img src={item.image} alt={item.name} />
+            <img src={item.img} alt={item.name} />
           </div>
           <div className={cx("hotel-item-content")}>
             <p className={cx("hotel-item-tag")}>{item.type}</p>
@@ -57,10 +57,6 @@ function HotelItem({ query = "type", queryContent }) {
             <div className={cx("hotel-item-info")}>
               <div className={cx("hotel-item-info-title")}>Địa điểm:</div>
               <p>{item.location}</p>
-            </div>
-            <div className={cx("hotel-item-info")}>
-              <div className={cx("hotel-item-info-title")}>Mức độ:</div>
-              <p>{item.level}</p>
             </div>
             <div className={cx("hotel-item-price")}>
               <div className={cx("hotel-item-price-title")}>

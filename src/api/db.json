@@ -1522,7 +1522,7 @@
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "6",
-      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15700594.jpg?k=3cee66b3c35caf44f9c288fcb214da4e0490b5232158304b8474ad6e042eb00e&o=&hp=1"
+      "img": "https://cache.marriott.com/content/dam/marriott-renditions/SELLC/sellc-palace-gate-4762-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*"
     },
     {
       "name": "Khách sạn Shanghai Riverside Inn",
@@ -1542,7 +1542,7 @@
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "7",
-      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171308045.jpg?k=82e1d037d6ff34429f6e5804f6e92325f2b5a2c69c7282a2e7d26e7e6881113c&o=&hp=1"
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/91/39/e6/exterior-night-view.jpg?w=700&h=-1&s=1"
     },
     {
       "name": "Khách sạn Zen Retreat",
@@ -2378,11 +2378,11 @@
         "Sảnh trên mái"
       ],
       "description": "Khu nghỉ dưỡng sang trọng này tại Riviera Pháp mang đến tầm nhìn tuyệt đẹp ra Biển Địa Trung Hải. Với bãi biển riêng, spa sang trọng và hồ bơi vô cực trên mái, đây là điểm đến hoàn hảo cho kỳ nghỉ cao cấp bên bờ biển.",
-      "type": "Khách sạn sang trọng",
+      "type": "Khu nghỉ dưỡng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "49",
-      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b4/c7/c7/93/hotel-barriere-le-majestic.jpg?w=1200&h=-1&s=1"
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/2d/a1/02/ba/suite-gray-d-albion.jpg"
     },
     {
       "name": "Miami Oceanfront Suites",

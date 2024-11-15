@@ -14,6 +14,9 @@ function Hotel() {
 
   return (
     <div className={cx("hotel-page")}>
+      <div className={cx("slide-container")}>
+        <img src="https://wakacjeamigos.pl/uploads/blog/retina_0d62b439-9209-422f-9033-517c11c05c5f.jpg" />
+      </div>
       <div className={cx("select-container")}>
         <label className={cx("select-title")} htmlFor="hotelType">
           Chọn loại khách sạn:{" "}
