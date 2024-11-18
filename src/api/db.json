@@ -3465,5 +3465,15 @@
       "id": "99",
       "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342714867.jpg?k=cbcabd5fb0dfd5109fc2b113e56b9facb6bc4b0f2f4ed941730438c6f34b5abc&o=&hp=1"
     }
+  ],
+  "destinations":[
+    {
+      "location" : "Vietnam",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png"
+    },
+    {
+      "location" : "USA",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwC_ttP13Njl5PVk01qnW9KRdJP-F-JdWVg&s"
+    }
   ]
 }
