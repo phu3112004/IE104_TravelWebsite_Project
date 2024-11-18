@@ -17,7 +17,6 @@ function TourItem({ start, limit, query, queryContent }) {
     if (limit) api += "?" + `_start=${start}&_limit=${limit}`;
     if (query && queryContent) api += "?" + query + "=" + queryContent;
 
-    console.log(api);
     const fetchData = async () => {
       try {
         const response = await fetch(api);
@@ -66,20 +65,22 @@ function TourItem({ start, limit, query, queryContent }) {
               <p>({item.reviews})</p>
             </div>
             <div className={cx("tour-item-info")}>
-              <div className={cx("tour-item-info-title")}>Location:</div>
+              <div className={cx("tour-item-info-title")}>Địa điểm:</div>
               <p>{item.location}</p>
             </div>
             <div className={cx("tour-item-info")}>
-              <div className={cx("tour-item-info-title")}>Level:</div>
+              <div className={cx("tour-item-info-title")}>Mức độ:</div>
               <p>{item.level}</p>
             </div>
             <div className={cx("tour-item-info")}>
-              <div className={cx("tour-item-info-title")}>Minimum Age:</div>
+              <div className={cx("tour-item-info-title")}>
+                Độ tuổi tối thiểu:
+              </div>
               <p>{item.age}</p>
             </div>
             <div className={cx("tour-item-price")}>
               <div className={cx("tour-item-price-title")}>
-                <p>From</p>
+                <p>Giá chỉ từ</p>
                 <h2>${item.price}</h2>
               </div>
             </div>

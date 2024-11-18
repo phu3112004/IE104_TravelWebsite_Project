@@ -12,7 +12,7 @@ function Find() {
     <div className={cx("find-container")}>
       <div className={cx("find-content")}>
         <label htmlFor="find-destination" className={cx("find-title")}>
-          Destination
+          Điểm đến
         </label>
         <select id="find-destination" className={cx("find-dropdown")}>
           {destinationData.map((item, index) => (
@@ -25,7 +25,7 @@ function Find() {
 
       <div className={cx("find-content")}>
         <label htmlFor="find-activity" className={cx("find-title")}>
-          Activity
+          Hoạt động
         </label>
         <select id="find-activity" className={cx("find-dropdown")}>
           {adventureData.map((item, index) => (
@@ -38,24 +38,24 @@ function Find() {
 
       <div className={cx("find-content")}>
         <label htmlFor="find-range" className={cx("find-title")}>
-          Range
+          Thời gian
         </label>
         <select id="find-range" className={cx("find-dropdown")}>
-          <option value="1day">1 Day</option>
-          <option value="23days">2-3 Days</option>
-          <option value="47days">4-7 Days</option>
-          <option value="8days">8+ Days</option>
+          <option value="1day">1 Ngày</option>
+          <option value="23days">2-3 Ngày</option>
+          <option value="47days">4-7 Ngày</option>
+          <option value="8days">8+ Ngày</option>
         </select>
       </div>
 
       <div className={cx("find-content")}>
         <label htmlFor="find-level" className={cx("find-title")}>
-          level
+          Mức độ
         </label>
         <select id="find-level" className={cx("find-dropdown")}>
-          <option value="Easy">Easy</option>
-          <option value="Moderate">Moderate</option>
-          <option value="Challenging">Challenging</option>
+          <option value="Easy">Dễ</option>
+          <option value="Moderate">Trung bình</option>
+          <option value="Challenging">Khó</option>
         </select>
       </div>
 

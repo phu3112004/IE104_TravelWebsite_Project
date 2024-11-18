@@ -9,9 +9,9 @@ function Blog() {
   return (
     <div className={cx("blog-container")}>
       <div className={cx("blog-link")}>
-        <h1>EXPLORE THE BLOG</h1>
+        <h1>KHÁM PHÁ NHỮNG BÀI VIẾT HẤP DẪN</h1>
         <Link to="/blog" className={cx("blog-button")}>
-          VIEW ALL BLOG POSTS
+          XEM TẤT CẢ
         </Link>
       </div>
       <div className={cx("blog-item-container")}>

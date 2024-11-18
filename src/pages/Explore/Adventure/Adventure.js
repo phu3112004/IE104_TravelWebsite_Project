@@ -13,43 +13,44 @@ function Adventure() {
           src="https://vietnam.travel/sites/default/files/styles/top_banner/public/2021-12/782A2680_resize_1.jpg?itok=M2AC24lc"
           alt=""
         />
-        <p>Adventure</p>
+        <p>Cuộc phiêu lưu</p>
       </div>
       <div className={cx("adventure-blog")}>
-        <h2>Why Adventure?</h2>
+        <h2>Tại sao cần phiêu lưu?</h2>
         <p>
-          Adventure has always captivated the human spirit, driving individuals
-          to explore the unknown, push boundaries, and discover new horizons.
-          This innate desire to seek out new experiences and challenge oneself
-          is more than just a thrilling pursuit; it is a fundamental aspect of
-          human nature. The allure of adventure lies in its promise of
-          discovery, personal growth, and the profound sense of accomplishment
-          that comes from overcoming obstacles.
+          Phiêu lưu luôn hấp dẫn tinh thần con người, thúc đẩy mỗi cá nhân khám
+          phá những điều chưa biết, vượt qua mọi ranh giới và khám phá những
+          chân trời mới. Mong muốn bẩm sinh này là tìm kiếm những trải nghiệm
+          mới và thử thách bản thân không chỉ là một hoạt động thú vị; mà còn là
+          một khía cạnh cơ bản của bản chất con người. Sự hấp dẫn của phiêu lưu
+          nằm ở lời hứa về sự khám phá, sự phát triển cá nhân và cảm giác hoàn
+          thành sâu sắc đến từ việc vượt qua những trở ngại.
           <br />
           <br />
-          The unknown holds a unique appeal because it represents potential and
-          possibility. It challenges our understanding of the world and pushes
-          us to question what lies beyond our current experiences. The thrill of
-          stepping into the unknown is a powerful motivator, compelling
-          individuals to embark on journeys that can be both physically and
-          mentally demanding.
+          Điều chưa biết có sức hấp dẫn độc đáo vì nó đại diện cho tiềm năng và
+          khả năng. Nó thách thức sự hiểu biết của chúng ta về thế giới và thúc
+          đẩy chúng ta đặt câu hỏi về những gì nằm ngoài những trải nghiệm hiện
+          tại của mình. Cảm giác hồi hộp khi bước vào điều chưa biết là động lực
+          mạnh mẽ, thúc đẩy mỗi cá nhân bắt đầu những hành trình có thể đòi hỏi
+          cả về thể chất và tinh thần.
           <br />
           <br />
-          Adventure is a timeless and essential aspect of the human experience.
-          It drives us to explore the unknown, challenge ourselves, and grow
-          both personally and collectively. Whether through grand explorations
-          or everyday adventures, the pursuit of new experiences enriches our
-          lives and connects us to a larger narrative of discovery and
-          achievement. In embracing adventure, we honor the spirit of
-          exploration that defines us as human beings and continue to push the
-          boundaries of what is possible.
+          Phiêu lưu là một khía cạnh vượt thời gian và thiết yếu của trải nghiệm
+          con người. Nó thúc đẩy chúng ta khám phá những điều chưa biết, thử
+          thách bản thân và phát triển cả về mặt cá nhân và tập thể. Cho dù
+          thông qua những cuộc khám phá vĩ đại hay những cuộc phiêu lưu hàng
+          ngày, việc theo đuổi những trải nghiệm mới làm phong phú thêm cuộc
+          sống của chúng ta và kết nối chúng ta với một câu chuyện lớn hơn về
+          khám phá và thành tựu. Khi đón nhận cuộc phiêu lưu, chúng ta tôn vinh
+          tinh thần khám phá định nghĩa chúng ta là con người và tiếp tục mở
+          rộng ranh giới của những điều có thể.
           <br />
           <br />
         </p>
       </div>
       <div className={cx("adventure-title")}>
         <div className={cx("line")}></div>
-        <h1>Adventure</h1>
+        <h1>Các hoạt động</h1>
         <div className={cx("line")}></div>
       </div>
       <div className={cx("adventure-all")}>

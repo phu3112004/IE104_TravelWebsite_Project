@@ -18,12 +18,12 @@ function Contact() {
         </div>
         <div className={cx("contact-item")}>
           <h2>
-            IF YOU WANT TO KNOW MORE?
+            NẾU BẠN MUỐN BIẾT THÊM CHI TIẾT?
             <br />
-            FEEL FREE TO GET IN TOUCH WITH US
+            ĐỪNG NGỪNG NGẠI LIÊN HỆ VỚI CHÚNG TÔI
           </h2>
           <Link to="/contact" className={cx("contact-link")}>
-            CONTACT US
+            LIÊN HỆ TẠI ĐÂY
           </Link>
         </div>
       </div>

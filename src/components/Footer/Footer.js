@@ -21,20 +21,20 @@ function Footer() {
           })}
         </div>
         <Link to="/contact" className={cx("contact-link")}>
-          CONTACT US
+          LIÊN HỆ
         </Link>
       </div>
       <div className={cx("footer-link", "footer-item")}>
-        <h3>QUICK LINKS</h3>
-        <Link to="/adventure">Adventures </Link>
-        <Link to="/hotel">Hotels</Link>
-        <Link to="/destination">Destinations</Link>
-        <Link to="/about">About us</Link>
-        <Link to="/blog">Blog</Link>
-        <Link to="/destination/Vietnam">Dome tours</Link>
+        <h3>CÁC ĐƯỜNG DẪN</h3>
+        <Link to="/adventure">Hoạt động </Link>
+        <Link to="/hotel">Khách sạn</Link>
+        <Link to="/destination">Điểm đến</Link>
+        <Link to="/about">Giới thiệu</Link>
+        <Link to="/blog">Bài viết</Link>
+        <Link to="/destination/Vietnam">Tour trong nước</Link>
       </div>
       <div className={cx("footer-address", "footer-item")}>
-        <h3>ADDRESS</h3>
+        <h3>ĐỊA CHỈ LIÊN HỆ</h3>
         <p>
           <FontAwesomeIcon
             className={cx("footer-address-icon")}
@@ -54,7 +54,7 @@ function Footer() {
             className={cx("footer-address-icon")}
             icon={faHome}
           />
-          12/0 Duong So 1, Go Vap
+          12/0 Đườngg Số 1, Gò Vấp
         </p>
         <img
           src="https://remarkable-jelly-df2aaa.netlify.app/assest/img/da-thong-bao-bo-cong-thuong.png"
@@ -62,13 +62,13 @@ function Footer() {
         />
       </div>
       <div className={cx("footer-email", "footer-item")}>
-        <h3>GET EMAIL UPDATES</h3>
+        <h3>NHẬN THÔNG BÁO QUA MAIL</h3>
         <p>
-          Sign up today for monthly giveaways, engaging stories & videos,
-          special offers & more!
+          Đăng ký ngay hôm nay để nhận quà tặng hàng tháng, những câu chuyện và
+          video hấp dẫn, các ưu đãi đặc biệt và nhiều hơn nữa!
         </p>
         <input type="email" placeholder="email@examples.com" />
-        <button>GET NEWSLETTER</button>
+        <button>NHẬN BẢN TIN</button>
       </div>
     </div>
   );
