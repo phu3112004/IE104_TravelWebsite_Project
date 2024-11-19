@@ -1418,7 +1418,7 @@
         "Dịch vụ phòng"
       ],
       "description": "Nằm ngay trung tâm Paris, Khách sạn Grand Palace mang đến cho khách hàng những phòng nghỉ sang trọng với nội thất tinh tế. Khách có thể thưởng thức bữa ăn tại nhà hàng cao cấp của khách sạn và thư giãn tại spa độc quyền. Khách sạn cách các địa danh nổi tiếng như Tháp Eiffel và Bảo tàng Louvre chỉ một quãng đi bộ.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "1",
@@ -1458,7 +1458,7 @@
         "Dịch vụ đưa đón sân bay"
       ],
       "description": "Lodge Mountain View mang đến một kỳ nghỉ yên bình nằm giữa đồi núi Đà Lạt. Lý tưởng cho những người yêu thiên nhiên, lodge này cung cấp các chuyến đi bộ leo núi và tầm nhìn đẹp mắt về các dãy núi xung quanh. Khách có thể thư giãn trong các phòng ấm cúng với ban công nhìn ra thung lũng. Lodge cũng chỉ cách các điểm tham quan như Công viên Hoa và Hồ Xuân Hương một quãng lái xe ngắn.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "13:00",
       "check_out_time": "12:00",
       "id": "3",
@@ -1518,11 +1518,11 @@
         "Nhà hàng"
       ],
       "description": "Khách sạn Korean Palace mang đến sự kết hợp giữa truyền thống Hàn Quốc và tiện nghi hiện đại. Khách sạn tọa lạc tại khu vực sôi động Gangnam, dễ dàng tiếp cận các trung tâm mua sắm, nhà hàng và các điểm tham quan văn hóa. Khách có thể thư giãn trong các phòng rộng rãi và thưởng thức bữa ăn tại nhà hàng phục vụ cả món ăn địa phương và quốc tế.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "6",
-      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15700594.jpg?k=3cee66b3c35caf44f9c288fcb214da4e0490b5232158304b8474ad6e042eb00e&o=&hp=1"
+      "img": "https://cache.marriott.com/content/dam/marriott-renditions/SELLC/sellc-palace-gate-4762-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*"
     },
     {
       "name": "Khách sạn Shanghai Riverside Inn",
@@ -1538,7 +1538,7 @@
         "Trung tâm kinh doanh"
       ],
       "description": "Nằm dọc theo bờ sông Hoàng Phố, Khách sạn Shanghai Riverside Inn mang đến cho khách hàng tầm nhìn tuyệt đẹp ra con sông và không gian yên tĩnh. Khách sạn cung cấp các phòng hiện đại với đầy đủ tiện nghi để đảm bảo một kỳ nghỉ thoải mái. Khách có thể thưởng thức các bữa ăn ven sông tại nhà hàng trong khuôn viên và khám phá các địa điểm nổi tiếng gần đó như The Bund và Vườn Yu.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "7",
@@ -1558,7 +1558,7 @@
         "Spa"
       ],
       "description": "Khách sạn Zen Retreat là một thiên đường yên tĩnh nằm ở trung tâm văn hóa Kyoto. Bao quanh bởi những khu vườn truyền thống, khách sạn mang đến sự kết hợp độc đáo giữa sự xa hoa hiện đại và vẻ đẹp lịch sử. Khách có thể thư giãn trong suối nước nóng tự nhiên, tham gia các buổi trà đạo Nhật Bản, và khám phá các đền thờ và chùa gần đó.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "8",
@@ -1578,7 +1578,7 @@
         "WiFi miễn phí"
       ],
       "description": "Khách sạn Cityscape mang đến trải nghiệm xa hoa ngay trung tâm Manhattan, với tầm nhìn toàn cảnh về đường chân trời New York. Hồ bơi trên mái là điểm đến yêu thích của khách sau một ngày tham quan. Khách sạn có nhà hàng đạt chuẩn quốc tế, phòng gym hiện đại, và dễ dàng tiếp cận các chương trình Broadway, Công viên Trung tâm và các khu mua sắm nổi tiếng của thành phố.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "9",
@@ -1598,7 +1598,7 @@
         "Thuê xe đạp"
       ],
       "description": "Khách sạn Countryside Cottage là một nơi nghỉ dưỡng xinh đẹp và ấm cúng nằm giữa vùng đất Provence thơ mộng. Lý tưởng cho các cặp đôi và gia đình, khách sạn cung cấp phòng nghỉ với tầm nhìn ra vườn, bữa sáng miễn phí và dịch vụ thuê xe đạp để khám phá các vườn nho và làng mạc xung quanh. Khách có thể tận hưởng không gian yên bình và dịch vụ tận tình, chu đáo.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "13:00",
       "check_out_time": "11:00",
       "id": "10",
@@ -1618,7 +1618,7 @@
         "Trung tâm kinh doanh"
       ],
       "description": "Khách sạn Grand Palace tại Paris cung cấp các phòng nghỉ sang trọng với phong cách Paris cổ điển. Khách có thể thưởng thức tầm nhìn tuyệt đẹp của Tháp Eiffel từ bar trên mái, ăn tối tại nhà hàng đạt sao Michelin của khách sạn, và thư giãn tại spa sau một ngày tham quan thành phố.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "11",
@@ -1658,7 +1658,7 @@
         "Dịch vụ đưa đón"
       ],
       "description": "Khách sạn Sakura Garden tọa lạc tại trung tâm Tokyo, mang đến một không gian yên bình với các khu vườn tuyệt đẹp. Khách sạn kết hợp giữa thiết kế truyền thống Nhật Bản và các tiện nghi hiện đại, tạo nên một không gian lý tưởng để thư giãn sau những chuyến tham quan thành phố nhộn nhịp.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "13",
@@ -1678,7 +1678,7 @@
         "Trung tâm kinh doanh"
       ],
       "description": "Khách sạn Seoul Sky mang đến một kỳ nghỉ hiện đại và xa hoa ngay trung tâm Seoul. Với hồ bơi trên mái và tầm nhìn toàn cảnh về thành phố, khách có thể thư giãn hoặc tham gia các hoạt động thú vị ngay giữa thành phố năng động nhất Hàn Quốc.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "14",
@@ -1718,7 +1718,7 @@
         "Trung tâm kinh doanh"
       ],
       "description": "Khách sạn Golden Dragon tọa lạc gần trung tâm lịch sử Bắc Kinh. Với các tiện nghi hiện đại và các yếu tố thiết kế truyền thống Trung Quốc, khách sạn mang lại không gian thoải mái cho cả du khách nghỉ dưỡng và công tác. Khách có thể khám phá Cấm Thành gần đó và thư giãn tại spa của khách sạn.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "16",
@@ -1758,7 +1758,7 @@
         "Dịch vụ phòng"
       ],
       "description": "Khách sạn Louvre Chic chỉ cách bảo tàng Louvre huyền thoại một vài bước chân. Với các phòng thiết kế sang trọng và tiện nghi cao cấp, khách sạn mang đến trải nghiệm Paris đẳng cấp. Khách có thể thưởng thức các món ăn tinh tế và thư giãn với liệu pháp spa sau một ngày tham quan thành phố.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "18",
@@ -1778,7 +1778,7 @@
         "Dịch vụ đưa đón sân bay"
       ],
       "description": "Khách sạn Hanoi Heritage nằm trong khu phố cổ Hà Nội, kết hợp giữa vẻ đẹp truyền thống Việt Nam và tiện nghi hiện đại. Khách có thể khám phá các địa danh văn hóa như Hồ Hoàn Kiếm và Văn Miếu, đồng thời tận hưởng những tiện nghi sang trọng tại khách sạn.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "19",
@@ -1798,7 +1798,7 @@
         "WiFi miễn phí"
       ],
       "description": "Khách sạn Kyoto Zen Retreat mang đến không gian yên bình tại thủ đô văn hóa của Nhật Bản. Khách sạn được bao quanh bởi những khu vườn tĩnh lặng và cung cấp những trải nghiệm truyền thống như lễ trà đạo Nhật Bản. Khách có thể hòa mình vào sự tĩnh lặng của Kyoto trong khi tận hưởng các dịch vụ sang trọng.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "20",
@@ -1838,7 +1838,7 @@
         "WiFi miễn phí"
       ],
       "description": "Tọa lạc tại Riviera Pháp, Le Château Elegance mang đến các phòng nghỉ sang trọng với tầm nhìn tuyệt đẹp ra biển Địa Trung Hải. Khách sạn có hồ bơi vô cực, các lựa chọn ẩm thực cao cấp và spa đẳng cấp thế giới để đảm bảo một kỳ nghỉ hoàn hảo cho du khách.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "22",
@@ -1858,7 +1858,7 @@
         "WiFi miễn phí"
       ],
       "description": "Khách sạn Saigon Riverside có vị trí lý tưởng ven sông Sài Gòn, mang đến tầm nhìn yên bình và các phòng nghỉ sang trọng. Khách có thể thưởng thức ẩm thực Việt Nam tại nhà hàng trong khuôn viên, khám phá các con phố sôi động của thành phố, hoặc thư giãn tại quầy bar trên tầng mái với tầm nhìn ra sông.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "23",
@@ -1898,7 +1898,7 @@
         "Spa"
       ],
       "description": "Khách sạn Imperial Garden tại Bắc Kinh mang đến sự kết hợp giữa luxury hiện đại và thiết kế truyền thống Trung Quốc. Khách có thể khám phá những khu vườn tuyệt đẹp, thưởng thức ẩm thực tại nhà hàng nổi tiếng của khách sạn, hoặc thư giãn tại spa. Khách sạn nằm gần các di tích lịch sử của Bắc Kinh.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "25",
@@ -1918,7 +1918,7 @@
         "Dịch vụ đưa đón sân bay"
       ],
       "description": "Khách sạn Tokyo Tower là một điểm đến sang trọng với tầm nhìn toàn cảnh ra đường chân trời Tokyo. Với các phòng nghỉ sang trọng, ẩm thực tuyệt hảo và tiện nghi đỉnh cao, khách sạn là điểm xuất phát lý tưởng để khám phá thành phố. Khách sạn nằm gần các điểm tham quan nổi tiếng như Tháp Tokyo và Roppongi Hills.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "26",
@@ -1938,7 +1938,7 @@
         "Bữa sáng miễn phí"
       ],
       "description": "The Golden Pavilion mang đến trải nghiệm Nhật Bản truyền thống với sự sang trọng. Khách có thể thưởng thức tầm nhìn yên bình ra vườn, tham gia lễ trà truyền thống hoặc thư giãn tại spa của khách sạn. Khách sạn nằm gần Chùa Kinkaku-ji (Chùa Vàng).",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "27",
@@ -1978,7 +1978,7 @@
         "Spa"
       ],
       "description": "Tọa lạc tại trung tâm Thượng Hải, Khách sạn Elegance kết hợp sự thoải mái hiện đại với thiết kế truyền thống Trung Quốc. Khách sạn cung cấp các phòng rộng rãi, lựa chọn ẩm thực tuyệt vời và vị trí thuận tiện để tham quan các con phố mua sắm nổi tiếng và các địa danh văn hóa của thành phố.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "29",
@@ -2018,7 +2018,7 @@
         "WiFi miễn phí"
       ],
       "description": "Tọa lạc gần Tháp Eiffel biểu tượng, The Eiffel Charm cung cấp các phòng nghỉ sang trọng với tầm nhìn tuyệt đẹp ra thành phố. Khách có thể thưởng thức ẩm thực tinh tế, thư giãn tại spa và quầy bar trên mái, là điểm lý tưởng để trải nghiệm vẻ đẹp của Paris.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "31",
@@ -2058,7 +2058,7 @@
         "Trung tâm kinh doanh"
       ],
       "description": "Cung cấp tầm nhìn tuyệt vời ra Tokyo Skytree, khách sạn này mang đến sự thoải mái hiện đại ngay giữa lòng Tokyo. Hồ bơi trên mái, spa sang trọng và gần các khu mua sắm, giải trí làm cho đây là sự lựa chọn lý tưởng cho du khách.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "33",
@@ -2078,7 +2078,7 @@
         "Spa"
       ],
       "description": "Tọa lạc tại khu phố cổ Hà Nội, khách sạn này mang đến sự kết hợp độc đáo giữa vẻ đẹp truyền thống Việt Nam và các tiện nghi hiện đại. Khách có thể khám phá những con phố nhộn nhịp của Hà Nội, rồi thư giãn với liệu pháp massage tại spa trong khách sạn.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "34",
@@ -2098,7 +2098,7 @@
         "Phòng gym"
       ],
       "description": "Khách sạn Shanghai Riverside mang đến một trải nghiệm sang trọng dọc theo con sông lịch sử của thành phố. Với tầm nhìn tuyệt đẹp, ẩm thực đẳng cấp thế giới và vị trí thuận tiện để tham quan các khu mua sắm, đây là điểm dừng lý tưởng để khám phá thành phố.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "35",
@@ -2138,7 +2138,7 @@
         "WiFi miễn phí"
       ],
       "description": "Nằm giữa khung cảnh tuyệt đẹp của núi Phú Sĩ, khu nghỉ dưỡng này mang đến sự kết hợp độc đáo giữa vẻ đẹp tự nhiên và sự sang trọng. Các suối nước nóng (onsen) và ẩm thực Nhật Bản truyền thống là những điểm nhấn nổi bật của kỳ nghỉ yên bình này.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "37",
@@ -2158,7 +2158,7 @@
         "WiFi miễn phí"
       ],
       "description": "Khách sạn này kết hợp sự sang trọng hiện đại với kiến trúc Trung Quốc truyền thống ngay trung tâm Bắc Kinh. Gần Cung điện cấm và Quảng trường Thiên An Môn, khách sạn là sự pha trộn hoàn hảo giữa văn hóa, lịch sử và sự thoải mái hiện đại.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "38",
@@ -2178,7 +2178,7 @@
         "Quầy bar trên mái"
       ],
       "description": "Nằm trên bờ biển Địa Trung Hải, khách sạn này mang đến một không gian sang trọng với tầm nhìn tuyệt đẹp ra biển. Khách có thể thưởng thức ẩm thực cao cấp, thư giãn tại spa và hồ bơi vô cực, tất cả trong vẻ đẹp của Côte d'Azur.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "39",
@@ -2198,7 +2198,7 @@
         "WiFi miễn phí"
       ],
       "description": "Với tầm nhìn ngoạn mục ra toàn cảnh New York, khách sạn này tọa lạc ngay trung tâm Manhattan. Lý tưởng cho cả khách du lịch công tác và nghỉ dưỡng, khách sạn có sảnh trên mái, phòng gym và gần các địa danh nổi tiếng như Times Square và Công viên Trung tâm.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "40",
@@ -2218,7 +2218,7 @@
         "WiFi miễn phí"
       ],
       "description": "Nằm ngay trung tâm Seoul, Khách sạn Grand Seoul mang đến một kỳ nghỉ sang trọng với tầm nhìn toàn cảnh thành phố. Khách có thể thưởng thức ẩm thực đẳng cấp, thư giãn tại spa, và tận hưởng hồ bơi trong nhà cùng phòng gym để thư giãn tối đa.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "41",
@@ -2258,7 +2258,7 @@
         "Phòng gym"
       ],
       "description": "Khách sạn sang trọng ngay trung tâm Thượng Hải, lý tưởng cho cả du khách công tác và nghỉ dưỡng. Với những phòng nghỉ thanh lịch, tầm nhìn thành phố rộng lớn, trung tâm kinh doanh hiện đại và các lựa chọn ẩm thực tuyệt vời, khách sạn này đáp ứng mọi nhu cầu của bạn cho một kỳ nghỉ hiệu quả và thư giãn.",
-      "type": "Công tác",
+      "type": "Khách sạn công tác",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "43",
@@ -2278,7 +2278,7 @@
         "Quầy bar trên mái"
       ],
       "description": "Tọa lạc gần đại lộ Champs-Élysées nổi tiếng, khách sạn sang trọng này mang đến một trải nghiệm Paris thanh lịch. Với quầy bar trên mái nhìn ra Tháp Eiffel, nhà hàng cao cấp và spa đầy đủ dịch vụ, đây là điểm đến hoàn hảo cho kỳ nghỉ lãng mạn hay chuyến du lịch thành phố xa hoa.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "44",
@@ -2298,7 +2298,7 @@
         "Spa"
       ],
       "description": "Đắm mình trong văn hóa Nhật Bản truyền thống tại Nhà nghỉ Kyoto Bamboo Grove. Nằm gần Rừng tre Arashiyama nổi tiếng, nhà nghỉ thanh bình này mang đến tầm nhìn vườn yên tĩnh, onsen (suối nước nóng) và các phòng theo phong cách Nhật Bản được thiết kế tinh tế.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "45",
@@ -2338,7 +2338,7 @@
         "Quầy bar trên mái"
       ],
       "description": "Nằm ngay trung tâm vịnh Hạ Long, khách sạn boutique này mang đến tầm nhìn ngoạn mục ra Di sản Thế giới UNESCO. Quầy bar trên mái, các phòng nghỉ sang trọng và gần các hòn đảo đá vôi nổi tiếng của vịnh làm cho đây là điểm đến hoàn hảo cho những người yêu thiên nhiên và khám phá.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "47",
@@ -2358,7 +2358,7 @@
         "Trung tâm kinh doanh"
       ],
       "description": "Nằm tại thành phố nhộn nhịp Osaka, khách sạn này mang đến sự thoải mái hiện đại với tầm nhìn tuyệt đẹp ra toàn cảnh thành phố. Lý tưởng cho cả khách công tác và du lịch, khách sạn có spa, phòng gym và các lựa chọn ẩm thực xuất sắc.",
-      "type": "Công tác",
+      "type": "Khách sạn công tác",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "48",
@@ -2378,11 +2378,11 @@
         "Sảnh trên mái"
       ],
       "description": "Khu nghỉ dưỡng sang trọng này tại Riviera Pháp mang đến tầm nhìn tuyệt đẹp ra Biển Địa Trung Hải. Với bãi biển riêng, spa sang trọng và hồ bơi vô cực trên mái, đây là điểm đến hoàn hảo cho kỳ nghỉ cao cấp bên bờ biển.",
-      "type": "Sang trọng",
+      "type": "Khu nghỉ dưỡng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "49",
-      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b4/c7/c7/93/hotel-barriere-le-majestic.jpg?w=1200&h=-1&s=1"
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/2d/a1/02/ba/suite-gray-d-albion.jpg"
     },
     {
       "name": "Miami Oceanfront Suites",
@@ -2418,7 +2418,7 @@
         "WiFi miễn phí"
       ],
       "description": "Nằm ngay trung tâm Seoul, Khách sạn Grand Seoul mang đến kỳ nghỉ sang trọng với tầm nhìn toàn cảnh ra đường chân trời của thành phố. Thưởng thức ẩm thực đẳng cấp, spa đầy đủ dịch vụ và phòng gym với hồ bơi trong nhà để thư giãn tối đa.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "51",
@@ -2458,7 +2458,7 @@
         "Phòng gym"
       ],
       "description": "Khách sạn sang trọng ngay trung tâm Thượng Hải, lý tưởng cho cả du khách công tác và nghỉ dưỡng. Với những phòng nghỉ thanh lịch, tầm nhìn thành phố rộng lớn, trung tâm kinh doanh hiện đại và các lựa chọn ẩm thực tuyệt vời, khách sạn này đáp ứng mọi nhu cầu của bạn cho một kỳ nghỉ hiệu quả và thư giãn.",
-      "type": "Công tác",
+      "type": "Khách sạn công tác",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "53",
@@ -2478,7 +2478,7 @@
         "Sân thượng trên mái"
       ],
       "description": "Nằm bên bờ sông Seine yên bình, khách sạn boutique này mang đến trải nghiệm Paris tinh tế và lãng mạn. Du khách có thể thư giãn tại sân thượng với tầm nhìn tuyệt đẹp ra sông, thưởng thức ẩm thực tại nhà hàng cao cấp và tận hưởng spa boutique.",
-      "type": "Khách sạn boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "54",
@@ -2558,7 +2558,7 @@
         "Dịch vụ lễ tân 24/7"
       ],
       "description": "Khách sạn boutique này, nằm ngay trung tâm lịch sử của Paris, mang đến tầm nhìn tuyệt đẹp ra Nhà thờ Notre-Dame. Du khách có thể thưởng thức các món bánh mới nướng từ tiệm bánh thủ công, thư giãn với dịch vụ spa và nhận sự hỗ trợ cá nhân từ dịch vụ lễ tân 24/7, lý tưởng cho một trải nghiệm thành phố sang trọng.",
-      "type": "Khách sạn boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "58",
@@ -2578,7 +2578,7 @@
         "Sân thượng lounge"
       ],
       "description": "Khu nghỉ dưỡng sang trọng này trên bờ biển Riviera của Pháp mang đến tầm nhìn tuyệt đẹp ra Biển Địa Trung Hải. Với lối ra bãi biển riêng, spa sang trọng và hồ bơi vô cực trên sân thượng, đây là điểm lý tưởng cho một kỳ nghỉ đẳng cấp bên bờ biển.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "59",
@@ -2618,7 +2618,7 @@
         "Hồ bơi trong nhà"
       ],
       "description": "Với tầm nhìn ra Vịnh Tokyo, khách sạn sang trọng này mang đến sự kết hợp hoàn hảo giữa sự thanh lịch và tiện nghi hiện đại. Với quầy bar trên sân thượng, spa sang trọng và tầm nhìn tuyệt đẹp ra bờ vịnh, đây là lựa chọn lý tưởng cho cả du khách nghỉ dưỡng và công tác.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "61",
@@ -2658,7 +2658,7 @@
         "Spa"
       ],
       "description": "Nằm ngay trung tâm Bắc Kinh, khách sạn này kết hợp giữa kiến trúc truyền thống Trung Quốc và tiện nghi hiện đại. Đây là lựa chọn lý tưởng cho du khách muốn khám phá các di tích lịch sử của thành phố trong khi tận hưởng các dịch vụ cao cấp.",
-      "type": "Công tác",
+      "type": "Khách sạn công tác",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "63",
@@ -2778,7 +2778,7 @@
         "WiFi miễn phí"
       ],
       "description": "Nằm trong một khu vườn yên tĩnh, khách sạn boutique này mang đến một không gian thanh bình để tránh xa sự ồn ào của thành phố Thượng Hải. Khách sạn có các phòng suite sang trọng, dịch vụ spa thư giãn và không khí thân mật, hoàn hảo để thư giãn sau một ngày khám phá.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "69",
@@ -2838,7 +2838,7 @@
         "WiFi miễn phí"
       ],
       "description": "Tọa lạc dọc theo dòng sông Rhône thơ mộng, khách sạn boutique này kết hợp sự quyến rũ của Pháp với sự sang trọng hiện đại. Du khách có thể thưởng thức bữa sáng cao cấp, thư giãn tại spa và thưởng thức các loại rượu vang tuyển chọn tại quầy rượu vang thanh lịch.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "72",
@@ -2878,7 +2878,7 @@
         "WiFi miễn phí"
       ],
       "description": "Nằm trong thành phố lịch sử Kyoto, khách sạn này mang đến trải nghiệm Nhật Bản đích thực với những khu vườn thanh bình, lễ trà truyền thống và nội thất sang trọng. Lý tưởng cho du khách tìm kiếm sự thư giãn và hòa mình vào văn hóa.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "74",
@@ -2958,7 +2958,7 @@
         "Phòng gym"
       ],
       "description": "Tọa lạc gần Tháp Eiffel nổi tiếng, khách sạn sang trọng này mang đến trải nghiệm Paris đích thực với các phòng trang nhã, quầy bar trên mái với tầm nhìn tuyệt đẹp và spa đẳng cấp thế giới. Lý tưởng cho các cặp đôi tìm kiếm kỳ nghỉ lãng mạn.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "78",
@@ -2978,7 +2978,7 @@
         "Phòng gym"
       ],
       "description": "Nằm bên hồ Osaka yên tĩnh, khách sạn này mang đến một không gian thư giãn với tầm nhìn hồ tuyệt đẹp. Du khách có thể thưởng thức spa thư giãn, các phòng thoải mái và khám phá cuộc sống sôi động của Osaka gần đó.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "79",
@@ -3018,7 +3018,7 @@
         "Lễ tân 24 giờ"
       ],
       "description": "Nằm tại trung tâm sôi động của Hà Nội, khách sạn này kết hợp giữa sự tiện nghi hiện đại và lòng hiếu khách truyền thống của Việt Nam. Du khách có thể tận hưởng các phòng nghỉ tiện nghi, bữa sáng cao cấp và dễ dàng tiếp cận các điểm tham quan địa phương.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "81",
@@ -3038,7 +3038,7 @@
         "Bãi đỗ xe miễn phí"
       ],
       "description": "Khách sạn sang trọng này nằm gần Tử Cấm Thành và mang đến cho du khách một trải nghiệm tuyệt vời với các phòng rộng rãi, ẩm thực tinh tế và spa đẳng cấp thế giới, là lựa chọn lý tưởng cho cả khách công tác và du lịch.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "82",
@@ -3058,7 +3058,7 @@
         "WiFi miễn phí"
       ],
       "description": "Khách sạn hiện đại này mang đến tầm nhìn tuyệt đẹp ra Tháp Tokyo, với các tiện nghi sang trọng, bao gồm quầy bar trên mái và phòng gym. Lý tưởng cho một kỳ nghỉ phong cách tại Tokyo.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "83",
@@ -3078,7 +3078,7 @@
         "WiFi miễn phí"
       ],
       "description": "Nằm trong khu vực Bordeaux thơ mộng, khách sạn này mang đến trải nghiệm thưởng thức rượu vang, hồ bơi ngoài trời và các khu vườn xinh đẹp. Lý tưởng cho những người yêu thích rượu vang và tìm kiếm kỳ nghỉ yên bình.",
-      "type": "Boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "84",
@@ -3158,7 +3158,7 @@
         "Vườn"
       ],
       "description": "Trải nghiệm lòng hiếu khách Nhật Bản thực thụ tại ryokan truyền thống ở Nara. Du khách có thể tận hưởng các phòng chiếu tatami, onsen thư giãn và bữa ăn kaiseki ngon miệng, mang đến một trải nghiệm văn hóa độc đáo.",
-      "type": "Truyền thống",
+      "type": "Khách sạn truyền thống",
       "check_in_time": "15:00",
       "check_out_time": "11:00",
       "id": "88",
@@ -3178,7 +3178,7 @@
         "Dịch vụ lễ tân 24 giờ"
       ],
       "description": "Khách sạn mang tính biểu tượng này mang đến tầm nhìn tuyệt vời ra khu vực Marina Bay và có hồ bơi vô cực, sky lounge và dịch vụ spa sang trọng. Lý tưởng cho du khách tìm kiếm một kỳ nghỉ xa hoa ngay tại trung tâm Singapore.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "89",
@@ -3218,7 +3218,7 @@
         "Spa"
       ],
       "description": "Nằm bên dòng sông Sài Gòn, khách sạn này cung cấp các phòng nghỉ sang trọng với tầm nhìn tuyệt đẹp, hồ bơi ngoài trời và spa. Là lựa chọn lý tưởng cho du khách muốn khám phá văn hóa sôi động của TP.HCM.",
-      "type": "Sang trọng",
+      "type": "Khách sạn sang trọng",
       "check_in_time": "14:00",
       "check_out_time": "12:00",
       "id": "91",
@@ -3237,7 +3237,7 @@
         "Dịch vụ phòng 24 giờ"
       ],
       "description": "Nằm ở trung tâm Paris, khách sạn này có các phòng được thiết kế thanh lịch và nhà hàng ẩm thực cao cấp. Lý tưởng cho những ai muốn đắm chìm trong không gian nghệ thuật và thời trang của thành phố.",
-      "type": "Khách sạn boutique",
+      "type": "Khách sạn Boutique",
       "check_in_time": "15:00",
       "check_out_time": "12:00",
       "id": "92",
@@ -3536,6 +3536,134 @@
       "description": "Tokyo, thủ đô của Nhật Bản, là thành phố nổi bật với sự pha trộn giữa hiện đại và truyền thống.",
       "attractions": ["Tokyo Tower", "Shibuya Crossing", "Tokyo Sky Tree"],
       "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    }
+  ],
+  "destination": [
+    {
+      "country": "Việt Nam",
+      "overview": "Việt Nam là một quốc gia Đông Nam Á đầy mê hoặc với sự kết hợp hoàn hảo giữa cảnh quan thiên nhiên tươi đẹp, nền văn hóa phong phú và lịch sử lâu đời. Với bề dày hơn 4.000 năm lịch sử, Việt Nam tự hào sở hữu các di tích cổ kính như Phố Cổ Hà Nội, thành phố Hội An, hay Thánh địa Mỹ Sơn. Vịnh Hạ Long, di sản thiên nhiên thế giới, với hàng ngàn hòn đảo đá vôi kỳ vĩ là một điểm đến không thể bỏ qua. Ngoài ra, Việt Nam còn nổi tiếng với nền ẩm thực đường phố đa dạng, từ phở, bún chả cho đến bánh mì, luôn làm hài lòng những thực khách khó tính nhất. Thành phố Hồ Chí Minh, trung tâm kinh tế sôi động, mang lại sự tương phản thú vị với các khu vực nông thôn như đồng bằng sông Cửu Long – nơi bạn có thể khám phá cuộc sống yên bình và nền văn hóa sông nước. Việt Nam là điểm đến lý tưởng cho những ai yêu thích sự kết hợp giữa lịch sử, văn hóa và phong cảnh thiên nhiên.",
+      "img": "https://vfda.vn/wp-content/uploads/2022/03/image-2.png",
+      "topthingtodo": [
+        {
+          "title": "Thưởng thức ẩm thực đường phố",
+          "content": "Ẩm thực Việt Nam được thế giới công nhận nhờ sự phong phú và hương vị độc đáo. Tại Hà Nội, bạn có thể thưởng thức phở bò với nước dùng thơm ngọt, trong khi bún chả, một món ăn với thịt nướng và bún tươi, là đặc sản không thể bỏ qua. Các khu chợ đêm, như chợ Đồng Xuân, mang đến nhiều lựa chọn từ bánh mì kẹp thịt đến chè tráng miệng. Đặc biệt, các món ăn này không chỉ ngon mà còn thể hiện sự giao thoa của các vùng miền. Hãy chắc chắn ghé thăm các quán ăn gia đình nhỏ để trải nghiệm sự đón tiếp nồng hậu và hương vị truyền thống Việt Nam."
+        },
+        {
+          "title": "Khám phá Phố Cổ Hà Nội",
+          "content": "Phố Cổ Hà Nội là trái tim văn hóa của thủ đô, nơi bạn có thể thấy sự giao thoa giữa truyền thống và hiện đại. Những con đường nhỏ hẹp được lót bằng đá cuội, với các cửa hàng bán đồ thủ công mỹ nghệ và quán cà phê ẩn mình trong những căn nhà cổ kính. Đi dạo quanh khu vực, bạn sẽ nghe thấy tiếng còi xe đạp, mùi thơm của cà phê trứng và hình ảnh người dân buôn bán nhộn nhịp. Đừng quên ghé thăm các di tích nổi bật như chùa Một Cột và Văn Miếu – Quốc Tử Giám để hiểu thêm về lịch sử và văn hóa Việt Nam."
+        },
+        {
+          "title": "Khám phá Vịnh Hạ Long",
+          "content": "Vịnh Hạ Long, một trong bảy kỳ quan thiên nhiên thế giới, là điểm đến không thể bỏ qua. Với hơn 1.600 hòn đảo đá vôi lớn nhỏ, nơi đây là thiên đường cho những ai yêu thiên nhiên và sự yên bình. Bạn có thể tham gia tour du thuyền để chiêm ngưỡng cảnh hoàng hôn hoặc chèo thuyền kayak khám phá những hang động kỳ bí. Các hòn đảo nổi tiếng như Đảo Ti Tốp, Hang Sửng Sốt là những điểm dừng chân thú vị. Ngoài ra, cuộc sống của ngư dân tại các làng chài nổi sẽ mang đến cái nhìn gần gũi và chân thực về văn hóa địa phương."
+        }
+      ],
+      "weather": "Khí hậu Việt Nam rất đa dạng do sự trải dài từ Bắc đến Nam. Miền Bắc có bốn mùa rõ rệt, trong đó mùa xuân (tháng 3-4) và mùa thu (tháng 9-11) là lý tưởng nhất để tham quan. Miền Trung nổi bật với khí hậu nhiệt đới ẩm, thích hợp cho các chuyến nghỉ dưỡng tại bãi biển như Đà Nẵng hay Nha Trang. Trong khi đó, miền Nam lại có hai mùa: mùa mưa và mùa khô, với nhiệt độ ổn định quanh năm. Thời điểm tốt nhất để thăm TP. Hồ Chí Minh và đồng bằng sông Cửu Long là từ tháng 11 đến tháng 4, khi thời tiết khô ráo và không quá nóng bức. Đừng quên kiểm tra thời tiết trước khi lên kế hoạch, đặc biệt nếu bạn có ý định leo núi hoặc tham gia các hoạt động ngoài trời.",
+      "transport": "Việt Nam có hệ thống giao thông đa dạng và phát triển, từ các chuyến bay nội địa kết nối các thành phố lớn đến xe lửa và xe buýt phục vụ các khu vực địa phương. Các sân bay quốc tế lớn như Nội Bài (Hà Nội) và Tân Sơn Nhất (TP. Hồ Chí Minh) rất thuận tiện cho du khách quốc tế. Nếu bạn muốn trải nghiệm như người bản địa, hãy thử di chuyển bằng xe máy – phương tiện giao thông phổ biến tại đây. Tuy nhiên, đối với những hành trình dài, tàu hỏa và xe khách giường nằm là lựa chọn thoải mái hơn. Ngoài ra, dịch vụ taxi và các ứng dụng gọi xe như Grab rất dễ dàng để sử dụng, đặc biệt ở các thành phố lớn."
+    },
+    {
+      "country": "Trung Quốc",
+      "overview": "Trung Quốc là quốc gia rộng lớn nằm ở Đông Á, nổi tiếng với lịch sử lâu đời kéo dài hàng nghìn năm, cùng nền văn hóa phong phú và đa dạng. Đây là một trong những nền văn minh cổ xưa nhất thế giới, nơi khởi nguồn của nhiều phát minh quan trọng như la bàn, giấy, và thuốc súng. Trung Quốc sở hữu các kỳ quan nổi tiếng như Vạn Lý Trường Thành – biểu tượng lịch sử và sức mạnh của quốc gia, Cố Cung (Tử Cấm Thành) ở Bắc Kinh, và Đội quân đất nung ở Tây An. Bên cạnh đó, phong cảnh thiên nhiên của Trung Quốc cũng không kém phần ngoạn mục với vùng núi Hoàng Sơn huyền thoại, sông Dương Tử hùng vĩ, và các cánh đồng bậc thang ở Quế Lâm. Không chỉ nổi bật với cảnh quan và di sản, Trung Quốc còn là một trung tâm kinh tế và công nghệ hiện đại với những siêu đô thị như Thượng Hải và Thâm Quyến. Ngoài ra, ẩm thực Trung Quốc cũng là một phần không thể thiếu với hương vị đặc sắc và sự đa dạng theo từng vùng miền. Tất cả những điều này khiến Trung Quốc trở thành một điểm đến hấp dẫn, nơi bạn có thể khám phá từ những giá trị cổ kính đến nhịp sống hiện đại.",
+      "img": "",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Vạn Lý Trường Thành",
+          "content": "Vạn Lý Trường Thành là một trong bảy kỳ quan thế giới và cũng là biểu tượng vĩ đại của Trung Quốc. Công trình này kéo dài hơn 21.000 km qua các vùng núi, thảo nguyên, và sa mạc. Bạn có thể đến thăm các đoạn tường thành nổi tiếng như Bát Đạt Lĩnh (Bắc Kinh), nơi được bảo tồn tốt nhất, hoặc Mộ Điền Dụ, một địa điểm yên tĩnh hơn dành cho du khách thích sự bình lặng. Đi bộ trên tường thành, bạn sẽ cảm nhận được sự hùng vĩ của lịch sử và công sức của hàng triệu lao động qua hàng thế kỷ. Đây không chỉ là một kỳ quan kiến trúc mà còn là nơi mang ý nghĩa văn hóa và tinh thần của dân tộc Trung Hoa."
+        },
+        {
+          "title": "Khám phá Cố Cung (Tử Cấm Thành)",
+          "content": "Nằm ở trung tâm Bắc Kinh, Cố Cung, hay Tử Cấm Thành, là cung điện hoàng gia của các triều đại Minh và Thanh, đồng thời là một trong những công trình kiến trúc cổ lớn nhất thế giới. Với diện tích hơn 720.000 m², nơi đây bao gồm gần 1.000 tòa nhà với lối kiến trúc đặc trưng cùng những chi tiết trang trí công phu. Du khách có thể khám phá các sảnh chính như Thái Hòa Điện, nơi diễn ra các nghi lễ lớn, hoặc thăm bảo tàng chứa đựng hàng ngàn hiện vật lịch sử. Cố Cung không chỉ là một điểm tham quan mà còn là nơi giúp bạn hiểu rõ hơn về quyền lực và nghệ thuật của triều đình Trung Hoa xưa."
+        },
+        {
+          "title": "Thưởng thức ẩm thực địa phương",
+          "content": "Ẩm thực Trung Quốc là một trong những nền ẩm thực nổi tiếng và đa dạng nhất thế giới. Mỗi vùng miền đều mang một phong cách riêng biệt, từ các món cay nồng của Tứ Xuyên, vị thanh tao của Quảng Đông, đến ẩm thực giàu năng lượng của Sơn Đông. Tại Bắc Kinh, vịt quay Bắc Kinh là món ăn không thể bỏ qua với lớp da giòn và thịt thơm ngon. Ở Tây An, bạn có thể thử bánh mì thịt cừu và mì kéo bằng tay truyền thống. Đặc biệt, các khu chợ đêm tại Thượng Hải hoặc Quảng Châu sẽ mang đến một trải nghiệm ẩm thực đường phố hấp dẫn, nơi bạn có thể nếm thử mọi món ăn từ xiên nướng, dim sum đến đậu phụ thối độc đáo."
+        }
+      ],
+      "weather": "Với diện tích rộng lớn, khí hậu Trung Quốc rất đa dạng, từ nhiệt đới ở miền Nam đến ôn đới lạnh ở miền Bắc. Mùa xuân (tháng 3-5) và mùa thu (tháng 9-11) thường là thời gian lý tưởng để tham quan, với thời tiết mát mẻ và bầu trời trong xanh. Tại Bắc Kinh, mùa thu mang lại cảnh lá vàng rực rỡ, trong khi vùng Tây Tạng vào mùa hè có khí hậu dễ chịu, thích hợp cho các chuyến leo núi. Miền Nam như Quảng Châu hay Thâm Quyến thường có khí hậu ấm áp quanh năm, nhưng mùa mưa (tháng 5-8) cần được lưu ý. Nếu muốn tham quan vùng núi hoặc các khu vực xa xôi, hãy chuẩn bị kỹ lưỡng cho các điều kiện thời tiết thay đổi bất ngờ.",
+      "transport": "Hệ thống giao thông của Trung Quốc rất phát triển, giúp việc di chuyển trở nên dễ dàng hơn bao giờ hết. Các chuyến bay nội địa kết nối hầu hết các thành phố lớn, trong khi tàu cao tốc là lựa chọn phổ biến cho du khách muốn khám phá các tỉnh thành. Tàu cao tốc Trung Quốc nổi tiếng với tốc độ nhanh và dịch vụ chất lượng, giúp bạn dễ dàng đi từ Bắc Kinh đến Thượng Hải chỉ trong vài giờ. Ngoài ra, các dịch vụ xe buýt và tàu điện ngầm ở các thành phố lớn cũng rất tiện lợi và hiện đại. Đối với những khu vực xa hơn, xe khách hoặc thuê xe riêng là lựa chọn hợp lý. Tại các thành phố như Bắc Kinh và Thượng Hải, taxi và các ứng dụng gọi xe như Didi rất phổ biến, giúp bạn dễ dàng di chuyển mà không lo ngại về ngôn ngữ."
+    },
+    {
+      "country": "Hàn Quốc",
+      "overview": "Hàn Quốc là một quốc gia hiện đại nhưng vẫn giữ được nét truyền thống độc đáo nằm trên bán đảo Triều Tiên ở Đông Á. Với lịch sử hơn 5.000 năm, Hàn Quốc tự hào sở hữu các di sản văn hóa phong phú như cung điện Gyeongbokgung, chùa Bulguksa, và làng cổ Hanok Bukchon. Đất nước này cũng là trung tâm của làn sóng Hallyu, nơi xuất phát các xu hướng âm nhạc, phim ảnh và thời trang toàn cầu. Du khách sẽ bị mê hoặc bởi vẻ đẹp tự nhiên của Hàn Quốc, từ đảo Jeju yên bình với bãi biển thơ mộng đến những dãy núi Seoraksan rực rỡ vào mùa thu. Bên cạnh đó, các thành phố hiện đại như Seoul và Busan mang đến sự kết hợp hài hòa giữa công nghệ tiên tiến và văn hóa truyền thống. Ẩm thực Hàn Quốc cũng là điểm nhấn với kim chi, thịt nướng BBQ, và các món ăn đường phố đa dạng. Không chỉ dừng lại ở đó, Hàn Quốc còn được biết đến với dịch vụ y tế hàng đầu và các sản phẩm làm đẹp được ưa chuộng trên toàn thế giới. Hãy đến Hàn Quốc để trải nghiệm sự kết hợp độc đáo giữa quá khứ và hiện tại, cùng những nét đặc sắc văn hóa không thể tìm thấy ở bất kỳ đâu khác.",
+      "img": "",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Cung điện Gyeongbokgung",
+          "content": "Cung điện Gyeongbokgung, nằm ở trung tâm Seoul, là biểu tượng lịch sử và văn hóa của Hàn Quốc. Được xây dựng vào năm 1395, đây là cung điện lớn nhất của triều đại Joseon. Du khách có thể khám phá các kiến trúc cổ kính như Cảnh Phúc Điện, Khang Ninh Điện, và Hồ Hyangwonjeong tuyệt đẹp. Hằng ngày, lễ đổi gác tại cung điện là một sự kiện thu hút khách du lịch với các nghi lễ truyền thống được tái hiện sống động. Nếu ghé thăm vào buổi tối, bạn còn có cơ hội chiêm ngưỡng cảnh quan lung linh dưới ánh đèn. Đây là nơi lý tưởng để tìm hiểu sâu hơn về lịch sử và văn hóa triều đại Joseon."
+        },
+        {
+          "title": "Khám phá đảo Jeju",
+          "content": "Đảo Jeju được mệnh danh là \"Hawaii của Hàn Quốc\" với cảnh quan thiên nhiên đa dạng từ bãi biển cát trắng, thác nước hùng vĩ đến núi Hallasan - đỉnh núi cao nhất Hàn Quốc. Jeju còn nổi tiếng với các hang động dung nham, trong đó có Hang Manjanggul, được UNESCO công nhận là Di sản Thế giới. Du khách có thể tận hưởng không khí trong lành tại rừng Bijarim hoặc ngắm hoa cải vàng rực rỡ vào mùa xuân. Ngoài ra, Jeju còn là thiên đường cho những ai yêu thích ẩm thực với các món hải sản tươi ngon và đặc sản địa phương như thịt heo đen. Đây là điểm đến hoàn hảo cho những ai muốn thư giãn và tận hưởng vẻ đẹp thiên nhiên."
+        },
+        {
+          "title": "Thưởng thức ẩm thực đường phố tại Myeongdong",
+          "content": "Khu phố Myeongdong ở Seoul là điểm đến không thể bỏ qua đối với các tín đồ ẩm thực. Tại đây, bạn sẽ tìm thấy hàng loạt món ăn đường phố hấp dẫn như tokbokki (bánh gạo cay), gimbap (cơm cuộn), và bánh cá nóng hổi. Ngoài ra, hải sản nướng, gà rán Hàn Quốc, và các món tráng miệng như kem xoắn, bánh trứng cũng là những món bạn nên thử. Khu phố này còn là thiên đường mua sắm với nhiều cửa hàng mỹ phẩm và thời trang nổi tiếng. Hãy dành thời gian tản bộ qua các con ngõ hẹp, thưởng thức hương vị đặc trưng của Hàn Quốc và hòa mình vào không khí náo nhiệt của Myeongdong."
+        }
+      ],
+      "weather": "Hàn Quốc có bốn mùa rõ rệt, với mùa xuân và mùa thu là thời điểm đẹp nhất để tham quan. Mùa xuân (tháng 3-5) mang lại cảnh sắc hoa anh đào nở rộ khắp nơi, đặc biệt tại Seoul, Jeju và Gyeongju. Mùa thu (tháng 9-11) là thời gian lý tưởng để chiêm ngưỡng lá đỏ rực rỡ tại các dãy núi như Seoraksan hoặc công viên quốc gia Nami. Mùa hè (tháng 6-8) thường nóng và ẩm, nhưng đây lại là thời điểm lý tưởng để tận hưởng các bãi biển ở Busan hoặc Jeju. Mùa đông (tháng 12-2) lạnh giá, đặc biệt tại các vùng phía Bắc, nhưng bạn có thể tham gia các hoạt động trượt tuyết hoặc lễ hội băng độc đáo. Dù đến vào mùa nào, Hàn Quốc luôn có những điểm tham quan thú vị dành cho du khách.",
+      "transport": "Hàn Quốc nổi tiếng với hệ thống giao thông hiện đại và tiện lợi. Tàu điện ngầm tại Seoul, Busan và các thành phố lớn khác cực kỳ phát triển, giúp bạn dễ dàng di chuyển trong thành phố. Tàu cao tốc KTX kết nối các thành phố lớn như Seoul, Busan, và Gwangju chỉ trong vài giờ. Đối với các khu vực xa hơn như đảo Jeju, bạn có thể sử dụng các chuyến bay nội địa nhanh chóng. Xe buýt đường dài cũng là một lựa chọn phổ biến với giá cả phải chăng và mạng lưới rộng khắp. Nếu muốn trải nghiệm sự linh hoạt hơn, bạn có thể thuê xe ô tô để tự do khám phá các vùng quê hoặc các điểm tham quan ít người biết đến. Ngoài ra, taxi và ứng dụng gọi xe như KakaoTaxi cũng rất phổ biến, giúp bạn dễ dàng di chuyển mà không lo ngại về rào cản ngôn ngữ."
+    },
+    {
+      "country": "Pháp",
+      "overview": "Pháp, được biết đến như \"trái tim của châu Âu\", là một trong những quốc gia nổi tiếng nhất thế giới về văn hóa, lịch sử và nghệ thuật. Với biểu tượng nổi bật là tháp Eiffel ở Paris, Pháp thu hút hàng triệu du khách mỗi năm. Paris, thủ đô hoa lệ, không chỉ nổi tiếng với các công trình kiến trúc cổ kính như Nhà thờ Đức Bà hay Khải Hoàn Môn, mà còn là trung tâm của thời trang, nghệ thuật và ẩm thực toàn cầu. Ngoài Paris, Pháp còn sở hữu nhiều vùng đất đa dạng như Provence với cánh đồng oải hương tím biếc, dãy núi Alps phủ tuyết trắng, hay bờ biển French Riviera với những bãi biển tuyệt đẹp. Ẩm thực Pháp là một phần không thể thiếu trong văn hóa của quốc gia này, từ các món bánh ngọt như croissant, macaron đến các món chính như foie gras hay rượu vang Bordeaux trứ danh. Là nơi khai sinh của những trào lưu nghệ thuật lớn như Ấn tượng và Tân cổ điển, Pháp còn tự hào với bảo tàng Louvre – nơi trưng bày bức họa Mona Lisa nổi tiếng. Hãy đến Pháp để khám phá sự kết hợp hoàn hảo giữa truyền thống và hiện đại, và tận hưởng một hành trình đầy cảm hứng qua từng góc phố, bảo tàng và món ăn đậm chất nghệ thuật.",
+      "img": "",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Tháp Eiffel",
+          "content": "Tháp Eiffel, biểu tượng của nước Pháp, là điểm đến không thể bỏ qua khi bạn đến Paris. Được xây dựng vào năm 1889, tháp cao 330 mét này mang đến tầm nhìn toàn cảnh ngoạn mục của thành phố. Du khách có thể chọn leo bộ hoặc sử dụng thang máy để lên các tầng quan sát. Vào buổi tối, tháp Eiffel trở nên lung linh với ánh đèn vàng rực rỡ, tạo nên một khung cảnh thơ mộng không gì sánh được. Đừng quên ghé thăm các cửa hàng quà lưu niệm dưới chân tháp và thưởng thức một bữa tối tại nhà hàng trên tầng tháp để có một trải nghiệm khó quên."
+        },
+        {
+          "title": "Khám phá Bảo tàng Louvre",
+          "content": "Bảo tàng Louvre là một trong những bảo tàng nghệ thuật lớn nhất và nổi tiếng nhất thế giới, với hơn 38.000 tác phẩm được trưng bày. Nằm trong cung điện cổ kính ở trung tâm Paris, nơi đây lưu giữ nhiều kiệt tác như bức họa Mona Lisa, tượng thần Vệ Nữ Milo và Bức tượng Chiến binh đang chết. Du khách có thể dành hàng giờ để chiêm ngưỡng những tác phẩm nghệ thuật từ thời cổ đại đến hiện đại. Ngoài việc tham quan, bạn cũng có thể thư giãn tại khu vườn Tuileries gần đó hoặc tham gia các buổi triển lãm đặc biệt được tổ chức thường xuyên."
+        },
+        {
+          "title": "Thưởng ngoạn vùng Provence",
+          "content": "Provence, nằm ở miền Nam nước Pháp, là điểm đến lý tưởng để hòa mình vào khung cảnh thiên nhiên thơ mộng. Vùng đất này nổi tiếng với các cánh đồng oải hương trải dài bất tận, những ngôi làng cổ kính trên đồi và nền ẩm thực đặc sắc. Vào mùa hè, hương thơm của hoa oải hương lan tỏa khắp nơi, tạo nên một bầu không khí yên bình và thư thái. Du khách có thể tham quan thị trấn Aix-en-Provence, nơi có các chợ địa phương bán rượu vang, pho mát và dầu ô liu hảo hạng. Provence là nơi hoàn hảo để thư giãn và tận hưởng vẻ đẹp yên bình của miền quê nước Pháp."
+        }
+      ],
+      "weather": "Khí hậu Pháp thay đổi theo vùng, mang đến sự đa dạng cho du khách. Vào mùa xuân (tháng 3-5), thời tiết dễ chịu với hoa nở rộ khắp nơi, đặc biệt tại Paris và Provence. Mùa hè (tháng 6-8) ấm áp và là thời điểm lý tưởng để tận hưởng các bãi biển tại French Riviera hoặc dạo chơi trên các con phố cổ của Nice. Mùa thu (tháng 9-11) mang đến không gian lãng mạn với lá vàng rực rỡ, đặc biệt ở vùng Alsace. Vào mùa đông (tháng 12-2), bạn có thể tham gia trượt tuyết tại dãy Alps hoặc tận hưởng không khí lễ hội tại các khu chợ Giáng sinh nổi tiếng. Dù đến vào bất kỳ mùa nào, Pháp đều mang đến những trải nghiệm đáng nhớ cho du khách.",
+      "transport": "Pháp sở hữu một hệ thống giao thông hiện đại và tiện lợi, giúp bạn dễ dàng khám phá mọi nơi. Tàu cao tốc TGV là lựa chọn tuyệt vời để di chuyển giữa các thành phố lớn như Paris, Marseille và Lyon trong thời gian ngắn. Tại Paris, hệ thống tàu điện ngầm rộng khắp là cách lý tưởng để khám phá các điểm tham quan trong thành phố. Xe buýt và taxi cũng phổ biến, trong khi các ứng dụng gọi xe như Uber mang lại sự tiện lợi cao. Nếu bạn muốn tự do hơn, việc thuê xe ô tô là lựa chọn hoàn hảo để khám phá các vùng quê như Provence hoặc Burgundy. Ngoài ra, Pháp còn có các sân bay quốc tế lớn như Charles de Gaulle, kết nối với hầu hết các quốc gia trên thế giới. Với hệ thống giao thông phát triển, hành trình của bạn tại Pháp sẽ luôn suôn sẻ và dễ dàng."
+    },
+    {
+      "country": "Nhật Bản",
+      "overview": "Nhật Bản, xứ sở của hoa anh đào, là một đất nước nổi bật với sự hòa quyện giữa truyền thống và hiện đại. Với nền văn hóa lâu đời, Nhật Bản nổi bật với các ngôi đền cổ kính, những khu vườn tuyệt đẹp, và các lễ hội truyền thống. Tokyo, thủ đô hiện đại, là một trong những thành phố năng động nhất thế giới, trong khi Kyoto mang đến vẻ đẹp thanh bình của các đền chùa và phố cổ. Ngoài các thành phố lớn, Nhật Bản còn nổi tiếng với thiên nhiên hùng vĩ như núi Phú Sĩ, các suối nước nóng (onsen) và những bãi biển đẹp. Ẩm thực Nhật Bản là một phần không thể thiếu trong văn hóa của quốc gia này, từ sushi, sashimi đến ramen và tempura. Nhật Bản cũng là nơi sản sinh ra những sáng tạo công nghệ vượt trội và là trung tâm của các ngành công nghiệp điện tử và ô tô.",
+      "img": "",
+      "topthingtodo": [
+        {
+          "title": "Tham quan đền Kinkaku-ji ở Kyoto",
+          "content": "Đền Vàng (Kinkaku-ji) tại Kyoto là một trong những di tích nổi tiếng nhất Nhật Bản, với kiến trúc đặc trưng của phong cách chùa Zen và mái vàng óng ánh phản chiếu trên mặt hồ. Du khách có thể thăm quan khu vườn xung quanh và tận hưởng không khí yên tĩnh, thanh bình. Đây là nơi lý tưởng để cảm nhận vẻ đẹp của Nhật Bản cổ kính và hòa mình vào thiên nhiên."
+        },
+        {
+          "title": "Khám phá thành phố Tokyo",
+          "content": "Tokyo là sự kết hợp tuyệt vời giữa truyền thống và hiện đại. Từ các ngôi đền như Senso-ji đến những trung tâm mua sắm sầm uất như Shibuya và Ginza, thành phố này không bao giờ thiếu điều gì để khám phá. Du khách có thể tham quan các khu phố như Akihabara, nổi tiếng với các cửa hàng điện tử, hay thưởng thức các món ăn đường phố tuyệt vời tại các khu chợ như Tsukiji. Tokyo còn có những công viên rộng lớn như Ueno Park, nơi bạn có thể thư giãn hoặc tham gia lễ hội hoa anh đào vào mùa xuân."
+        },
+        {
+          "title": "Thư giãn tại suối nước nóng (Onsen) ở Hakone",
+          "content": "Hakone, nằm gần Tokyo, là một điểm đến tuyệt vời để trải nghiệm onsen (suối nước nóng). Với cảnh quan tuyệt đẹp của núi Phú Sĩ và những suối nước khoáng tự nhiên, nơi đây là thiên đường cho những ai muốn thư giãn và phục hồi sức khỏe. Bạn có thể thưởng thức tắm suối nước nóng trong phòng riêng hoặc tại các khu tắm công cộng ngoài trời, cảm nhận sự tĩnh lặng và yên bình của thiên nhiên."
+        }
+      ],
+      "weather": "Nhật Bản có bốn mùa rõ rệt, mang lại những trải nghiệm khác nhau cho du khách. Mùa xuân (tháng 3-5) là thời gian tuyệt vời để ngắm hoa anh đào nở rộ, đặc biệt là ở Tokyo và Kyoto. Mùa hè (tháng 6-8) có khí hậu ấm áp, thích hợp cho các hoạt động ngoài trời và lễ hội truyền thống. Mùa thu (tháng 9-11) là thời điểm lý tưởng để chiêm ngưỡng cảnh sắc lá đỏ, nhất là ở các vùng núi. Mùa đông (tháng 12-2) mang đến không khí lạnh giá và cơ hội trải nghiệm các hoạt động mùa đông như trượt tuyết ở Hokkaido hoặc tận hưởng không gian lễ hội ở các thành phố lớn.",
+      "transport": "Nhật Bản có hệ thống giao thông công cộng hiện đại và rất tiện lợi. Tàu Shinkansen (tàu cao tốc) giúp bạn di chuyển giữa các thành phố lớn như Tokyo, Kyoto và Osaka trong thời gian ngắn. Các thành phố lớn như Tokyo và Osaka có hệ thống tàu điện ngầm rộng lớn, giúp bạn dễ dàng di chuyển đến các điểm tham quan. Bên cạnh đó, xe buýt và taxi cũng rất phổ biến. Nhật Bản cũng có các sân bay quốc tế như Narita và Kansai, kết nối với nhiều quốc gia trên thế giới. Với giao thông phát triển, việc di chuyển tại Nhật Bản sẽ rất thuận tiện."
+    },
+    {
+      "country": "Mỹ",
+      "overview": "Mỹ, một quốc gia rộng lớn và đa dạng, nổi bật với sự pha trộn giữa các nền văn hóa, phong cảnh và hoạt động giải trí không giới hạn. Từ những thành phố sôi động như New York và Los Angeles đến các công viên quốc gia hùng vĩ như Yellowstone và Grand Canyon, Mỹ cung cấp vô vàn lựa chọn cho du khách. New York là trung tâm của ngành công nghiệp tài chính và văn hóa, trong khi Los Angeles là thủ đô của điện ảnh và giải trí. Các thành phố khác như Chicago, Miami và San Francisco cũng có nét đặc trưng riêng biệt. Về thiên nhiên, Mỹ có những vùng núi cao như Rockies và dãy Sierra Nevada, các bãi biển đẹp ở California và Florida, và những khu vực sa mạc rộng lớn. Ẩm thực Mỹ cũng rất đa dạng, với những món ăn đặc trưng như hamburger, pizza và BBQ, phản ánh sự giao thoa giữa các nền văn hóa trên toàn thế giới.",
+      "img": "",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Tượng Nữ thần Tự do ở New York",
+          "content": "Tượng Nữ thần Tự do, biểu tượng của tự do và dân chủ, nằm trên đảo Liberty, là một trong những điểm đến nổi tiếng nhất ở New York. Du khách có thể tham gia chuyến du ngoạn bằng tàu để tới thăm tượng và bảo tàng về lịch sử của nó. Từ đây, bạn cũng có thể chiêm ngưỡng toàn cảnh thành phố New York với những tòa nhà chọc trời đặc trưng."
+        },
+        {
+          "title": "Khám phá Grand Canyon",
+          "content": "Grand Canyon, một trong những kỳ quan thiên nhiên của thế giới, là một điểm đến không thể bỏ qua khi đến Mỹ. Với những hẻm núi sâu và những lớp đá màu sắc, Grand Canyon mang đến cho du khách những trải nghiệm tuyệt vời. Bạn có thể tham gia các tour du lịch bằng thuyền trên sông Colorado hoặc đi bộ dọc theo các con đường mòn trong công viên quốc gia để chiêm ngưỡng vẻ đẹp ngoạn mục của nơi này."
+        },
+        {
+          "title": "Tham quan các công viên quốc gia ở Utah",
+          "content": "Utah nổi tiếng với các công viên quốc gia tuyệt đẹp như Arches, Zion và Bryce Canyon. Các công viên này sở hữu những cảnh quan đá sa thạch kỳ vĩ, những con đường mòn tuyệt vời để đi bộ và những hoạt động ngoài trời thú vị như leo núi, đạp xe và cắm trại. Đây là nơi lý tưởng cho những ai yêu thích khám phá thiên nhiên hoang dã và muốn trải nghiệm những khoảnh khắc thư giãn giữa không gian hùng vĩ của vùng đất đỏ."
+        }
+      ],
+      "weather": "Mỹ có khí hậu rất đa dạng, thay đổi theo từng vùng. Mùa xuân (tháng 3-5) thường có thời tiết ấm áp, là thời điểm tuyệt vời để khám phá các thành phố và công viên quốc gia. Mùa hè (tháng 6-8) nóng bức ở nhiều nơi, đặc biệt là ở các vùng sa mạc và bãi biển. Mùa thu (tháng 9-11) là thời điểm lý tưởng để chiêm ngưỡng lá cây thay màu, đặc biệt là ở các vùng miền Đông Bắc và Midwest. Mùa đông (tháng 12-2) có khí hậu lạnh giá ở phía Bắc và các khu vực núi, trong khi miền Nam và bờ biển vẫn ấm áp và thích hợp cho các hoạt động ngoài trời.",
+      "transport": "Mỹ có một hệ thống giao thông phát triển, bao gồm các chuyến bay nội địa và quốc tế, tàu điện ngầm, xe buýt và hệ thống tàu hỏa. Các thành phố lớn như New York, Chicago và Washington DC có hệ thống tàu điện ngầm rộng lớn, dễ dàng di chuyển. Đối với những ai muốn khám phá các khu vực rộng lớn như miền Tây, việc thuê xe hơi là một lựa chọn phổ biến. Ngoài ra, các sân bay quốc tế lớn như Los Angeles, New York (JFK) và Miami kết nối với các thành phố lớn trên toàn cầu. Hệ thống đường cao tốc xuyên suốt cả nước cũng giúp bạn di chuyển dễ dàng giữa các bang."
     }
   ]
 }
