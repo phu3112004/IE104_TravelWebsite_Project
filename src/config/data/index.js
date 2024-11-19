@@ -3,6 +3,7 @@ import { menuData } from "./menuData";
 import { menuMediaData } from "./menuMediaData";
 import { slideData } from "./slideData";
 import { reviewData } from "./reviewData";
+import { countryData } from "./countryData";
 import { destinationData, adventureData, tourStories } from "./tourData";
 export {
   cityData,
@@ -13,4 +14,5 @@ export {
   adventureData,
   tourStories,
   reviewData,
+  countryData,
 };

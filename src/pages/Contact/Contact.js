@@ -1,5 +1,10 @@
+import Contact_Form from "./Form/Form";
+
+
 function Contact() {
-  return <h1>Contact</h1>;
+  return (
+    <Contact_Form/>
+  );
 }
 
 export default Contact;
