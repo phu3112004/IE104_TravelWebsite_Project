@@ -13,7 +13,7 @@ function TourItinerary({ day }) {
   return (
     <div className={cx("details-itinerary-day")}>
       <button onClick={handleDetails}>
-        Day {day}{" "}
+        Ngày {day}{" "}
         <FontAwesomeIcon
           className={cx("details-itinerary-day-icon")}
           icon={details ? faChevronUp : faChevronDown}
@@ -22,15 +22,16 @@ function TourItinerary({ day }) {
       {details && (
         <div className={cx("details-itinerary-day-details")}>
           <p>
-            On the morning of your trip, you’ll meet your trip leader and fellow
-            travelers before a 3-mile hike to the river. After a safety briefing
-            and gear fitting, you’ll hit the water, tackling exciting rapids
-            like Rock Garden, Nemesis, Sunderlands Chute, and Ram’s Head. At
-            midday, enjoy a picnic on a sandy beach. Later, experience the
-            thrill of Clavey Falls, a Class IV+ rapid with stair-step drops. In
-            calmer stretches, take a refreshing swim. By afternoon, you’ll
-            arrive at camp, unwind, and enjoy dinner and conversation by the
-            campfire or stargazing under the open sky.
+            Vào buổi sáng của chuyến đi, bạn sẽ gặp trưởng đoàn và những người
+            bạn đồng hành của mình. du khách trước chuyến đi bộ 3 dặm tới sông
+            Sau buổi giới thiệu về an toàn. và lắp thiết bị, bạn sẽ chạm mặt
+            nước, vượt qua những thác ghềnh thú vị như Rock Garden, Nemesis,
+            Sunderlands Chute và Ram's Head. giữa trưa, tận hưởng chuyến dã
+            ngoại trên bãi biển đầy cát. Cảm giác hồi hộp của Thác Clavey, Thác
+            cấp IV+ nhanh chóng với những bậc thang rơi xuống. trải dài êm dịu
+            hơn, hãy bơi lội sảng khoái. Đến buổi chiều, bạn sẽ cảm thấy thoải
+            mái. đến trại, nghỉ ngơi, thưởng thức bữa tối và trò chuyện bên cạnh
+            đốt lửa trại hoặc ngắm sao dưới bầu trời rộng mở.
           </p>
         </div>
       )}

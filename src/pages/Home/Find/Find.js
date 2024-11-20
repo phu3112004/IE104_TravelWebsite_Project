@@ -54,7 +54,7 @@ function Find() {
         </label>
         <select id="find-level" className={cx("find-dropdown")}>
           <option value="Easy">Dễ</option>
-          <option value="Moderate">Trung bình</option>
+          <option value="Moderate">Vừa phải</option>
           <option value="Challenging">Khó</option>
         </select>
       </div>

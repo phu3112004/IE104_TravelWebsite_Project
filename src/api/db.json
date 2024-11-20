@@ -1542,7 +1542,7 @@
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "7",
-      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/91/39/e6/exterior-night-view.jpg?w=700&h=-1&s=1"
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171308045.jpg?k=82e1d037d6ff34429f6e5804f6e92325f2b5a2c69c7282a2e7d26e7e6881113c&o=&hp=1"
     },
     {
       "name": "Khách sạn Zen Retreat",
@@ -3378,6 +3378,292 @@
       "check_out_time": "12:00",
       "id": "99",
       "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342714867.jpg?k=cbcabd5fb0dfd5109fc2b113e56b9facb6bc4b0f2f4ed941730438c6f34b5abc&o=&hp=1"
+    }
+  ],
+  "scenery": [
+    {
+      "country": "Pháp",
+      "city": "Paris",
+      "img": "",
+      "slide_img": [
+        "https://cdn.tuoitre.vn/thumb_w/480/2020/6/26/eiffel-tower--15931683656221303695281.jpg",
+        "https://holivntravel.com/wp-content/uploads/2024/05/2021-09-28128378-hinh-anh-vn1.webp",
+        "https://media.vneconomy.vn/images/upload/2021/04/21/db18-1555389100133976293810.jpg"
+      ],
+      "essay": "Paris, thủ đô của Pháp, là một trong những thành phố quyến rũ và lôi cuốn nhất thế giới. Nổi tiếng với sự kết hợp hoàn hảo giữa di sản lịch sử và vẻ đẹp hiện đại, Paris luôn là điểm đến mơ ước của du khách từ mọi nơi. Các công trình kiến trúc nổi bật như Tháp Eiffel, Nhà thờ Đức Bà Paris và Bảo tàng Louvre đã trở thành biểu tượng của thành phố, thu hút hàng triệu du khách mỗi năm. Ngoài ra, các con phố cổ kính, những quán cà phê ven đường và không khí lãng mạn khiến Paris trở thành một thành phố mà bạn có thể thả mình vào bất kỳ lúc nào. Mùa xuân và mùa thu được xem là thời điểm lý tưởng để thăm Paris, khi thời tiết ôn hòa và cảnh quan đẹp tuyệt vời. Thành phố này cũng là trung tâm của nghệ thuật, văn hóa và thời trang, nơi những triển lãm nghệ thuật và các sự kiện thời trang quốc tế diễn ra liên tục. Paris không chỉ là một thành phố để tham quan, mà còn là nơi để tận hưởng cuộc sống, thưởng thức ẩm thực Pháp và cảm nhận vẻ đẹp của văn hóa Châu Âu. Đối với những ai yêu thích sự kết hợp giữa cổ điển và hiện đại, Paris chính là lựa chọn không thể bỏ qua.",
+      "description": "Paris, thủ đô của Pháp, nổi tiếng với các công trình kiến trúc cổ kính và các bảo tàng nổi tiếng.",
+      "attractions": ["Tháp Eiffel", "Bảo tàng Louvre", "Nhà thờ Đức Bà Paris"],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Nhật",
+      "city": "Kyoto",
+      "img": [
+        "https://a2.cdn.japantravel.com/photo/poi-44-220752/800!/kyoto-kinkakuji-220752.jpg",
+        "https://res.cloudinary.com/jnto/image/upload/w_750,h_503,fl_lossy,f_auto/v1648523564/kyoto/20201026_fushimi_inari_taisha_shrine_02",
+        "https://achautravel.com/upload/images/1561604820-detail-post.jpeg"
+      ],
+      "slide_img": "",
+      "essay": "Kyoto, một thành phố cổ kính của Nhật Bản, nổi bật với vẻ đẹp yên bình và những di tích văn hóa đặc sắc. Là thủ đô cũ của Nhật Bản, Kyoto lưu giữ rất nhiều ngôi đền, chùa và vườn Nhật truyền thống. Điểm đặc biệt nhất ở Kyoto là sự hòa quyện giữa thiên nhiên và kiến trúc, với những ngôi chùa nổi tiếng như Chùa Vàng Kinkaku-ji, Chùa Fushimi Inari với hàng nghìn cổng Torii đỏ, và những khu vườn Zen tĩnh lặng. Kyoto cũng nổi bật với các lễ hội truyền thống, nơi du khách có thể chứng kiến các điệu múa, âm nhạc và nghệ thuật Nhật Bản. Vào mùa xuân, Kyoto trở nên vô cùng đẹp với hoa anh đào nở rộ, tạo nên một cảnh quan thơ mộng. Kyoto là một điểm đến lý tưởng cho những ai yêu thích khám phá văn hóa và tìm kiếm sự thanh tịnh.",
+      "description": "Kyoto, thành phố cổ của Nhật Bản, nổi tiếng với các ngôi đền, chùa và vẻ đẹp thiên nhiên thanh bình.",
+      "attractions": ["Kinkaku-ji", "Chùa Fushimi Inari", "Vườn Kyoto"],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Mỹ",
+      "city": "New York",
+      "img": [
+        "https://www.trangantravel.com.vn/wp-content/uploads/2022/10/phan-duoc-tuong-Nu-than-Tu-do-3.jpg",
+        "https://image.newyorkcity.ca/wp-content/uploads/2013/02/Central-Park.jpg",
+        "https://ik.imagekit.io/tvlk/blog/2023/04/quang-truong-thoi-1-1024x576.jpg?tr=dpr-2,w-675"
+      ],
+      "slide_img": "",
+      "essay": "New York, thành phố không bao giờ ngủ, là một trong những trung tâm tài chính, văn hóa và nghệ thuật quan trọng nhất thế giới. Với biểu tượng nổi bật như Tượng Nữ thần Tự do, Central Park và Quảng trường Thời đại, New York không chỉ thu hút du khách bởi những công trình kiến trúc đồ sộ mà còn bởi nhịp sống nhanh, sôi động và đa văn hóa. Thành phố này có vô số điểm đến thú vị từ các bảo tàng lớn như Bảo tàng Mỹ thuật Metropolitan, đến những khu phố đặc sắc như Chinatown và Harlem. Với những con phố tấp nập, những tòa nhà chọc trời và nền ẩm thực phong phú, New York là nơi bạn có thể trải nghiệm sự năng động và sáng tạo vô tận. Mùa hè và mùa thu là thời gian lý tưởng để khám phá thành phố này, khi thời tiết dễ chịu và các sự kiện lớn diễn ra liên tục.",
+      "description": "New York, một trong những thành phố lớn nhất và sôi động nhất của Mỹ, là trung tâm của văn hóa và nghệ thuật.",
+      "attractions": [
+        "Tượng Nữ thần Tự do",
+        "Central Park",
+        "Quảng trường Thời đại"
+      ],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Trung Quốc",
+      "city": "Bắc Kinh",
+      "img": [
+        "https://kimlientravel.com.vn/upload/image/Bai-tin-TQ/BAC%20KINH/Tu%20Cam%20Thanh/tu-cam-thanh-5.jpg",
+        "https://bizweb.dktcdn.net/100/094/983/files/1-copy-cd2276ca-dfda-4351-a434-d231ea5740cd.jpg?v=1566320626713",
+        "https://kitetravel.vn/blog/wp-content/uploads/2021/08/cung-dien-mua-he-nga-peterhof-2.jpg"
+      ],
+      "slide_img": "",
+      "essay": "Bắc Kinh, thủ đô của Trung Quốc, là một trong những thành phố lịch sử và văn hóa quan trọng nhất của Châu Á. Thành phố này nổi bật với các công trình kiến trúc cổ đại, trong đó có Tử Cấm Thành, Quảng trường Thiên An Môn, và Cung điện mùa hè, nơi lưu giữ những di sản quý giá của triều đại nhà Minh và Thanh. Bắc Kinh không chỉ là trung tâm chính trị mà còn là một thành phố đa dạng về văn hóa, nơi du khách có thể thưởng thức các món ăn đặc trưng như vịt quay Bắc Kinh và trải nghiệm các hoạt động truyền thống như chèo thuyền trên Hồ Cảnh. Thời gian lý tưởng để thăm Bắc Kinh là vào mùa thu, khi khí hậu mát mẻ và dễ chịu. Đây là thời điểm tuyệt vời để tham quan các địa điểm nổi tiếng cũng như khám phá các ngôi làng cổ quanh thành phố.",
+      "description": "Bắc Kinh, thủ đô của Trung Quốc, là trung tâm văn hóa, chính trị và lịch sử của quốc gia này.",
+      "attractions": [
+        "Tử Cấm Thành",
+        "Quảng trường Thiên An Môn",
+        "Cung điện mùa hè"
+      ],
+      "best_time_to_visit": "Mùa thu"
+    },
+    {
+      "country": "Việt Nam",
+      "city": "Hạ Long",
+      "img": [
+        "https://tructhang.vn/wp-content/uploads/2022/08/Vinh-Ha-Long.jpg",
+        "https://mia.vn/media/uploads/blog-du-lich/dong-thien-cung-an-tuong-hang-dong-long-lay-nhat-noi-vinh-ha-long-4-1641632677.jpg",
+        "https://www.agoda.com/wp-content/uploads/2024/08/Featured-image-Halong-Bay-Vietnam-1244x700.jpg"
+      ],
+      "slide_img": "",
+      "essay": "Hạ Long, một trong bảy kỳ quan thiên nhiên mới của thế giới, nổi bật với hàng nghìn hòn đảo đá vôi tuyệt đẹp nằm rải rác trên biển. Vịnh Hạ Long không chỉ thu hút du khách bởi cảnh quan thiên nhiên kỳ vĩ mà còn vì sự huyền bí của các hang động, vịnh nhỏ và các đảo hoang sơ. Du khách có thể tham gia các tour du thuyền để chiêm ngưỡng vẻ đẹp tuyệt mỹ của vịnh, hay tham quan các di tích lịch sử như Động Thiên Cung, Động Sung Sướng. Hạ Long là nơi lý tưởng để khám phá thiên nhiên, thư giãn và tận hưởng không khí trong lành. Mùa xuân và mùa thu là thời điểm lý tưởng để thăm Hạ Long, khi thời tiết mát mẻ và dễ chịu.",
+      "description": "Hạ Long, một trong những vịnh đẹp nhất thế giới, nổi tiếng với hàng nghìn hòn đảo đá vôi kỳ vĩ.",
+      "attractions": ["Vịnh Hạ Long", "Động Thiên Cung"],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Hàn Quốc",
+      "city": "Seoul",
+      "img": [
+        "https://goldensmiletravel.com/uploads/images/2023/06/12/ecdd89f2-79d4-46a1-b474-6f132ffdc2d1-1686554140.jpg",
+        "https://blog.chudutravel.vn/wp-content/uploads/2023/04/thap-namsan-han-quoc-3.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Sb6Lb1kBHYBWj9UVIqIYhZKM6P0fkW0t9g&s"
+      ],
+      "slide_img": "",
+      "essay": "Seoul, thủ đô sôi động của Hàn Quốc, là một thành phố hiện đại nhưng vẫn giữ được những giá trị truyền thống đặc sắc. Thành phố này nổi bật với các điểm tham quan như Cung điện Gyeongbok, Tháp Namsan, và Làng Bukchon Hanok, nơi du khách có thể khám phá kiến trúc cổ kính của Hàn Quốc. Seoul cũng là trung tâm của công nghệ và thời trang, với các khu phố như Myeongdong và Gangnam luôn tấp nập và đầy sức sống. Mùa xuân, khi hoa anh đào nở rộ, hoặc mùa thu, với khung cảnh lá đỏ tuyệt đẹp, là thời điểm lý tưởng để tham quan thành phố này. Đến Seoul, bạn không chỉ được trải nghiệm nền văn hóa đặc sắc mà còn có thể thưởng thức các món ăn nổi tiếng như kimchi, bulgogi và tteokbokki.",
+      "description": "Seoul, thủ đô của Hàn Quốc, là thành phố kết hợp giữa hiện đại và truyền thống, nổi bật với các cung điện cổ và nền văn hóa phong phú.",
+      "attractions": [
+        "Cung điện Gyeongbok",
+        "Tháp Namsan",
+        "Làng Bukchon Hanok"
+      ],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Trung Quốc",
+      "city": "Thượng Hải",
+      "img": [
+        "https://dulichvietnamhanoi.vn/uploads/Image/cam-nang-du-lich/thap-a..jpg",
+        "https://www.asiaodysseytravel.com/images/china-tours/group-tours/the-bund-700-13.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/f5/77/75/nanjing-rd.jpg?w=900&h=500&s=1"
+      ],
+      "slide_img": "",
+      "essay": "Thượng Hải, trung tâm kinh tế sôi động của Trung Quốc, là thành phố nổi bật với sự kết hợp giữa kiến trúc hiện đại và di sản văn hóa lâu đời. Nổi tiếng với những tòa nhà chọc trời như Tháp Đông Phương và các khu phố cổ kính như Đường Nanjing, Thượng Hải luôn là điểm đến hấp dẫn du khách. Thành phố này cũng nổi bật với khu vực Bund bên bờ sông Hoàng Phố, nơi bạn có thể chiêm ngưỡng vẻ đẹp của những tòa nhà mang đậm dấu ấn của các cường quốc phương Tây xưa. Thượng Hải không chỉ thu hút du khách với các khu mua sắm hiện đại mà còn với nền ẩm thực phong phú và các lễ hội truyền thống đặc sắc. Mùa thu và mùa xuân là thời điểm lý tưởng để tham quan Thượng Hải, khi thời tiết dễ chịu và các sự kiện văn hóa diễn ra liên tục.",
+      "description": "Thượng Hải, thành phố trung tâm kinh tế của Trung Quốc, là nơi giao thoa giữa hiện đại và cổ điển.",
+      "attractions": ["Tháp Đông Phương", "Bund", "Đường Nanjing"],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Việt Nam",
+      "city": "Hội An",
+      "img": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Cau_Nhat_Ban.jpg/1200px-Cau_Nhat_Ban.jpg",
+        "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/hoi-an-quang-nam-vntrip-1.jpg",
+        "https://drt.danang.vn/content/images/2024/01/bai-bien-cua-dai-hoi-an.png"
+      ],
+      "slide_img": "",
+      "essay": "Hội An, thành phố cổ nằm ở miền Trung Việt Nam, nổi bật với những ngôi nhà cổ kính và những con phố nhỏ ngập tràn ánh đèn lồng. Được UNESCO công nhận là di sản thế giới, Hội An mang trong mình một vẻ đẹp hoài cổ, nơi vẫn lưu giữ được các nét văn hóa đặc sắc của người dân Việt Nam thời kỳ xưa. Các di tích như Chùa Cầu, các ngôi nhà cổ và các con phố nhỏ uốn lượn là những điểm nhấn hấp dẫn. Bên cạnh đó, ẩm thực Hội An cũng rất đặc sắc, với các món ăn nổi tiếng như cao lầu, bánh bao, bánh vạc. Hội An đặc biệt đẹp vào ban đêm khi các đèn lồng thắp sáng khắp các con phố, tạo ra một không gian thơ mộng. Mùa xuân và mùa thu là thời điểm lý tưởng để thăm Hội An, khi khí hậu dễ chịu và các lễ hội truyền thống diễn ra liên tục.",
+      "description": "Hội An, thành phố cổ của Việt Nam, nổi tiếng với các ngôi nhà cổ và vẻ đẹp truyền thống độc đáo.",
+      "attractions": ["Chùa Cầu", "Phố cổ Hội An", "Biển Cửa Đại"],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Hàn Quốc",
+      "city": "Busan",
+      "img": [
+        "https://ik.imagekit.io/tvlk/blog/2023/04/bai-bien-haeundae-3.jpg?tr=dpr-2,w-675",
+        "https://media2.gody.vn/public/mytravelmap/images/2018/6/1/knigh.gody/568eaf5dec33b5b3cd0b772cba89d442.jpg",
+        "https://ik.imagekit.io/tvlk/blog/2023/08/cho-ca-jagalchi-2.jpg?tr=dpr-2,w-675"
+      ],
+      "slide_img": "",
+      "essay": "Busan, thành phố biển lớn nhất Hàn Quốc, nổi bật với những bãi biển dài, những ngôi chùa cổ kính, và các khu chợ sầm uất. Bãi biển Haeundae là một trong những điểm đến nổi tiếng của Busan, thu hút khách du lịch trong mùa hè. Thành phố này cũng nổi tiếng với các di tích văn hóa, như Chùa Haedong Yonggungsa và Khu chợ Jagalchi, nơi du khách có thể thưởng thức hải sản tươi ngon. Mùa xuân và mùa thu là thời điểm lý tưởng để tham quan Busan, khi thời tiết mát mẻ và dễ chịu, phù hợp cho các hoạt động ngoài trời.",
+      "description": "Busan, thành phố ven biển của Hàn Quốc, nổi bật với các bãi biển, chùa cổ và nền ẩm thực hải sản phong phú.",
+      "attractions": [
+        "Bãi biển Haeundae",
+        "Chùa Haedong Yonggungsa",
+        "Chợ Jagalchi"
+      ],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    },
+    {
+      "country": "Nhật Bản",
+      "city": "Tokyo",
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagBVFey7Ied1EptxbGfOZnlnq-j4gnWE2yw&s",
+        "https://plus.unsplash.com/premium_photo-1661902398022-762e88ff3f82?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2hpYnV5YSUyMGNyb3NzaW5nfGVufDB8fDB8fHww",
+        "https://cdn.britannica.com/09/193909-050-5804497B/photo-Tokyo-distance-right-Sky-Tree-image.jpg"
+      ],
+      "slide_img": "",
+      "essay": "Tokyo, thủ đô sôi động của Nhật Bản, là thành phố pha trộn giữa sự hiện đại và truyền thống. Nổi tiếng với các tòa nhà chọc trời, các trung tâm mua sắm lớn và các khu phố thời trang như Shibuya và Harajuku, Tokyo còn có nhiều điểm tham quan lịch sử như Đền Senso-ji và Cung điện Hoàng gia. Thành phố này cũng nổi bật với nền văn hóa độc đáo, từ các quán cà phê thú cưng, các tiệm bánh truyền thống, cho đến các quán sushi đỉnh cao. Tokyo là một điểm đến lý tưởng cho những ai muốn trải nghiệm sự pha trộn giữa công nghệ tiên tiến và những nét đẹp văn hóa Nhật Bản. Mùa xuân, khi hoa anh đào nở, và mùa thu, khi lá thay màu, là thời điểm tuyệt vời để tham quan Tokyo.",
+      "description": "Tokyo, thủ đô của Nhật Bản, là thành phố nổi bật với sự pha trộn giữa hiện đại và truyền thống.",
+      "attractions": ["Tokyo Tower", "Shibuya Crossing", "Tokyo Sky Tree"],
+      "best_time_to_visit": "Mùa xuân hoặc mùa thu"
+    }
+  ],
+  "destination": [
+    {
+      "country": "Việt Nam",
+      "overview": "Việt Nam là một quốc gia Đông Nam Á đầy mê hoặc với sự kết hợp hoàn hảo giữa cảnh quan thiên nhiên tươi đẹp, nền văn hóa phong phú và lịch sử lâu đời. Với bề dày hơn 4.000 năm lịch sử, Việt Nam tự hào sở hữu các di tích cổ kính như Phố Cổ Hà Nội, thành phố Hội An, hay Thánh địa Mỹ Sơn. Vịnh Hạ Long, di sản thiên nhiên thế giới, với hàng ngàn hòn đảo đá vôi kỳ vĩ là một điểm đến không thể bỏ qua. Ngoài ra, Việt Nam còn nổi tiếng với nền ẩm thực đường phố đa dạng, từ phở, bún chả cho đến bánh mì, luôn làm hài lòng những thực khách khó tính nhất. Thành phố Hồ Chí Minh, trung tâm kinh tế sôi động, mang lại sự tương phản thú vị với các khu vực nông thôn như đồng bằng sông Cửu Long – nơi bạn có thể khám phá cuộc sống yên bình và nền văn hóa sông nước. Việt Nam là điểm đến lý tưởng cho những ai yêu thích sự kết hợp giữa lịch sử, văn hóa và phong cảnh thiên nhiên.",
+      "img": "https://vfda.vn/wp-content/uploads/2022/03/image-2.png",
+      "topthingtodo": [
+        {
+          "title": "Thưởng thức ẩm thực đường phố",
+          "content": "Ẩm thực Việt Nam được thế giới công nhận nhờ sự phong phú và hương vị độc đáo. Tại Hà Nội, bạn có thể thưởng thức phở bò với nước dùng thơm ngọt, trong khi bún chả, một món ăn với thịt nướng và bún tươi, là đặc sản không thể bỏ qua. Các khu chợ đêm, như chợ Đồng Xuân, mang đến nhiều lựa chọn từ bánh mì kẹp thịt đến chè tráng miệng. Đặc biệt, các món ăn này không chỉ ngon mà còn thể hiện sự giao thoa của các vùng miền. Hãy chắc chắn ghé thăm các quán ăn gia đình nhỏ để trải nghiệm sự đón tiếp nồng hậu và hương vị truyền thống Việt Nam."
+        },
+        {
+          "title": "Khám phá Phố Cổ Hà Nội",
+          "content": "Phố Cổ Hà Nội là trái tim văn hóa của thủ đô, nơi bạn có thể thấy sự giao thoa giữa truyền thống và hiện đại. Những con đường nhỏ hẹp được lót bằng đá cuội, với các cửa hàng bán đồ thủ công mỹ nghệ và quán cà phê ẩn mình trong những căn nhà cổ kính. Đi dạo quanh khu vực, bạn sẽ nghe thấy tiếng còi xe đạp, mùi thơm của cà phê trứng và hình ảnh người dân buôn bán nhộn nhịp. Đừng quên ghé thăm các di tích nổi bật như chùa Một Cột và Văn Miếu – Quốc Tử Giám để hiểu thêm về lịch sử và văn hóa Việt Nam."
+        },
+        {
+          "title": "Khám phá Vịnh Hạ Long",
+          "content": "Vịnh Hạ Long, một trong bảy kỳ quan thiên nhiên thế giới, là điểm đến không thể bỏ qua. Với hơn 1.600 hòn đảo đá vôi lớn nhỏ, nơi đây là thiên đường cho những ai yêu thiên nhiên và sự yên bình. Bạn có thể tham gia tour du thuyền để chiêm ngưỡng cảnh hoàng hôn hoặc chèo thuyền kayak khám phá những hang động kỳ bí. Các hòn đảo nổi tiếng như Đảo Ti Tốp, Hang Sửng Sốt là những điểm dừng chân thú vị. Ngoài ra, cuộc sống của ngư dân tại các làng chài nổi sẽ mang đến cái nhìn gần gũi và chân thực về văn hóa địa phương."
+        }
+      ],
+      "weather": "Khí hậu Việt Nam rất đa dạng do sự trải dài từ Bắc đến Nam. Miền Bắc có bốn mùa rõ rệt, trong đó mùa xuân (tháng 3-4) và mùa thu (tháng 9-11) là lý tưởng nhất để tham quan. Miền Trung nổi bật với khí hậu nhiệt đới ẩm, thích hợp cho các chuyến nghỉ dưỡng tại bãi biển như Đà Nẵng hay Nha Trang. Trong khi đó, miền Nam lại có hai mùa: mùa mưa và mùa khô, với nhiệt độ ổn định quanh năm. Thời điểm tốt nhất để thăm TP. Hồ Chí Minh và đồng bằng sông Cửu Long là từ tháng 11 đến tháng 4, khi thời tiết khô ráo và không quá nóng bức. Đừng quên kiểm tra thời tiết trước khi lên kế hoạch, đặc biệt nếu bạn có ý định leo núi hoặc tham gia các hoạt động ngoài trời.",
+      "transport": "Việt Nam có hệ thống giao thông đa dạng và phát triển, từ các chuyến bay nội địa kết nối các thành phố lớn đến xe lửa và xe buýt phục vụ các khu vực địa phương. Các sân bay quốc tế lớn như Nội Bài (Hà Nội) và Tân Sơn Nhất (TP. Hồ Chí Minh) rất thuận tiện cho du khách quốc tế. Nếu bạn muốn trải nghiệm như người bản địa, hãy thử di chuyển bằng xe máy – phương tiện giao thông phổ biến tại đây. Tuy nhiên, đối với những hành trình dài, tàu hỏa và xe khách giường nằm là lựa chọn thoải mái hơn. Ngoài ra, dịch vụ taxi và các ứng dụng gọi xe như Grab rất dễ dàng để sử dụng, đặc biệt ở các thành phố lớn."
+    },
+    {
+      "country": "Trung Quốc",
+      "overview": "Trung Quốc là quốc gia rộng lớn nằm ở Đông Á, nổi tiếng với lịch sử lâu đời kéo dài hàng nghìn năm, cùng nền văn hóa phong phú và đa dạng. Đây là một trong những nền văn minh cổ xưa nhất thế giới, nơi khởi nguồn của nhiều phát minh quan trọng như la bàn, giấy, và thuốc súng. Trung Quốc sở hữu các kỳ quan nổi tiếng như Vạn Lý Trường Thành – biểu tượng lịch sử và sức mạnh của quốc gia, Cố Cung (Tử Cấm Thành) ở Bắc Kinh, và Đội quân đất nung ở Tây An. Bên cạnh đó, phong cảnh thiên nhiên của Trung Quốc cũng không kém phần ngoạn mục với vùng núi Hoàng Sơn huyền thoại, sông Dương Tử hùng vĩ, và các cánh đồng bậc thang ở Quế Lâm. Không chỉ nổi bật với cảnh quan và di sản, Trung Quốc còn là một trung tâm kinh tế và công nghệ hiện đại với những siêu đô thị như Thượng Hải và Thâm Quyến. Ngoài ra, ẩm thực Trung Quốc cũng là một phần không thể thiếu với hương vị đặc sắc và sự đa dạng theo từng vùng miền. Tất cả những điều này khiến Trung Quốc trở thành một điểm đến hấp dẫn, nơi bạn có thể khám phá từ những giá trị cổ kính đến nhịp sống hiện đại.",
+      "img": "https://newocean.edu.vn/wp-content/uploads/2024/03/van-hoa-dat-nuoc-trung-quoc-min.jpg",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Vạn Lý Trường Thành",
+          "content": "Vạn Lý Trường Thành là một trong bảy kỳ quan thế giới và cũng là biểu tượng vĩ đại của Trung Quốc. Công trình này kéo dài hơn 21.000 km qua các vùng núi, thảo nguyên, và sa mạc. Bạn có thể đến thăm các đoạn tường thành nổi tiếng như Bát Đạt Lĩnh (Bắc Kinh), nơi được bảo tồn tốt nhất, hoặc Mộ Điền Dụ, một địa điểm yên tĩnh hơn dành cho du khách thích sự bình lặng. Đi bộ trên tường thành, bạn sẽ cảm nhận được sự hùng vĩ của lịch sử và công sức của hàng triệu lao động qua hàng thế kỷ. Đây không chỉ là một kỳ quan kiến trúc mà còn là nơi mang ý nghĩa văn hóa và tinh thần của dân tộc Trung Hoa."
+        },
+        {
+          "title": "Khám phá Cố Cung (Tử Cấm Thành)",
+          "content": "Nằm ở trung tâm Bắc Kinh, Cố Cung, hay Tử Cấm Thành, là cung điện hoàng gia của các triều đại Minh và Thanh, đồng thời là một trong những công trình kiến trúc cổ lớn nhất thế giới. Với diện tích hơn 720.000 m², nơi đây bao gồm gần 1.000 tòa nhà với lối kiến trúc đặc trưng cùng những chi tiết trang trí công phu. Du khách có thể khám phá các sảnh chính như Thái Hòa Điện, nơi diễn ra các nghi lễ lớn, hoặc thăm bảo tàng chứa đựng hàng ngàn hiện vật lịch sử. Cố Cung không chỉ là một điểm tham quan mà còn là nơi giúp bạn hiểu rõ hơn về quyền lực và nghệ thuật của triều đình Trung Hoa xưa."
+        },
+        {
+          "title": "Thưởng thức ẩm thực địa phương",
+          "content": "Ẩm thực Trung Quốc là một trong những nền ẩm thực nổi tiếng và đa dạng nhất thế giới. Mỗi vùng miền đều mang một phong cách riêng biệt, từ các món cay nồng của Tứ Xuyên, vị thanh tao của Quảng Đông, đến ẩm thực giàu năng lượng của Sơn Đông. Tại Bắc Kinh, vịt quay Bắc Kinh là món ăn không thể bỏ qua với lớp da giòn và thịt thơm ngon. Ở Tây An, bạn có thể thử bánh mì thịt cừu và mì kéo bằng tay truyền thống. Đặc biệt, các khu chợ đêm tại Thượng Hải hoặc Quảng Châu sẽ mang đến một trải nghiệm ẩm thực đường phố hấp dẫn, nơi bạn có thể nếm thử mọi món ăn từ xiên nướng, dim sum đến đậu phụ thối độc đáo."
+        }
+      ],
+      "weather": "Với diện tích rộng lớn, khí hậu Trung Quốc rất đa dạng, từ nhiệt đới ở miền Nam đến ôn đới lạnh ở miền Bắc. Mùa xuân (tháng 3-5) và mùa thu (tháng 9-11) thường là thời gian lý tưởng để tham quan, với thời tiết mát mẻ và bầu trời trong xanh. Tại Bắc Kinh, mùa thu mang lại cảnh lá vàng rực rỡ, trong khi vùng Tây Tạng vào mùa hè có khí hậu dễ chịu, thích hợp cho các chuyến leo núi. Miền Nam như Quảng Châu hay Thâm Quyến thường có khí hậu ấm áp quanh năm, nhưng mùa mưa (tháng 5-8) cần được lưu ý. Nếu muốn tham quan vùng núi hoặc các khu vực xa xôi, hãy chuẩn bị kỹ lưỡng cho các điều kiện thời tiết thay đổi bất ngờ.",
+      "transport": "Hệ thống giao thông của Trung Quốc rất phát triển, giúp việc di chuyển trở nên dễ dàng hơn bao giờ hết. Các chuyến bay nội địa kết nối hầu hết các thành phố lớn, trong khi tàu cao tốc là lựa chọn phổ biến cho du khách muốn khám phá các tỉnh thành. Tàu cao tốc Trung Quốc nổi tiếng với tốc độ nhanh và dịch vụ chất lượng, giúp bạn dễ dàng đi từ Bắc Kinh đến Thượng Hải chỉ trong vài giờ. Ngoài ra, các dịch vụ xe buýt và tàu điện ngầm ở các thành phố lớn cũng rất tiện lợi và hiện đại. Đối với những khu vực xa hơn, xe khách hoặc thuê xe riêng là lựa chọn hợp lý. Tại các thành phố như Bắc Kinh và Thượng Hải, taxi và các ứng dụng gọi xe như Didi rất phổ biến, giúp bạn dễ dàng di chuyển mà không lo ngại về ngôn ngữ."
+    },
+    {
+      "country": "Hàn Quốc",
+      "overview": "Hàn Quốc là một quốc gia hiện đại nhưng vẫn giữ được nét truyền thống độc đáo nằm trên bán đảo Triều Tiên ở Đông Á. Với lịch sử hơn 5.000 năm, Hàn Quốc tự hào sở hữu các di sản văn hóa phong phú như cung điện Gyeongbokgung, chùa Bulguksa, và làng cổ Hanok Bukchon. Đất nước này cũng là trung tâm của làn sóng Hallyu, nơi xuất phát các xu hướng âm nhạc, phim ảnh và thời trang toàn cầu. Du khách sẽ bị mê hoặc bởi vẻ đẹp tự nhiên của Hàn Quốc, từ đảo Jeju yên bình với bãi biển thơ mộng đến những dãy núi Seoraksan rực rỡ vào mùa thu. Bên cạnh đó, các thành phố hiện đại như Seoul và Busan mang đến sự kết hợp hài hòa giữa công nghệ tiên tiến và văn hóa truyền thống. Ẩm thực Hàn Quốc cũng là điểm nhấn với kim chi, thịt nướng BBQ, và các món ăn đường phố đa dạng. Không chỉ dừng lại ở đó, Hàn Quốc còn được biết đến với dịch vụ y tế hàng đầu và các sản phẩm làm đẹp được ưa chuộng trên toàn thế giới. Hãy đến Hàn Quốc để trải nghiệm sự kết hợp độc đáo giữa quá khứ và hiện tại, cùng những nét đặc sắc văn hóa không thể tìm thấy ở bất kỳ đâu khác.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErPokUMFeHmGrZZv7uYdpbZe5_fpD-B2nCg&s",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Cung điện Gyeongbokgung",
+          "content": "Cung điện Gyeongbokgung, nằm ở trung tâm Seoul, là biểu tượng lịch sử và văn hóa của Hàn Quốc. Được xây dựng vào năm 1395, đây là cung điện lớn nhất của triều đại Joseon. Du khách có thể khám phá các kiến trúc cổ kính như Cảnh Phúc Điện, Khang Ninh Điện, và Hồ Hyangwonjeong tuyệt đẹp. Hằng ngày, lễ đổi gác tại cung điện là một sự kiện thu hút khách du lịch với các nghi lễ truyền thống được tái hiện sống động. Nếu ghé thăm vào buổi tối, bạn còn có cơ hội chiêm ngưỡng cảnh quan lung linh dưới ánh đèn. Đây là nơi lý tưởng để tìm hiểu sâu hơn về lịch sử và văn hóa triều đại Joseon."
+        },
+        {
+          "title": "Khám phá đảo Jeju",
+          "content": "Đảo Jeju được mệnh danh là \"Hawaii của Hàn Quốc\" với cảnh quan thiên nhiên đa dạng từ bãi biển cát trắng, thác nước hùng vĩ đến núi Hallasan - đỉnh núi cao nhất Hàn Quốc. Jeju còn nổi tiếng với các hang động dung nham, trong đó có Hang Manjanggul, được UNESCO công nhận là Di sản Thế giới. Du khách có thể tận hưởng không khí trong lành tại rừng Bijarim hoặc ngắm hoa cải vàng rực rỡ vào mùa xuân. Ngoài ra, Jeju còn là thiên đường cho những ai yêu thích ẩm thực với các món hải sản tươi ngon và đặc sản địa phương như thịt heo đen. Đây là điểm đến hoàn hảo cho những ai muốn thư giãn và tận hưởng vẻ đẹp thiên nhiên."
+        },
+        {
+          "title": "Thưởng thức ẩm thực đường phố tại Myeongdong",
+          "content": "Khu phố Myeongdong ở Seoul là điểm đến không thể bỏ qua đối với các tín đồ ẩm thực. Tại đây, bạn sẽ tìm thấy hàng loạt món ăn đường phố hấp dẫn như tokbokki (bánh gạo cay), gimbap (cơm cuộn), và bánh cá nóng hổi. Ngoài ra, hải sản nướng, gà rán Hàn Quốc, và các món tráng miệng như kem xoắn, bánh trứng cũng là những món bạn nên thử. Khu phố này còn là thiên đường mua sắm với nhiều cửa hàng mỹ phẩm và thời trang nổi tiếng. Hãy dành thời gian tản bộ qua các con ngõ hẹp, thưởng thức hương vị đặc trưng của Hàn Quốc và hòa mình vào không khí náo nhiệt của Myeongdong."
+        }
+      ],
+      "weather": "Hàn Quốc có bốn mùa rõ rệt, với mùa xuân và mùa thu là thời điểm đẹp nhất để tham quan. Mùa xuân (tháng 3-5) mang lại cảnh sắc hoa anh đào nở rộ khắp nơi, đặc biệt tại Seoul, Jeju và Gyeongju. Mùa thu (tháng 9-11) là thời gian lý tưởng để chiêm ngưỡng lá đỏ rực rỡ tại các dãy núi như Seoraksan hoặc công viên quốc gia Nami. Mùa hè (tháng 6-8) thường nóng và ẩm, nhưng đây lại là thời điểm lý tưởng để tận hưởng các bãi biển ở Busan hoặc Jeju. Mùa đông (tháng 12-2) lạnh giá, đặc biệt tại các vùng phía Bắc, nhưng bạn có thể tham gia các hoạt động trượt tuyết hoặc lễ hội băng độc đáo. Dù đến vào mùa nào, Hàn Quốc luôn có những điểm tham quan thú vị dành cho du khách.",
+      "transport": "Hàn Quốc nổi tiếng với hệ thống giao thông hiện đại và tiện lợi. Tàu điện ngầm tại Seoul, Busan và các thành phố lớn khác cực kỳ phát triển, giúp bạn dễ dàng di chuyển trong thành phố. Tàu cao tốc KTX kết nối các thành phố lớn như Seoul, Busan, và Gwangju chỉ trong vài giờ. Đối với các khu vực xa hơn như đảo Jeju, bạn có thể sử dụng các chuyến bay nội địa nhanh chóng. Xe buýt đường dài cũng là một lựa chọn phổ biến với giá cả phải chăng và mạng lưới rộng khắp. Nếu muốn trải nghiệm sự linh hoạt hơn, bạn có thể thuê xe ô tô để tự do khám phá các vùng quê hoặc các điểm tham quan ít người biết đến. Ngoài ra, taxi và ứng dụng gọi xe như KakaoTaxi cũng rất phổ biến, giúp bạn dễ dàng di chuyển mà không lo ngại về rào cản ngôn ngữ."
+    },
+    {
+      "country": "Pháp",
+      "overview": "Pháp, được biết đến như \"trái tim của châu Âu\", là một trong những quốc gia nổi tiếng nhất thế giới về văn hóa, lịch sử và nghệ thuật. Với biểu tượng nổi bật là tháp Eiffel ở Paris, Pháp thu hút hàng triệu du khách mỗi năm. Paris, thủ đô hoa lệ, không chỉ nổi tiếng với các công trình kiến trúc cổ kính như Nhà thờ Đức Bà hay Khải Hoàn Môn, mà còn là trung tâm của thời trang, nghệ thuật và ẩm thực toàn cầu. Ngoài Paris, Pháp còn sở hữu nhiều vùng đất đa dạng như Provence với cánh đồng oải hương tím biếc, dãy núi Alps phủ tuyết trắng, hay bờ biển French Riviera với những bãi biển tuyệt đẹp. Ẩm thực Pháp là một phần không thể thiếu trong văn hóa của quốc gia này, từ các món bánh ngọt như croissant, macaron đến các món chính như foie gras hay rượu vang Bordeaux trứ danh. Là nơi khai sinh của những trào lưu nghệ thuật lớn như Ấn tượng và Tân cổ điển, Pháp còn tự hào với bảo tàng Louvre – nơi trưng bày bức họa Mona Lisa nổi tiếng. Hãy đến Pháp để khám phá sự kết hợp hoàn hảo giữa truyền thống và hiện đại, và tận hưởng một hành trình đầy cảm hứng qua từng góc phố, bảo tàng và món ăn đậm chất nghệ thuật.",
+      "img": "https://datviettour.com.vn/uploads/images/tin-tuc-SEO-chau-au/phap/danh-thang/du-lich-phap-vao-thang-may-1.jpg",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Tháp Eiffel",
+          "content": "Tháp Eiffel, biểu tượng của nước Pháp, là điểm đến không thể bỏ qua khi bạn đến Paris. Được xây dựng vào năm 1889, tháp cao 330 mét này mang đến tầm nhìn toàn cảnh ngoạn mục của thành phố. Du khách có thể chọn leo bộ hoặc sử dụng thang máy để lên các tầng quan sát. Vào buổi tối, tháp Eiffel trở nên lung linh với ánh đèn vàng rực rỡ, tạo nên một khung cảnh thơ mộng không gì sánh được. Đừng quên ghé thăm các cửa hàng quà lưu niệm dưới chân tháp và thưởng thức một bữa tối tại nhà hàng trên tầng tháp để có một trải nghiệm khó quên."
+        },
+        {
+          "title": "Khám phá Bảo tàng Louvre",
+          "content": "Bảo tàng Louvre là một trong những bảo tàng nghệ thuật lớn nhất và nổi tiếng nhất thế giới, với hơn 38.000 tác phẩm được trưng bày. Nằm trong cung điện cổ kính ở trung tâm Paris, nơi đây lưu giữ nhiều kiệt tác như bức họa Mona Lisa, tượng thần Vệ Nữ Milo và Bức tượng Chiến binh đang chết. Du khách có thể dành hàng giờ để chiêm ngưỡng những tác phẩm nghệ thuật từ thời cổ đại đến hiện đại. Ngoài việc tham quan, bạn cũng có thể thư giãn tại khu vườn Tuileries gần đó hoặc tham gia các buổi triển lãm đặc biệt được tổ chức thường xuyên."
+        },
+        {
+          "title": "Thưởng ngoạn vùng Provence",
+          "content": "Provence, nằm ở miền Nam nước Pháp, là điểm đến lý tưởng để hòa mình vào khung cảnh thiên nhiên thơ mộng. Vùng đất này nổi tiếng với các cánh đồng oải hương trải dài bất tận, những ngôi làng cổ kính trên đồi và nền ẩm thực đặc sắc. Vào mùa hè, hương thơm của hoa oải hương lan tỏa khắp nơi, tạo nên một bầu không khí yên bình và thư thái. Du khách có thể tham quan thị trấn Aix-en-Provence, nơi có các chợ địa phương bán rượu vang, pho mát và dầu ô liu hảo hạng. Provence là nơi hoàn hảo để thư giãn và tận hưởng vẻ đẹp yên bình của miền quê nước Pháp."
+        }
+      ],
+      "weather": "Khí hậu Pháp thay đổi theo vùng, mang đến sự đa dạng cho du khách. Vào mùa xuân (tháng 3-5), thời tiết dễ chịu với hoa nở rộ khắp nơi, đặc biệt tại Paris và Provence. Mùa hè (tháng 6-8) ấm áp và là thời điểm lý tưởng để tận hưởng các bãi biển tại French Riviera hoặc dạo chơi trên các con phố cổ của Nice. Mùa thu (tháng 9-11) mang đến không gian lãng mạn với lá vàng rực rỡ, đặc biệt ở vùng Alsace. Vào mùa đông (tháng 12-2), bạn có thể tham gia trượt tuyết tại dãy Alps hoặc tận hưởng không khí lễ hội tại các khu chợ Giáng sinh nổi tiếng. Dù đến vào bất kỳ mùa nào, Pháp đều mang đến những trải nghiệm đáng nhớ cho du khách.",
+      "transport": "Pháp sở hữu một hệ thống giao thông hiện đại và tiện lợi, giúp bạn dễ dàng khám phá mọi nơi. Tàu cao tốc TGV là lựa chọn tuyệt vời để di chuyển giữa các thành phố lớn như Paris, Marseille và Lyon trong thời gian ngắn. Tại Paris, hệ thống tàu điện ngầm rộng khắp là cách lý tưởng để khám phá các điểm tham quan trong thành phố. Xe buýt và taxi cũng phổ biến, trong khi các ứng dụng gọi xe như Uber mang lại sự tiện lợi cao. Nếu bạn muốn tự do hơn, việc thuê xe ô tô là lựa chọn hoàn hảo để khám phá các vùng quê như Provence hoặc Burgundy. Ngoài ra, Pháp còn có các sân bay quốc tế lớn như Charles de Gaulle, kết nối với hầu hết các quốc gia trên thế giới. Với hệ thống giao thông phát triển, hành trình của bạn tại Pháp sẽ luôn suôn sẻ và dễ dàng."
+    },
+    {
+      "country": "Nhật Bản",
+      "overview": "Nhật Bản, xứ sở của hoa anh đào, là một đất nước nổi bật với sự hòa quyện giữa truyền thống và hiện đại. Với nền văn hóa lâu đời, Nhật Bản nổi bật với các ngôi đền cổ kính, những khu vườn tuyệt đẹp, và các lễ hội truyền thống. Tokyo, thủ đô hiện đại, là một trong những thành phố năng động nhất thế giới, trong khi Kyoto mang đến vẻ đẹp thanh bình của các đền chùa và phố cổ. Ngoài các thành phố lớn, Nhật Bản còn nổi tiếng với thiên nhiên hùng vĩ như núi Phú Sĩ, các suối nước nóng (onsen) và những bãi biển đẹp. Ẩm thực Nhật Bản là một phần không thể thiếu trong văn hóa của quốc gia này, từ sushi, sashimi đến ramen và tempura. Nhật Bản cũng là nơi sản sinh ra những sáng tạo công nghệ vượt trội và là trung tâm của các ngành công nghiệp điện tử và ô tô.",
+      "img": "https://worldtravels.com.vn/wp-content/uploads/2024/03/nhat-ban.jpg",
+      "topthingtodo": [
+        {
+          "title": "Tham quan đền Kinkaku-ji ở Kyoto",
+          "content": "Đền Vàng (Kinkaku-ji) tại Kyoto là một trong những di tích nổi tiếng nhất Nhật Bản, với kiến trúc đặc trưng của phong cách chùa Zen và mái vàng óng ánh phản chiếu trên mặt hồ. Du khách có thể thăm quan khu vườn xung quanh và tận hưởng không khí yên tĩnh, thanh bình. Đây là nơi lý tưởng để cảm nhận vẻ đẹp của Nhật Bản cổ kính và hòa mình vào thiên nhiên."
+        },
+        {
+          "title": "Khám phá thành phố Tokyo",
+          "content": "Tokyo là sự kết hợp tuyệt vời giữa truyền thống và hiện đại. Từ các ngôi đền như Senso-ji đến những trung tâm mua sắm sầm uất như Shibuya và Ginza, thành phố này không bao giờ thiếu điều gì để khám phá. Du khách có thể tham quan các khu phố như Akihabara, nổi tiếng với các cửa hàng điện tử, hay thưởng thức các món ăn đường phố tuyệt vời tại các khu chợ như Tsukiji. Tokyo còn có những công viên rộng lớn như Ueno Park, nơi bạn có thể thư giãn hoặc tham gia lễ hội hoa anh đào vào mùa xuân."
+        },
+        {
+          "title": "Thư giãn tại suối nước nóng (Onsen) ở Hakone",
+          "content": "Hakone, nằm gần Tokyo, là một điểm đến tuyệt vời để trải nghiệm onsen (suối nước nóng). Với cảnh quan tuyệt đẹp của núi Phú Sĩ và những suối nước khoáng tự nhiên, nơi đây là thiên đường cho những ai muốn thư giãn và phục hồi sức khỏe. Bạn có thể thưởng thức tắm suối nước nóng trong phòng riêng hoặc tại các khu tắm công cộng ngoài trời, cảm nhận sự tĩnh lặng và yên bình của thiên nhiên."
+        }
+      ],
+      "weather": "Nhật Bản có bốn mùa rõ rệt, mang lại những trải nghiệm khác nhau cho du khách. Mùa xuân (tháng 3-5) là thời gian tuyệt vời để ngắm hoa anh đào nở rộ, đặc biệt là ở Tokyo và Kyoto. Mùa hè (tháng 6-8) có khí hậu ấm áp, thích hợp cho các hoạt động ngoài trời và lễ hội truyền thống. Mùa thu (tháng 9-11) là thời điểm lý tưởng để chiêm ngưỡng cảnh sắc lá đỏ, nhất là ở các vùng núi. Mùa đông (tháng 12-2) mang đến không khí lạnh giá và cơ hội trải nghiệm các hoạt động mùa đông như trượt tuyết ở Hokkaido hoặc tận hưởng không gian lễ hội ở các thành phố lớn.",
+      "transport": "Nhật Bản có hệ thống giao thông công cộng hiện đại và rất tiện lợi. Tàu Shinkansen (tàu cao tốc) giúp bạn di chuyển giữa các thành phố lớn như Tokyo, Kyoto và Osaka trong thời gian ngắn. Các thành phố lớn như Tokyo và Osaka có hệ thống tàu điện ngầm rộng lớn, giúp bạn dễ dàng di chuyển đến các điểm tham quan. Bên cạnh đó, xe buýt và taxi cũng rất phổ biến. Nhật Bản cũng có các sân bay quốc tế như Narita và Kansai, kết nối với nhiều quốc gia trên thế giới. Với giao thông phát triển, việc di chuyển tại Nhật Bản sẽ rất thuận tiện."
+    },
+    {
+      "country": "Mỹ",
+      "overview": "Mỹ, một quốc gia rộng lớn và đa dạng, nổi bật với sự pha trộn giữa các nền văn hóa, phong cảnh và hoạt động giải trí không giới hạn. Từ những thành phố sôi động như New York và Los Angeles đến các công viên quốc gia hùng vĩ như Yellowstone và Grand Canyon, Mỹ cung cấp vô vàn lựa chọn cho du khách. New York là trung tâm của ngành công nghiệp tài chính và văn hóa, trong khi Los Angeles là thủ đô của điện ảnh và giải trí. Các thành phố khác như Chicago, Miami và San Francisco cũng có nét đặc trưng riêng biệt. Về thiên nhiên, Mỹ có những vùng núi cao như Rockies và dãy Sierra Nevada, các bãi biển đẹp ở California và Florida, và những khu vực sa mạc rộng lớn. Ẩm thực Mỹ cũng rất đa dạng, với những món ăn đặc trưng như hamburger, pizza và BBQ, phản ánh sự giao thoa giữa các nền văn hóa trên toàn thế giới.",
+      "img": "https://alpha-exp.com/wp-content/uploads/2022/11/gioi-thieu-ve-nuoc-my.png",
+      "topthingtodo": [
+        {
+          "title": "Tham quan Tượng Nữ thần Tự do ở New York",
+          "content": "Tượng Nữ thần Tự do, biểu tượng của tự do và dân chủ, nằm trên đảo Liberty, là một trong những điểm đến nổi tiếng nhất ở New York. Du khách có thể tham gia chuyến du ngoạn bằng tàu để tới thăm tượng và bảo tàng về lịch sử của nó. Từ đây, bạn cũng có thể chiêm ngưỡng toàn cảnh thành phố New York với những tòa nhà chọc trời đặc trưng."
+        },
+        {
+          "title": "Khám phá Grand Canyon",
+          "content": "Grand Canyon, một trong những kỳ quan thiên nhiên của thế giới, là một điểm đến không thể bỏ qua khi đến Mỹ. Với những hẻm núi sâu và những lớp đá màu sắc, Grand Canyon mang đến cho du khách những trải nghiệm tuyệt vời. Bạn có thể tham gia các tour du lịch bằng thuyền trên sông Colorado hoặc đi bộ dọc theo các con đường mòn trong công viên quốc gia để chiêm ngưỡng vẻ đẹp ngoạn mục của nơi này."
+        },
+        {
+          "title": "Tham quan các công viên quốc gia ở Utah",
+          "content": "Utah nổi tiếng với các công viên quốc gia tuyệt đẹp như Arches, Zion và Bryce Canyon. Các công viên này sở hữu những cảnh quan đá sa thạch kỳ vĩ, những con đường mòn tuyệt vời để đi bộ và những hoạt động ngoài trời thú vị như leo núi, đạp xe và cắm trại. Đây là nơi lý tưởng cho những ai yêu thích khám phá thiên nhiên hoang dã và muốn trải nghiệm những khoảnh khắc thư giãn giữa không gian hùng vĩ của vùng đất đỏ."
+        }
+      ],
+      "weather": "Mỹ có khí hậu rất đa dạng, thay đổi theo từng vùng. Mùa xuân (tháng 3-5) thường có thời tiết ấm áp, là thời điểm tuyệt vời để khám phá các thành phố và công viên quốc gia. Mùa hè (tháng 6-8) nóng bức ở nhiều nơi, đặc biệt là ở các vùng sa mạc và bãi biển. Mùa thu (tháng 9-11) là thời điểm lý tưởng để chiêm ngưỡng lá cây thay màu, đặc biệt là ở các vùng miền Đông Bắc và Midwest. Mùa đông (tháng 12-2) có khí hậu lạnh giá ở phía Bắc và các khu vực núi, trong khi miền Nam và bờ biển vẫn ấm áp và thích hợp cho các hoạt động ngoài trời.",
+      "transport": "Mỹ có một hệ thống giao thông phát triển, bao gồm các chuyến bay nội địa và quốc tế, tàu điện ngầm, xe buýt và hệ thống tàu hỏa. Các thành phố lớn như New York, Chicago và Washington DC có hệ thống tàu điện ngầm rộng lớn, dễ dàng di chuyển. Đối với những ai muốn khám phá các khu vực rộng lớn như miền Tây, việc thuê xe hơi là một lựa chọn phổ biến. Ngoài ra, các sân bay quốc tế lớn như Los Angeles, New York (JFK) và Miami kết nối với các thành phố lớn trên toàn cầu. Hệ thống đường cao tốc xuyên suốt cả nước cũng giúp bạn di chuyển dễ dàng giữa các bang."
     }
   ]
 }
