@@ -26,7 +26,7 @@ function HotelItem({ query = "type", queryContent }) {
       }
     };
     fetchData();
-  }, [queryContent]);
+  }, [queryContent, api]);
   if (loading) {
     return <div>Đang tải...</div>;
   }

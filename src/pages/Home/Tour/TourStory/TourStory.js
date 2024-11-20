@@ -14,7 +14,7 @@ import { tourStories } from "../../../../config/data/tourData";
 const cx = classNames.bind(styles);
 
 function TourStory() {
-  const totalCities = cityData.length;
+  const totalCities = 6;
   const [currentIndex, setCurrentIndex] = useState(0);
   const handleNext = () => {
     const CitiesContainer = document.getElementById("citiesContainer");
@@ -73,7 +73,7 @@ function TourStory() {
               id="citiesContainer"
               className={cx("tour-story-3-content-item-container")}
             >
-              {cityData.map((item, index) => (
+              {cityData.slice(0, 6).map((item, index) => (
                 <div key={index} className={cx("tour-story-3-content-item")}>
                   <div className={cx("tour-story-3-content-item-img")}>
                     <img src={item.image} alt={item.city} />

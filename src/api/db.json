@@ -1542,7 +1542,7 @@
       "check_in_time": "14:00",
       "check_out_time": "11:00",
       "id": "7",
-      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171308045.jpg?k=82e1d037d6ff34429f6e5804f6e92325f2b5a2c69c7282a2e7d26e7e6881113c&o=&hp=1"
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/91/39/e6/exterior-night-view.jpg?w=700&h=-1&s=1"
     },
     {
       "name": "Khách sạn Zen Retreat",
@@ -3380,16 +3380,16 @@
       "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342714867.jpg?k=cbcabd5fb0dfd5109fc2b113e56b9facb6bc4b0f2f4ed941730438c6f34b5abc&o=&hp=1"
     }
   ],
-  "scenery": [
+  "sceneries": [
     {
       "country": "Pháp",
       "city": "Paris",
-      "img": "",
-      "slide_img": [
+      "img": [
         "https://cdn.tuoitre.vn/thumb_w/480/2020/6/26/eiffel-tower--15931683656221303695281.jpg",
         "https://holivntravel.com/wp-content/uploads/2024/05/2021-09-28128378-hinh-anh-vn1.webp",
         "https://media.vneconomy.vn/images/upload/2021/04/21/db18-1555389100133976293810.jpg"
       ],
+      "slide_img": "https://img.static-kl.com/images/media/71BBFEDE-473D-4F4E-82522A2197279310",
       "essay": "Paris, thủ đô của Pháp, là một trong những thành phố quyến rũ và lôi cuốn nhất thế giới. Nổi tiếng với sự kết hợp hoàn hảo giữa di sản lịch sử và vẻ đẹp hiện đại, Paris luôn là điểm đến mơ ước của du khách từ mọi nơi. Các công trình kiến trúc nổi bật như Tháp Eiffel, Nhà thờ Đức Bà Paris và Bảo tàng Louvre đã trở thành biểu tượng của thành phố, thu hút hàng triệu du khách mỗi năm. Ngoài ra, các con phố cổ kính, những quán cà phê ven đường và không khí lãng mạn khiến Paris trở thành một thành phố mà bạn có thể thả mình vào bất kỳ lúc nào. Mùa xuân và mùa thu được xem là thời điểm lý tưởng để thăm Paris, khi thời tiết ôn hòa và cảnh quan đẹp tuyệt vời. Thành phố này cũng là trung tâm của nghệ thuật, văn hóa và thời trang, nơi những triển lãm nghệ thuật và các sự kiện thời trang quốc tế diễn ra liên tục. Paris không chỉ là một thành phố để tham quan, mà còn là nơi để tận hưởng cuộc sống, thưởng thức ẩm thực Pháp và cảm nhận vẻ đẹp của văn hóa Châu Âu. Đối với những ai yêu thích sự kết hợp giữa cổ điển và hiện đại, Paris chính là lựa chọn không thể bỏ qua.",
       "description": "Paris, thủ đô của Pháp, nổi tiếng với các công trình kiến trúc cổ kính và các bảo tàng nổi tiếng.",
       "attractions": ["Tháp Eiffel", "Bảo tàng Louvre", "Nhà thờ Đức Bà Paris"],
@@ -3403,7 +3403,7 @@
         "https://res.cloudinary.com/jnto/image/upload/w_750,h_503,fl_lossy,f_auto/v1648523564/kyoto/20201026_fushimi_inari_taisha_shrine_02",
         "https://achautravel.com/upload/images/1561604820-detail-post.jpeg"
       ],
-      "slide_img": "",
+      "slide_img": "https://ik.imagekit.io/tvlk/blog/2021/11/kinh-nghiem-du-lich-kyoto-cover.jpg?tr=c-at_max?tr=c-at_max",
       "essay": "Kyoto, một thành phố cổ kính của Nhật Bản, nổi bật với vẻ đẹp yên bình và những di tích văn hóa đặc sắc. Là thủ đô cũ của Nhật Bản, Kyoto lưu giữ rất nhiều ngôi đền, chùa và vườn Nhật truyền thống. Điểm đặc biệt nhất ở Kyoto là sự hòa quyện giữa thiên nhiên và kiến trúc, với những ngôi chùa nổi tiếng như Chùa Vàng Kinkaku-ji, Chùa Fushimi Inari với hàng nghìn cổng Torii đỏ, và những khu vườn Zen tĩnh lặng. Kyoto cũng nổi bật với các lễ hội truyền thống, nơi du khách có thể chứng kiến các điệu múa, âm nhạc và nghệ thuật Nhật Bản. Vào mùa xuân, Kyoto trở nên vô cùng đẹp với hoa anh đào nở rộ, tạo nên một cảnh quan thơ mộng. Kyoto là một điểm đến lý tưởng cho những ai yêu thích khám phá văn hóa và tìm kiếm sự thanh tịnh.",
       "description": "Kyoto, thành phố cổ của Nhật Bản, nổi tiếng với các ngôi đền, chùa và vẻ đẹp thiên nhiên thanh bình.",
       "attractions": ["Kinkaku-ji", "Chùa Fushimi Inari", "Vườn Kyoto"],
@@ -3417,7 +3417,7 @@
         "https://image.newyorkcity.ca/wp-content/uploads/2013/02/Central-Park.jpg",
         "https://ik.imagekit.io/tvlk/blog/2023/04/quang-truong-thoi-1-1024x576.jpg?tr=dpr-2,w-675"
       ],
-      "slide_img": "",
+      "slide_img": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/471000/471585-New-York.jpg",
       "essay": "New York, thành phố không bao giờ ngủ, là một trong những trung tâm tài chính, văn hóa và nghệ thuật quan trọng nhất thế giới. Với biểu tượng nổi bật như Tượng Nữ thần Tự do, Central Park và Quảng trường Thời đại, New York không chỉ thu hút du khách bởi những công trình kiến trúc đồ sộ mà còn bởi nhịp sống nhanh, sôi động và đa văn hóa. Thành phố này có vô số điểm đến thú vị từ các bảo tàng lớn như Bảo tàng Mỹ thuật Metropolitan, đến những khu phố đặc sắc như Chinatown và Harlem. Với những con phố tấp nập, những tòa nhà chọc trời và nền ẩm thực phong phú, New York là nơi bạn có thể trải nghiệm sự năng động và sáng tạo vô tận. Mùa hè và mùa thu là thời gian lý tưởng để khám phá thành phố này, khi thời tiết dễ chịu và các sự kiện lớn diễn ra liên tục.",
       "description": "New York, một trong những thành phố lớn nhất và sôi động nhất của Mỹ, là trung tâm của văn hóa và nghệ thuật.",
       "attractions": [
@@ -3435,7 +3435,7 @@
         "https://bizweb.dktcdn.net/100/094/983/files/1-copy-cd2276ca-dfda-4351-a434-d231ea5740cd.jpg?v=1566320626713",
         "https://kitetravel.vn/blog/wp-content/uploads/2021/08/cung-dien-mua-he-nga-peterhof-2.jpg"
       ],
-      "slide_img": "",
+      "slide_img": "https://ddk.1cdn.vn/2022/01/31/image.daidoanket.vn-images-upload-vanmt-01302022-_bk1.jpeg",
       "essay": "Bắc Kinh, thủ đô của Trung Quốc, là một trong những thành phố lịch sử và văn hóa quan trọng nhất của Châu Á. Thành phố này nổi bật với các công trình kiến trúc cổ đại, trong đó có Tử Cấm Thành, Quảng trường Thiên An Môn, và Cung điện mùa hè, nơi lưu giữ những di sản quý giá của triều đại nhà Minh và Thanh. Bắc Kinh không chỉ là trung tâm chính trị mà còn là một thành phố đa dạng về văn hóa, nơi du khách có thể thưởng thức các món ăn đặc trưng như vịt quay Bắc Kinh và trải nghiệm các hoạt động truyền thống như chèo thuyền trên Hồ Cảnh. Thời gian lý tưởng để thăm Bắc Kinh là vào mùa thu, khi khí hậu mát mẻ và dễ chịu. Đây là thời điểm tuyệt vời để tham quan các địa điểm nổi tiếng cũng như khám phá các ngôi làng cổ quanh thành phố.",
       "description": "Bắc Kinh, thủ đô của Trung Quốc, là trung tâm văn hóa, chính trị và lịch sử của quốc gia này.",
       "attractions": [
@@ -3447,7 +3447,7 @@
     },
     {
       "country": "Việt Nam",
-      "city": "Hạ Long",
+      "city": "Vịnh Hạ Long",
       "img": [
         "https://tructhang.vn/wp-content/uploads/2022/08/Vinh-Ha-Long.jpg",
         "https://mia.vn/media/uploads/blog-du-lich/dong-thien-cung-an-tuong-hang-dong-long-lay-nhat-noi-vinh-ha-long-4-1641632677.jpg",
@@ -3467,7 +3467,7 @@
         "https://blog.chudutravel.vn/wp-content/uploads/2023/04/thap-namsan-han-quoc-3.jpg",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Sb6Lb1kBHYBWj9UVIqIYhZKM6P0fkW0t9g&s"
       ],
-      "slide_img": "",
+      "slide_img": "https://www.agoda.com/wp-content/uploads/2024/04/Featured-image-Han-River-at-night-in-Seoul-South-Korea-1244x700.jpg",
       "essay": "Seoul, thủ đô sôi động của Hàn Quốc, là một thành phố hiện đại nhưng vẫn giữ được những giá trị truyền thống đặc sắc. Thành phố này nổi bật với các điểm tham quan như Cung điện Gyeongbok, Tháp Namsan, và Làng Bukchon Hanok, nơi du khách có thể khám phá kiến trúc cổ kính của Hàn Quốc. Seoul cũng là trung tâm của công nghệ và thời trang, với các khu phố như Myeongdong và Gangnam luôn tấp nập và đầy sức sống. Mùa xuân, khi hoa anh đào nở rộ, hoặc mùa thu, với khung cảnh lá đỏ tuyệt đẹp, là thời điểm lý tưởng để tham quan thành phố này. Đến Seoul, bạn không chỉ được trải nghiệm nền văn hóa đặc sắc mà còn có thể thưởng thức các món ăn nổi tiếng như kimchi, bulgogi và tteokbokki.",
       "description": "Seoul, thủ đô của Hàn Quốc, là thành phố kết hợp giữa hiện đại và truyền thống, nổi bật với các cung điện cổ và nền văn hóa phong phú.",
       "attractions": [
@@ -3499,7 +3499,7 @@
         "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/hoi-an-quang-nam-vntrip-1.jpg",
         "https://drt.danang.vn/content/images/2024/01/bai-bien-cua-dai-hoi-an.png"
       ],
-      "slide_img": "",
+      "slide_img": "https://goasiatravel.com/wp-content/uploads/2018/12/Hoi-An-10.jpg",
       "essay": "Hội An, thành phố cổ nằm ở miền Trung Việt Nam, nổi bật với những ngôi nhà cổ kính và những con phố nhỏ ngập tràn ánh đèn lồng. Được UNESCO công nhận là di sản thế giới, Hội An mang trong mình một vẻ đẹp hoài cổ, nơi vẫn lưu giữ được các nét văn hóa đặc sắc của người dân Việt Nam thời kỳ xưa. Các di tích như Chùa Cầu, các ngôi nhà cổ và các con phố nhỏ uốn lượn là những điểm nhấn hấp dẫn. Bên cạnh đó, ẩm thực Hội An cũng rất đặc sắc, với các món ăn nổi tiếng như cao lầu, bánh bao, bánh vạc. Hội An đặc biệt đẹp vào ban đêm khi các đèn lồng thắp sáng khắp các con phố, tạo ra một không gian thơ mộng. Mùa xuân và mùa thu là thời điểm lý tưởng để thăm Hội An, khi khí hậu dễ chịu và các lễ hội truyền thống diễn ra liên tục.",
       "description": "Hội An, thành phố cổ của Việt Nam, nổi tiếng với các ngôi nhà cổ và vẻ đẹp truyền thống độc đáo.",
       "attractions": ["Chùa Cầu", "Phố cổ Hội An", "Biển Cửa Đại"],
@@ -3513,7 +3513,7 @@
         "https://media2.gody.vn/public/mytravelmap/images/2018/6/1/knigh.gody/568eaf5dec33b5b3cd0b772cba89d442.jpg",
         "https://ik.imagekit.io/tvlk/blog/2023/08/cho-ca-jagalchi-2.jpg?tr=dpr-2,w-675"
       ],
-      "slide_img": "",
+      "slide_img": "https://vietkite.com.vn/wp-content/uploads/2022/08/Busan-1.jpg",
       "essay": "Busan, thành phố biển lớn nhất Hàn Quốc, nổi bật với những bãi biển dài, những ngôi chùa cổ kính, và các khu chợ sầm uất. Bãi biển Haeundae là một trong những điểm đến nổi tiếng của Busan, thu hút khách du lịch trong mùa hè. Thành phố này cũng nổi tiếng với các di tích văn hóa, như Chùa Haedong Yonggungsa và Khu chợ Jagalchi, nơi du khách có thể thưởng thức hải sản tươi ngon. Mùa xuân và mùa thu là thời điểm lý tưởng để tham quan Busan, khi thời tiết mát mẻ và dễ chịu, phù hợp cho các hoạt động ngoài trời.",
       "description": "Busan, thành phố ven biển của Hàn Quốc, nổi bật với các bãi biển, chùa cổ và nền ẩm thực hải sản phong phú.",
       "attractions": [
@@ -3527,11 +3527,11 @@
       "country": "Nhật Bản",
       "city": "Tokyo",
       "img": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagBVFey7Ied1EptxbGfOZnlnq-j4gnWE2yw&s",
+        "https://www.agoda.com/wp-content/uploads/2024/06/tokyo-japan.jpg",
         "https://plus.unsplash.com/premium_photo-1661902398022-762e88ff3f82?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2hpYnV5YSUyMGNyb3NzaW5nfGVufDB8fDB8fHww",
         "https://cdn.britannica.com/09/193909-050-5804497B/photo-Tokyo-distance-right-Sky-Tree-image.jpg"
       ],
-      "slide_img": "",
+      "slide_img": "https://a.storyblok.com/f/239725/1440x832/c8045fb88b/01_jp_tokyo_hero.png/m/3840x2219",
       "essay": "Tokyo, thủ đô sôi động của Nhật Bản, là thành phố pha trộn giữa sự hiện đại và truyền thống. Nổi tiếng với các tòa nhà chọc trời, các trung tâm mua sắm lớn và các khu phố thời trang như Shibuya và Harajuku, Tokyo còn có nhiều điểm tham quan lịch sử như Đền Senso-ji và Cung điện Hoàng gia. Thành phố này cũng nổi bật với nền văn hóa độc đáo, từ các quán cà phê thú cưng, các tiệm bánh truyền thống, cho đến các quán sushi đỉnh cao. Tokyo là một điểm đến lý tưởng cho những ai muốn trải nghiệm sự pha trộn giữa công nghệ tiên tiến và những nét đẹp văn hóa Nhật Bản. Mùa xuân, khi hoa anh đào nở, và mùa thu, khi lá thay màu, là thời điểm tuyệt vời để tham quan Tokyo.",
       "description": "Tokyo, thủ đô của Nhật Bản, là thành phố nổi bật với sự pha trộn giữa hiện đại và truyền thống.",
       "attractions": ["Tokyo Tower", "Shibuya Crossing", "Tokyo Sky Tree"],
@@ -3583,7 +3583,7 @@
     },
     {
       "country": "Hàn Quốc",
-      "overview": "Hàn Quốc là một quốc gia hiện đại nhưng vẫn giữ được nét truyền thống độc đáo nằm trên bán đảo Triều Tiên ở Đông Á. Với lịch sử hơn 5.000 năm, Hàn Quốc tự hào sở hữu các di sản văn hóa phong phú như cung điện Gyeongbokgung, chùa Bulguksa, và làng cổ Hanok Bukchon. Đất nước này cũng là trung tâm của làn sóng Hallyu, nơi xuất phát các xu hướng âm nhạc, phim ảnh và thời trang toàn cầu. Du khách sẽ bị mê hoặc bởi vẻ đẹp tự nhiên của Hàn Quốc, từ đảo Jeju yên bình với bãi biển thơ mộng đến những dãy núi Seoraksan rực rỡ vào mùa thu. Bên cạnh đó, các thành phố hiện đại như Seoul và Busan mang đến sự kết hợp hài hòa giữa công nghệ tiên tiến và văn hóa truyền thống. Ẩm thực Hàn Quốc cũng là điểm nhấn với kim chi, thịt nướng BBQ, và các món ăn đường phố đa dạng. Không chỉ dừng lại ở đó, Hàn Quốc còn được biết đến với dịch vụ y tế hàng đầu và các sản phẩm làm đẹp được ưa chuộng trên toàn thế giới. Hãy đến Hàn Quốc để trải nghiệm sự kết hợp độc đáo giữa quá khứ và hiện tại, cùng những nét đặc sắc văn hóa không thể tìm thấy ở bất kỳ đâu khác.",
+      "overview": "Hàn Quốc là một quốc gia hiện đại nhưng vẫn giữ được nét truyền thống độc đáo nằm trên bán đảo Triều Tiên ở Đông Á. Với lịch sử hơn 5.000 năm, Hàn Quốc tự hào sở hữu các di sản văn hóa phong phú như cung điện Gyeongbokgung, chùa Bulguksa, và làng cổ Hanok Bukchon. Đất nước này cũng là trung tâm của làn sóng Hallyu, nơi xuất phát các xu hướng âm nhạc, phim ảnh và thời trang toàn cầu. Du khách sẽ bị mê hoặc bởi vẻ đẹp tự nhiên của Hàn Quốc, từ đảo Jeju yên bình với bãi biển thơ mộng đến những dãy núi Seoraksan rực rỡ vào mùa thu. Bên cạnh đó, các thành phố hiện đại như Seoul và BHoa Kỳn mang đến sự kết hợp hài hòa giữa công nghệ tiên tiến và văn hóa truyền thống. Ẩm thực Hàn Quốc cũng là điểm nhấn với kim chi, thịt nướng BBQ, và các món ăn đường phố đa dạng. Không chỉ dừng lại ở đó, Hàn Quốc còn được biết đến với dịch vụ y tế hàng đầu và các sản phẩm làm đẹp được ưa chuộng trên toàn thế giới. Hãy đến Hàn Quốc để trải nghiệm sự kết hợp độc đáo giữa quá khứ và hiện tại, cùng những nét đặc sắc văn hóa không thể tìm thấy ở bất kỳ đâu khác.",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErPokUMFeHmGrZZv7uYdpbZe5_fpD-B2nCg&s",
       "topthingtodo": [
         {
@@ -3599,8 +3599,8 @@
           "content": "Khu phố Myeongdong ở Seoul là điểm đến không thể bỏ qua đối với các tín đồ ẩm thực. Tại đây, bạn sẽ tìm thấy hàng loạt món ăn đường phố hấp dẫn như tokbokki (bánh gạo cay), gimbap (cơm cuộn), và bánh cá nóng hổi. Ngoài ra, hải sản nướng, gà rán Hàn Quốc, và các món tráng miệng như kem xoắn, bánh trứng cũng là những món bạn nên thử. Khu phố này còn là thiên đường mua sắm với nhiều cửa hàng mỹ phẩm và thời trang nổi tiếng. Hãy dành thời gian tản bộ qua các con ngõ hẹp, thưởng thức hương vị đặc trưng của Hàn Quốc và hòa mình vào không khí náo nhiệt của Myeongdong."
         }
       ],
-      "weather": "Hàn Quốc có bốn mùa rõ rệt, với mùa xuân và mùa thu là thời điểm đẹp nhất để tham quan. Mùa xuân (tháng 3-5) mang lại cảnh sắc hoa anh đào nở rộ khắp nơi, đặc biệt tại Seoul, Jeju và Gyeongju. Mùa thu (tháng 9-11) là thời gian lý tưởng để chiêm ngưỡng lá đỏ rực rỡ tại các dãy núi như Seoraksan hoặc công viên quốc gia Nami. Mùa hè (tháng 6-8) thường nóng và ẩm, nhưng đây lại là thời điểm lý tưởng để tận hưởng các bãi biển ở Busan hoặc Jeju. Mùa đông (tháng 12-2) lạnh giá, đặc biệt tại các vùng phía Bắc, nhưng bạn có thể tham gia các hoạt động trượt tuyết hoặc lễ hội băng độc đáo. Dù đến vào mùa nào, Hàn Quốc luôn có những điểm tham quan thú vị dành cho du khách.",
-      "transport": "Hàn Quốc nổi tiếng với hệ thống giao thông hiện đại và tiện lợi. Tàu điện ngầm tại Seoul, Busan và các thành phố lớn khác cực kỳ phát triển, giúp bạn dễ dàng di chuyển trong thành phố. Tàu cao tốc KTX kết nối các thành phố lớn như Seoul, Busan, và Gwangju chỉ trong vài giờ. Đối với các khu vực xa hơn như đảo Jeju, bạn có thể sử dụng các chuyến bay nội địa nhanh chóng. Xe buýt đường dài cũng là một lựa chọn phổ biến với giá cả phải chăng và mạng lưới rộng khắp. Nếu muốn trải nghiệm sự linh hoạt hơn, bạn có thể thuê xe ô tô để tự do khám phá các vùng quê hoặc các điểm tham quan ít người biết đến. Ngoài ra, taxi và ứng dụng gọi xe như KakaoTaxi cũng rất phổ biến, giúp bạn dễ dàng di chuyển mà không lo ngại về rào cản ngôn ngữ."
+      "weather": "Hàn Quốc có bốn mùa rõ rệt, với mùa xuân và mùa thu là thời điểm đẹp nhất để tham quan. Mùa xuân (tháng 3-5) mang lại cảnh sắc hoa anh đào nở rộ khắp nơi, đặc biệt tại Seoul, Jeju và Gyeongju. Mùa thu (tháng 9-11) là thời gian lý tưởng để chiêm ngưỡng lá đỏ rực rỡ tại các dãy núi như Seoraksan hoặc công viên quốc gia Nami. Mùa hè (tháng 6-8) thường nóng và ẩm, nhưng đây lại là thời điểm lý tưởng để tận hưởng các bãi biển ở BHoa Kỳn hoặc Jeju. Mùa đông (tháng 12-2) lạnh giá, đặc biệt tại các vùng phía Bắc, nhưng bạn có thể tham gia các hoạt động trượt tuyết hoặc lễ hội băng độc đáo. Dù đến vào mùa nào, Hàn Quốc luôn có những điểm tham quan thú vị dành cho du khách.",
+      "transport": "Hàn Quốc nổi tiếng với hệ thống giao thông hiện đại và tiện lợi. Tàu điện ngầm tại Seoul, BHoa Kỳn và các thành phố lớn khác cực kỳ phát triển, giúp bạn dễ dàng di chuyển trong thành phố. Tàu cao tốc KTX kết nối các thành phố lớn như Seoul, BHoa Kỳn, và Gwangju chỉ trong vài giờ. Đối với các khu vực xa hơn như đảo Jeju, bạn có thể sử dụng các chuyến bay nội địa nhanh chóng. Xe buýt đường dài cũng là một lựa chọn phổ biến với giá cả phải chăng và mạng lưới rộng khắp. Nếu muốn trải nghiệm sự linh hoạt hơn, bạn có thể thuê xe ô tô để tự do khám phá các vùng quê hoặc các điểm tham quan ít người biết đến. Ngoài ra, taxi và ứng dụng gọi xe như KakaoTaxi cũng rất phổ biến, giúp bạn dễ dàng di chuyển mà không lo ngại về rào cản ngôn ngữ."
     },
     {
       "country": "Pháp",

@@ -38,6 +38,9 @@ function TourDetail() {
 
     fetchData();
   }, [data]);
+  if (error) {
+    return <div>Loi: {error}</div>;
+  }
   return (
     <div className={cx("details-page")}>
       <div className={cx("details-info")}>

@@ -12,8 +12,8 @@ import NotFound from "../pages/NotFound";
 import DestinationDetail from "../pages/Destination/DestinationDetail";
 import Tour from "../pages/Tour";
 import TourDetail from "../pages/Tour/TourDetail";
-import Scenery from "../pages/Scenery";
-import SceneryDetail from "../pages/Scenery/SceneryDetail";
+import Scenery from "../pages/Explore/Scenery";
+import SceneryDetail from "../pages/Explore/Scenery/SceneryDetail";
 export const publicRoutes = [
   {
     path: "/",

@@ -61,6 +61,13 @@
   padding: 64px 0;
 }
 .activities-all-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.activities-all-content {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 24px;

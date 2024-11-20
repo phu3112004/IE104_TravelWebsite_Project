@@ -55,11 +55,13 @@ function AdventureDetail() {
       </div>
       <div className={cx("activities-all")}>
         <div className={cx("activities-all-title")}>
-          <p>Finding your Perfect trip</p>
+          <p>TÌM KIẾM MỘT CHUYẾN ĐI HOÀN HẢO</p>
           <h1>{type}</h1>
         </div>
         <div className={cx("activities-all-area")}>
-          <TourItem query="type" queryContent={type} />
+          <div className={cx("activities-all-content")}>
+            <TourItem query="type" queryContent={type} />
+          </div>
         </div>
       </div>
       <div className={cx("activities-page-footer")}>

@@ -14,7 +14,14 @@
   }
 }
 .select-container {
+  padding: 8px 0;
+  position: sticky;
+  top: 65px;
+  background: white;
+  width: 100%;
+  border-bottom: 2px var(--primary) solid;
   margin-bottom: 32px;
+  text-align: center;
 }
 .select-title {
   color: var(--primary);
