@@ -1,27 +1,26 @@
-
-import React, { useState ,useEffect} from "react";
-import styles from "./BlogDetail.module.scss";
+import React from "react";
 import classNames from "classnames/bind";
+import styles from "./BlogDetail.module.scss";
+import { Link, useParams } from "react-router-dom";
+import { useEffect, useState } from "react";
 import { blogs_link } from "../../../config/api_link";
-const cx = classNames.bind(styles);
-export default function BlogDetail({start, limit,query,queryContent}) {
-    const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
-  
-  let api = blogs_link;
-  useEffect(() => {
-    if (limit) api += `?_start=${start}&_limit=${limit}`;
-    if (query && queryContent) api += "?" + query + "=" + queryContent;
+import BlogItem from "../../../components/BlogItem";
 
-    console.log(api);
+const cx = classNames.bind(styles);
+
+function BlogDetail() {
+  const { id } = useParams();
+  const [data, setData] = useState({});
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  var api = blogs_link + "/" + id;
+  useEffect(() => {
     const fetchData = async () => {
       try {
         const response = await fetch(api);
-        if (!response.ok) {
-          throw new Error("Network response was not ok");
-        }
+        if (!response.ok) throw new Error("Network response is not ok^^");
         const result = await response.json();
+        console.log(result);
         setData(result);
         setLoading(false);
       } catch (error) {
@@ -29,31 +28,53 @@ export default function BlogDetail({start, limit,query,queryContent}) {
         setLoading(false);
       }
     };
-
     fetchData();
-  }, [start, limit, query, queryContent]);
-
+  }, [api]);
   if (loading) {
-    return <div>Loading...</div>;
+    return <div>Đang tải...</div>;
   }
-
   if (error) {
-    return <div>Error: {error}</div>;
+    return <div>Lỗi: {error}</div>;
   }
-
-    return (
-    <div className={cx("blog-content-card")}>
-        {data.map((item, index) => (
-            <div key={index} className={cx("blog-item")}>
-                <div className={cx("blog-item-content")}>
-                     <h2>{item.title}</h2>
-                     <p>{item.author}  {item.date}</p>
-                </div>
-                <div className={cx("blog-item-image")}>
-                    <img src={item.img} alt={item.title} />
-                </div>
-            </div>
-        ))}
-    </div>
-  )
+  return (
+    <>
+      <div className={cx("return-all-blogs")}>
+        <Link to="/blog"> {"<"} Trở về Blog</Link>
+      </div>
+      <div className={cx("post-page")}>
+        <div className={cx("post-news")}>
+          <h1>{data.title}</h1>
+          <p className={cx("post-news-auth")}>
+            Đăng bởi {data.author} lúc {data.date}
+          </p>
+          <p className={cx("post-news-content")}>{data.content}</p>
+          {data.video && (
+            <iframe
+              width="100%"
+              height="480px"
+              src={`https://www.youtube.com/embed/${data.video}`}
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            />
+          )}
+          <p>#{data.type}</p>
+        </div>
+        <div className={cx("post-news-rcm")}>
+          <h2>Các bài viết liên quan</h2>
+          <div className={cx("post-news-rcm-item")}>
+            <BlogItem
+              start={0}
+              limit={3}
+              query="type"
+              queryContent={data.type}
+            />
+          </div>
+        </div>
+      </div>
+    </>
+  );
 }
+
+export default BlogDetail;

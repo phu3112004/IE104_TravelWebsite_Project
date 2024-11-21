@@ -22,9 +22,9 @@
   }
 }
 .blog-item-container {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
 }
 .blog-item-container > a {
   width: 30%;

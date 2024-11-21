@@ -14,6 +14,7 @@ import Tour from "../pages/Explore/Tour";
 import TourDetail from "../pages/Explore/Tour/TourDetail";
 import Scenery from "../pages/Explore/Scenery";
 import SceneryDetail from "../pages/Explore/Scenery/SceneryDetail";
+import BlogDetail from "../pages/Blog/BlogDetail/BlogDetail";
 export const publicRoutes = [
   {
     path: "/",
@@ -58,6 +59,10 @@ export const publicRoutes = [
   {
     path: "/blog",
     component: Blog,
+  },
+  {
+    path: "/blog/:id",
+    component: BlogDetail,
   },
   {
     path: "/scenery",

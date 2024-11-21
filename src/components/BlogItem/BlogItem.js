@@ -6,13 +6,15 @@ import { blogs_link } from "../../config/api_link";
 
 const cx = classNames.bind(styles);
 
-function BlogItem({ start, limit }) {
+function BlogItem({ start, limit, query, queryContent }) {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  var api = blogs_link;
+  var api = blogs_link + "?";
   useEffect(() => {
-    api = api + "?" + `_start=${start}&_limit=${limit}`;
+    if (limit) api += `_start=${start}&_limit=${limit}`;
+    if (query && queryContent) api += `&${query}=${queryContent}`;
+    console.log(api);
     const fetchData = async () => {
       try {
         const response = await fetch(api);
@@ -26,7 +28,7 @@ function BlogItem({ start, limit }) {
       }
     };
     fetchData();
-  }, [start, limit]);
+  }, [start, limit, query, queryContent]);
   if (loading) {
     return <div>Đang tải...</div>;
   }
@@ -37,18 +39,25 @@ function BlogItem({ start, limit }) {
   return (
     <>
       {data.map((item, index) => (
-        <Link key={index} to={`/blog`} className={cx("blog-item-container")}>
-          <div className={cx("blog-item")}>
-            <img
-              src="https://www.oars.com/wp-content/uploads/2022/07/Body-wipes-for-camping-410x232.jpg"
-              alt=""
-            />
-            <p className={cx("blog-item-tag")}>{item.type}</p>
-            <p className={cx("blog-item-title")}>{item.title}</p>
+        <Link
+          key={index}
+          to={`/blog/${item.id}`}
+          className={cx("blog-item-container")}
+        >
+          <div className={cx("blog-img")}>
+            <img src={item.img} />
           </div>
-          <p>
-            Đăng bởi {item.author} lúc {item.date}
-          </p>
+          <div className={cx("blog-item")}>
+            <div>
+              <p className={cx("blog-item-tag")}>{item.type}</p>
+              <p className={cx("blog-item-title")}>{item.title}</p>
+            </div>
+            <div>
+              <p className={cx("blog-auth")}>
+                Đăng bởi {item.author} lúc {item.date}
+              </p>
+            </div>
+          </div>
         </Link>
       ))}
     </>
