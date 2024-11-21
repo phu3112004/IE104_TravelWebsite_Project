@@ -5,6 +5,7 @@ import { slideData } from "./slideData";
 import { reviewData } from "./reviewData";
 import { countryData } from "./countryData";
 import { destinationData, adventureData, tourStories } from "./tourData";
+import {  blognewestData } from "./blognewestData";
 export {
   cityData,
   menuData,
@@ -15,4 +16,5 @@ export {
   tourStories,
   reviewData,
   countryData,
+  blognewestData
 };
