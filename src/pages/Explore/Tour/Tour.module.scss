@@ -5,15 +5,15 @@
   justify-content: center;
   width: 100%;
   margin: 0 auto;
-  margin-top: 65px;
+  margin-top: 32px;
 }
 .tours-page {
   display: flex;
   flex-direction: row;
   width: 90%;
+  justify-content: center;
 }
 .tours-all {
-  width: 70%;
   padding: 28px;
 }
 .tours-all-area {
@@ -23,7 +23,7 @@
 }
 .tours-all-area > div {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  margin: 10px 0;
+  margin: 4px 0;
 }
 .tours-all-load-more {
   width: 100%;

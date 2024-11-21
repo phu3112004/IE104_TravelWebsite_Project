@@ -1,10 +1,10 @@
-import TourItem from "../../components/TourItem";
+import TourItem from "../../../components/TourItem";
 import classNames from "classnames/bind";
 import styles from "./Tour.module.scss";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 import { useState, useEffect } from "react";
-import { tours_link } from "../../config/api_link";
+import { tours_link } from "../../../config/api_link";
 
 const cx = classNames.bind(styles);
 

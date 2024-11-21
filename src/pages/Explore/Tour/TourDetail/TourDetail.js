@@ -9,9 +9,9 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import styles from "./TourDetail.module.scss";
 import { Link, useParams } from "react-router-dom";
-import { tours_link } from "../../../config/api_link";
+import { tours_link } from "../../../../config/api_link";
 import TourItinerary from "./TourItinerary/TourItinerary";
-import { reviewData } from "../../../config/data/reviewData";
+import { reviewData } from "../../../../config/data";
 
 const cx = classNames.bind(styles);
 
@@ -38,6 +38,18 @@ function TourDetail() {
 
     fetchData();
   }, [data]);
+
+  const handleNextImg = () => {
+    const imgsContainer = document.getElementById("details-img-container");
+    const imgs = imgsContainer.children;
+    imgsContainer.appendChild(imgs[0]);
+  };
+  const handlePrevImg = () => {
+    const imgsContainer = document.getElementById("details-img-container");
+    const imgs = imgsContainer.children;
+    imgsContainer.prepend(imgs[imgs.length - 1]);
+  };
+
   if (error) {
     return <div>Loi: {error}</div>;
   }
@@ -83,47 +95,40 @@ function TourDetail() {
         </div>
       </div>
       <div className={cx("details-img")}>
-        <div className={cx("details-img-container")}>
+        <div id="details-img-container" className={cx("details-img-container")}>
           <img
             className={cx("details-img-item")}
             src="https://zrafting.com/wp-content/uploads/2022/03/MG_5127.jpg"
-            alt=""
           />
           <img
             className={cx("details-img-item")}
             src="https://zrafting.com/wp-content/uploads/2022/03/MG_79683.jpg"
-            alt=""
           />
           <img
             className={cx("details-img-item")}
             src="https://www.extranomical.com/wp-content/uploads/2023/03/Valley-View-Overlook.jpg"
-            alt=""
           />
           <img
             className={cx("details-img-item")}
             src="https://i.ytimg.com/vi/mOxtzEF3k3M/maxresdefault.jpg"
-            alt=""
           />
           <img
             className={cx("details-img-item")}
             src="https://www.yosemite.com/wp-content/uploads/2021/04/MER041222-6-scaled.jpg"
-            alt=""
-          />
-          <img
-            className={cx("details-img-item")}
-            src="https://www.americanwhitewater.com/wp-content/uploads/the_best_rafting_in_the_yosemite_area.jpg"
-            alt=""
-          />
-          <img
-            className={cx("details-img-item")}
-            src="https://zrafting.com/wp-content/uploads/2022/02/Merced-Hero-2.jpg"
-            alt=""
           />
         </div>
-        <button className={cx("details-img-btn", "details-img-left-btn")}>
+        <button
+          id="details-img-left-btn"
+          className={cx("details-img-btn", "details-img-left-btn")}
+          onClick={handlePrevImg}
+        >
           <FontAwesomeIcon icon={faAngleLeft} />
         </button>
-        <button className={cx("details-img-btn", "details-img-right-btn")}>
+        <button
+          id="details-img-right-btn"
+          className={cx("details-img-btn", "details-img-right-btn")}
+          onClick={handleNextImg}
+        >
           <FontAwesomeIcon icon={faAngleRight} />
         </button>
       </div>

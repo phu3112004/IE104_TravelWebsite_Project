@@ -23,7 +23,7 @@ export const adventureData = [
       "https://images.seattletimes.com/wp-content/uploads/2023/07/07112023_2_164522.jpg?d=2040x1359",
   },
   {
-    name: "Đa môn thể thao",
+    name: "Đa thể thao",
     des: "Các chuyến phiêu lưu đa môn thể thao bao gồm việc tham gia vào nhiều hoạt động ngoài trời trong cùng một chuyến đi hoặc kỳ nghỉ. Những chuyến đi này thường kết hợp các hoạt động như đi bộ, đạp xe, chèo thuyền kayak, chèo thuyền vượt thác, và nhiều hoạt động khác. Người tham gia sẽ được trải nghiệm đa dạng các cảnh quan và môi trường, từ núi non và sông suối đến rừng rậm và bờ biển. Các chuyến phiêu lưu đa môn thể thao mang lại cảm giác thú vị, thử thách và cơ hội để khám phá nhiều hoạt động khác nhau trong khi thưởng thức thiên nhiên. Chúng rất lý tưởng cho những cá nhân hoặc nhóm yêu thích phiêu lưu muốn có một trải nghiệm ngoài trời sôi động và sâu sắc.",
     image:
       "https://www.tripsavvy.com/thmb/7r04fnqZYnjWUE6XKT6qMIuQ1tI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/people-kayaking-and-skiing-731742245-59753ebaaf5d3a00115a4129.jpg",
@@ -31,8 +31,8 @@ export const adventureData = [
       "https://bvhttdl.mediacdn.vn/291773308735864832/2024/4/25/images194305610m1-1714031811848-1714031812707781881220.jpg",
   },
   {
-    name: "Đi bộ đường dài",
-    des: "Đi bộ đường dài là hoạt động đi bộ trong môi trường tự nhiên, thường là trên các tuyến đường hoặc lối mòn. Đây là một hoạt động ngoài trời phổ biến, có thể từ những cuộc dạo chơi nhẹ nhàng đến những chuyến đi đầy thách thức qua địa hình gồ ghề. Những người đi bộ thường thích không khí trong lành, cảnh đẹp và rèn luyện thể chất mà việc đi bộ đường dài mang lại.",
+    name: "Leo núi",
+    des: "Leo núi là hoạt động đi bộ trong môi trường tự nhiên, thường là trên các tuyến đường hoặc lối mòn. Đây là một hoạt động ngoài trời phổ biến, có thể từ những cuộc dạo chơi nhẹ nhàng đến những chuyến đi đầy thách thức qua địa hình gồ ghề. Những người đi bộ thường thích không khí trong lành, cảnh đẹp và rèn luyện thể chất mà việc đi bộ đường dài mang lại.",
     image:
       "https://cdn.britannica.com/94/125794-050-FB09B3F4/Hikers-Gore-Range-Mountains-Denver.jpg",
     slide:
