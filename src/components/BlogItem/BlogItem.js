@@ -28,11 +28,11 @@ function BlogItem({ start, limit }) {
     fetchData();
   }, [start, limit]);
   if (loading) {
-    return <div>Loading...</div>;
+    return <div>Đang tải...</div>;
   }
 
   if (error) {
-    return <div>Error: {error}</div>;
+    return <div>Lỗi: {error}</div>;
   }
   return (
     <>
@@ -47,7 +47,7 @@ function BlogItem({ start, limit }) {
             <p className={cx("blog-item-title")}>{item.title}</p>
           </div>
           <p>
-            By {item.author} at {item.date}
+            Đăng bởi {item.author} lúc {item.date}
           </p>
         </Link>
       ))}

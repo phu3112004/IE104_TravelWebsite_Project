@@ -1,0 +1,34 @@
+.blog-content-card{
+    width: 100% ;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 cột */
+    gap: 20px;
+}
+.blog-item{
+    display: flex;
+    height: 30vh;
+    padding: 16px;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+.blog-item-content{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    & > h2{
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 16px;
+    }
+    
+}
+.blog-item-image{
+    width: 40%;
+    height: auto;
+    & > img{
+        width: 100%;
+        height: 100%;
+    }
+}
