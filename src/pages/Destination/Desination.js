@@ -1,5 +1,9 @@
+import React from "react";
+import { countryData } from "../../config/data";
+import SelectItem from "../../components/SelectItem/SelectItem";
+
 function Destination() {
-  return <h1>Destination</h1>;
-} 
+  return <SelectItem data={countryData} title="ĐIỂM ĐẾN" type="destination" />;
+}
 
 export default Destination;
