@@ -21,19 +21,20 @@
   border: none;
   padding: 4px 8px;
   border-radius: 4px;
-}
-.blog-nav-item.active {
-  background-color: #cf3333;
-  color: white;
-}
-.blog-nav-item:hover {
-  color: #cf3333;
-}
-.blog-nav-item:first-child {
-  font-size: 60px;
-}
-.blog-nav-item:first-child:hover {
-  color: #030a30;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  &.active {
+    background-color: #cf3333;
+    color: white;
+  }
+  &:not(.active):hover {
+    color: #cf3333;
+  }
+  &:first-child {
+    font-size: 60px;
+  }
+  &:first-child:hover {
+    color: #030a30;
+  }
 }
 .blog-content {
   display: inline-flex;
