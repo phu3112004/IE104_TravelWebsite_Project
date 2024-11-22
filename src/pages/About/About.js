@@ -47,7 +47,7 @@ function About() {
             </p>
             <a href="#about-us">Về chúng tôi</a>
             <a href="#our-stories">Câu chuyện của chúng tôi</a>
-            <a href="#why-2pm&">Tại sao chọn 2PM&?</a>
+            <a href="#why-NPQ">Tại sao chọn NPQ?</a>
             <a href="#adwards">Giải thưởng</a>
             <a href="#work-with-us">Làm việc với chúng tôi</a>
           </div>
@@ -116,11 +116,11 @@ function About() {
           </div>
         </div>
 
-        <div id="why-2pm&" className={cx("about-section")}>
-          <h2 className={cx("about-section-title")}>Tại sao chọn 2PM&?</h2>
+        <div id="why-NPQ" className={cx("about-section")}>
+          <h2 className={cx("about-section-title")}>Tại sao chọn NPQ?</h2>
           <div className={cx("about-section-content")}>
             <p>
-              Anywhere We Roam được ra đời từ mong muốn chia sẻ trải nghiệm của
+              NPQ Travel Agency được ra đời từ mong muốn chia sẻ trải nghiệm của
               chúng tôi trên toàn cầu.
             </p>
             <div className={cx("about-section-content-img")}>
