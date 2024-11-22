@@ -9,14 +9,14 @@ export const countryData = [
   {
     location: "Trung Quốc",
     image:
-      "https://thaiantravel.com/wp-content/uploads/2024/06/dia-diem-du-lich-bac-kinh-trung-quoc-tu-cam-thanh-thaiantravel-2-51eee73d-3c9b-4352-891f-dd8521eba8ea-1.jpg",
+      "https://i2.ex-cdn.com/crystalbay.com/files/content/2024/10/17/xin-visa-trung-quoc-co-can-chung-minh-tai-chinh-khong-1601.jpg",
     imageBonus:
       "https://kimlientravel.com.vn/upload/image/tour-trung-quoc/du-lich-trung-quoc%20(6).jpg",
   },
   {
     location: "Hàn Quốc",
     image:
-      "https://tptravel.com.vn/mediacenter/media/images/1850/news/ava/s900_0/thiet-ke-chua-co-ten-1727165803.jpg",
+      "https://ik.imagekit.io/tvlk/blog/2022/06/kinh-nghiem-du-lich-han-quoc-tu-tuc-1.jpg?tr=c-at_max?tr=c-at_max",
     imageBonus:
       "https://tptravel.com.vn/mediacenter/media/images/1850/news/ava/s900_0/image-nhung-dieu-can-luu-y-khi-den-tham-nha-nguoi-han-quoc-de-khong-that-le-164904811987272-1713753253.png",
   },
@@ -37,7 +37,7 @@ export const countryData = [
   {
     location: "Hoa Kỳ",
     image:
-      "https://www.quocanh.edu.vn/uploads/files/2023/08/04/van-hoa-my-1.jpg",
+      "https://assets.editorial.aetnd.com/uploads/2009/12/topic-statue-of-liberty-gettyimages-960610006-feature.jpg",
     imageBonus:
       "https://truyenhinhthanhhoa.qltns.mediacdn.vn/thumb_w/640/dataimages/202205/original/resize_images5754453_le_hoi_cinco_de_mayo.jpg",
   },
