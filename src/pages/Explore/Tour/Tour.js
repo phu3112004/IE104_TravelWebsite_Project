@@ -161,7 +161,7 @@ function Tour() {
             className={cx("tours-filter-header")}
             onClick={() => toggleDropdown("adventure-level")}
           >
-            ADVENTURE LEVEL <FontAwesomeIcon icon={faChevronDown} />
+            MỨC ĐỘ <FontAwesomeIcon icon={faChevronDown} />
           </button>
           <div id="adventure-level" className={cx("tours-filter-content")}>
             <input

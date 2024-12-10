@@ -11,7 +11,7 @@ function About() {
     <div className={cx("about-container")}>
       <div className={cx("about-img")}>
         <img
-          src="https://yt3.googleusercontent.com/Wiae-RUD__56zcehfaIEPvO-hecPFk-DJ_3LjTMMrSvkJv5xSLo94qbxNNVPRi4IZ_yjBr4ELg=s900-c-k-c0x00ffffff-no-rj"
+          src="https://i.ex-cdn.com/vntravellive.com/files/maidp/2023/09/13/5319-du-lich-mao-hiem--xu-huong-thu-thach-gioi-han-cua-ban-than-155114.jpg"
           alt="about"
         />
       </div>
